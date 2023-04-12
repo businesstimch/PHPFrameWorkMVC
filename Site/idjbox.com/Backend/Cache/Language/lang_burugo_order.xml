@@ -1,0 +1,120 @@
+<Lang>
+	<burugo_order>
+		<en>
+			<check_login><![CDATA[Your page has been expired. Please refresh and try again.]]></check_login>
+			<no_order_yet><![CDATA[No Orders placed]]></no_order_yet>
+			<orderstatus_businessname><![CDATA[Business Name]]></orderstatus_businessname>
+			<orderstatus_ordernumber><![CDATA[Order Number]]></orderstatus_ordernumber>
+			<orderstatus_paid><![CDATA[Paid]]></orderstatus_paid>
+			<orderstatus_reservtime><![CDATA[Service Time]]></orderstatus_reservtime>
+			<orderstatus_status><![CDATA[Status]]></orderstatus_status>
+			<orderstatus_time><![CDATA[When]]></orderstatus_time>
+			<orderstatus_type><![CDATA[Type]]></orderstatus_type>
+			<order_type_1><![CDATA[Reservation]]></order_type_1>
+			<order_type_2><![CDATA[PICK UP]]></order_type_2>
+			<order_type_3><![CDATA[Delivery]]></order_type_3>
+			<search_status><![CDATA[Status]]></search_status>
+			<search_store><![CDATA[Search Store]]></search_store>
+			<search_type><![CDATA[Order Type]]></search_type>
+			<title><![CDATA[Your Orders]]></title>
+			<txt_item_list><![CDATA[Item List]]></txt_item_list>
+			<txt_memo><![CDATA[Memo]]></txt_memo>
+			<txt_pickup_time><![CDATA[Pickup Time]]></txt_pickup_time>
+			<txt_resv_time><![CDATA[Reserved Time]]></txt_resv_time>
+			<txt_total_paid><![CDATA[Total Paid]]></txt_total_paid>
+		</en>
+		<es>
+			<check_login><![CDATA[Su página ha sido vencido. Por favor, recargue la página e inténtelo de nuevo.]]></check_login>
+			<no_order_yet><![CDATA[No hay pedidos realizados]]></no_order_yet>
+			<orderstatus_businessname><![CDATA[公司名稱]]></orderstatus_businessname>
+			<orderstatus_ordernumber><![CDATA[Número del pedido]]></orderstatus_ordernumber>
+			<orderstatus_paid><![CDATA[pagado]]></orderstatus_paid>
+			<orderstatus_reservtime><![CDATA[Tiempo de Servicio]]></orderstatus_reservtime>
+			<orderstatus_status><![CDATA[estado]]></orderstatus_status>
+			<orderstatus_time><![CDATA[El tiempo de los pedidos]]></orderstatus_time>
+			<orderstatus_type><![CDATA[tipo]]></orderstatus_type>
+			<order_type_1><![CDATA[reserva]]></order_type_1>
+			<order_type_2><![CDATA[PICK UP]]></order_type_2>
+			<order_type_3><![CDATA[entrega]]></order_type_3>
+			<search_status><![CDATA[Status]]></search_status>
+			<search_store><![CDATA[Buscar tienda]]></search_store>
+			<search_type><![CDATA[Tipo de Orden]]></search_type>
+			<title><![CDATA[Sus órdenes]]></title>
+			<txt_item_list><![CDATA[Item List]]></txt_item_list>
+			<txt_memo><![CDATA[Memo]]></txt_memo>
+			<txt_pickup_time><![CDATA[Pickup Time]]></txt_pickup_time>
+			<txt_resv_time><![CDATA[Reserved Time]]></txt_resv_time>
+			<txt_total_paid><![CDATA[Total Paid]]></txt_total_paid>
+		</es>
+		<ko>
+			<check_login><![CDATA[새로고침 후 다시 로그인해주세요]]></check_login>
+			<no_order_yet><![CDATA[입력된 주문이 없습니다]]></no_order_yet>
+			<orderstatus_businessname><![CDATA[회사/비지니스명]]></orderstatus_businessname>
+			<orderstatus_ordernumber><![CDATA[주문 번호]]></orderstatus_ordernumber>
+			<orderstatus_paid><![CDATA[지불 완료]]></orderstatus_paid>
+			<orderstatus_reservtime><![CDATA[서비스 시간]]></orderstatus_reservtime>
+			<orderstatus_status><![CDATA[상태]]></orderstatus_status>
+			<orderstatus_time><![CDATA[주문 시간]]></orderstatus_time>
+			<orderstatus_type><![CDATA[주문 종류]]></orderstatus_type>
+			<order_type_1><![CDATA[예약]]></order_type_1>
+			<order_type_2><![CDATA[픽업]]></order_type_2>
+			<order_type_3><![CDATA[배달/배송]]></order_type_3>
+			<search_status><![CDATA[상태]]></search_status>
+			<search_store><![CDATA[업소 찾기]]></search_store>
+			<search_type><![CDATA[주문 종류]]></search_type>
+			<title><![CDATA[예약/주문내용]]></title>
+			<txt_item_list><![CDATA[아이템]]></txt_item_list>
+			<txt_memo><![CDATA[메모]]></txt_memo>
+			<txt_pickup_time><![CDATA[픽업 시각]]></txt_pickup_time>
+			<txt_resv_time><![CDATA[예약시각:]]></txt_resv_time>
+			<txt_total_paid><![CDATA[지불금액]]></txt_total_paid>
+		</ko>
+		<jp>
+			<check_login><![CDATA[リロード後、再びログインしてください。]]></check_login>
+			<no_order_yet><![CDATA[まだ入ってきた注文がありません.
+]]></no_order_yet>
+			<orderstatus_businessname><![CDATA[事業団体名]]></orderstatus_businessname>
+			<orderstatus_ordernumber><![CDATA[注文番号]]></orderstatus_ordernumber>
+			<orderstatus_paid><![CDATA[支払い完了]]></orderstatus_paid>
+			<orderstatus_reservtime><![CDATA[サービス時間]]></orderstatus_reservtime>
+			<orderstatus_status><![CDATA[注文内訳]]></orderstatus_status>
+			<orderstatus_time><![CDATA[注文時間]]></orderstatus_time>
+			<orderstatus_type><![CDATA[注文種類]]></orderstatus_type>
+			<order_type_1><![CDATA[予約]]></order_type_1>
+			<order_type_2><![CDATA[ピックアップ]]></order_type_2>
+			<order_type_3><![CDATA[配送]]></order_type_3>
+			<search_status><![CDATA[注文内訳]]></search_status>
+			<search_store><![CDATA[店探し]]></search_store>
+			<search_type><![CDATA[注文種類]]></search_type>
+			<title><![CDATA[注文内容]]></title>
+			<txt_item_list><![CDATA[Item List]]></txt_item_list>
+			<txt_memo><![CDATA[Memo]]></txt_memo>
+			<txt_pickup_time><![CDATA[Pickup Time]]></txt_pickup_time>
+			<txt_resv_time><![CDATA[Reserved Time]]></txt_resv_time>
+			<txt_total_paid><![CDATA[Total Paid]]></txt_total_paid>
+		</jp>
+		<cn>
+			<check_login><![CDATA[重裝後，請重新登錄。]]></check_login>
+			<no_order_yet><![CDATA[沒有訂單放在]]></no_order_yet>
+			<orderstatus_businessname><![CDATA[公司名稱]]></orderstatus_businessname>
+			<orderstatus_ordernumber><![CDATA[订单号码]]></orderstatus_ordernumber>
+			<orderstatus_paid><![CDATA[支付]]></orderstatus_paid>
+			<orderstatus_reservtime><![CDATA[服務時間]]></orderstatus_reservtime>
+			<orderstatus_status><![CDATA[狀態]]></orderstatus_status>
+			<orderstatus_time><![CDATA[訂購時間]]></orderstatus_time>
+			<orderstatus_type><![CDATA[訂單類型]]></orderstatus_type>
+			<order_type_1><![CDATA[預約]]></order_type_1>
+			<order_type_2><![CDATA[PICK UP]]></order_type_2>
+			<order_type_3><![CDATA[交貨]]></order_type_3>
+			<search_status><![CDATA[狀態]]></search_status>
+			<search_store><![CDATA[搜索店鋪]]></search_store>
+			<search_type><![CDATA[訂單類型]]></search_type>
+			<title><![CDATA[順序]]></title>
+			<txt_item_list><![CDATA[Item List]]></txt_item_list>
+			<txt_memo><![CDATA[Memo]]></txt_memo>
+			<txt_pickup_time><![CDATA[Pickup Time]]></txt_pickup_time>
+			<txt_resv_time><![CDATA[Reserved Time]]></txt_resv_time>
+			<txt_total_paid><![CDATA[Total Paid]]></txt_total_paid>
+		</cn>
+	</burugo_order>
+</Lang>

@@ -1,0 +1,39 @@
+<Lang>
+	<ceo_upgrade>
+		<en>
+			<card_number><![CDATA[Card Number]]></card_number>
+			<exp_date><![CDATA[Expiration Date]]></exp_date>
+			<name_on_card><![CDATA[Name on Card]]></name_on_card>
+			<select_payment><![CDATA[Select Payment Type]]></select_payment>
+			<title><![CDATA[Upgrade Premium]]></title>
+		</en>
+		<es>
+			<card_number><![CDATA[Card Number]]></card_number>
+			<exp_date><![CDATA[Expiration Date]]></exp_date>
+			<name_on_card><![CDATA[Name on Card]]></name_on_card>
+			<select_payment><![CDATA[Select Payment Type]]></select_payment>
+			<title><![CDATA[Upgrade Premium]]></title>
+		</es>
+		<ko>
+			<card_number><![CDATA[카드　번호]]></card_number>
+			<exp_date><![CDATA[Expiration Date（유효　기간）]]></exp_date>
+			<name_on_card><![CDATA[Name on Card]]></name_on_card>
+			<select_payment><![CDATA[Select Payment Type]]></select_payment>
+			<title><![CDATA[Upgrade Premium]]></title>
+		</ko>
+		<jp>
+			<card_number><![CDATA[カード番号]]></card_number>
+			<exp_date><![CDATA[Expiration Date（有効　期間）]]></exp_date>
+			<name_on_card><![CDATA[Name on Card]]></name_on_card>
+			<select_payment><![CDATA[Select Payment Type]]></select_payment>
+			<title><![CDATA[Upgrade Premium]]></title>
+		</jp>
+		<cn>
+			<card_number><![CDATA[Card Number]]></card_number>
+			<exp_date><![CDATA[Expiration Date]]></exp_date>
+			<name_on_card><![CDATA[Name on Card]]></name_on_card>
+			<select_payment><![CDATA[Select Payment Type]]></select_payment>
+			<title><![CDATA[Upgrade Premium]]></title>
+		</cn>
+	</ceo_upgrade>
+</Lang>

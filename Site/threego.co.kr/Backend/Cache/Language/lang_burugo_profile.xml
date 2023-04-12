@@ -1,0 +1,159 @@
+<Lang>
+	<burugo_profile>
+		<en>
+			<about_you><![CDATA[Your Information]]></about_you>
+			<about_you_desc><![CDATA[Please tell us about yourself.]]></about_you_desc>
+			<businessName><![CDATA[Business Name]]></businessName>
+			<chck_lastname><![CDATA[Last name is required]]></chck_lastname>
+			<check_email><![CDATA[Invalid format of Email]]></check_email>
+			<check_firstname><![CDATA[First name is required]]></check_firstname>
+			<check_invalid_phone><![CDATA[Invalid format of phone number]]></check_invalid_phone>
+			<check_lastname><![CDATA[Last name is required]]></check_lastname>
+			<current_password><![CDATA[Current Password]]></current_password>
+			<editProfile><![CDATA[Edit Profile]]></editProfile>
+			<email><![CDATA[Email]]></email>
+			<firstname><![CDATA[First Name]]></firstname>
+			<lastname><![CDATA[Last Name]]></lastname>
+			<Myprofile_Desc_LMenu><![CDATA[Edit your name, email, password, phone number, address]]></Myprofile_Desc_LMenu>
+			<Myprofile_LMenu><![CDATA[My Profile]]></Myprofile_LMenu>
+			<new_password><![CDATA[New Password]]></new_password>
+			<new_password_confirm><![CDATA[Confirm New Password]]></new_password_confirm>
+			<password><![CDATA[Your Password]]></password>
+			<password_desc><![CDATA[Do you want to change the current password?]]></password_desc>
+			<picture><![CDATA[Picture]]></picture>
+			<picture_desc><![CDATA[Upload or edit your profile picture.]]></picture_desc>
+			<picture_uploadBTN><![CDATA[Upload New Profile Picture]]></picture_uploadBTN>
+			<saveBTN><![CDATA[Save Changes]]></saveBTN>
+			<Settings_Desc_LMenu><![CDATA[Set your default delivery location & Settings etc]]></Settings_Desc_LMenu>
+			<Settings_LMenu><![CDATA[Delivery Address]]></Settings_LMenu>
+			<telephone><![CDATA[Phone]]></telephone>
+			<title><![CDATA[My Profile]]></title>
+			<YourOrder_Desc_LMenu><![CDATA[Current order status & order history]]></YourOrder_Desc_LMenu>
+			<YourOrder_LMenu><![CDATA[Your Order]]></YourOrder_LMenu>
+		</en>
+		<es>
+			<about_you><![CDATA[Sobre usted]]></about_you>
+			<about_you_desc><![CDATA[Por favor ingrese una breve información personal necesaria para sus pedidos.]]></about_you_desc>
+			<businessName><![CDATA[Nombre de su negocio]]></businessName>
+			<chck_lastname><![CDATA[Last name is required]]></chck_lastname>
+			<check_email><![CDATA[Invalid format of Email]]></check_email>
+			<check_firstname><![CDATA[First name is required]]></check_firstname>
+			<check_invalid_phone><![CDATA[Invalid format of phone number]]></check_invalid_phone>
+			<check_lastname><![CDATA[Last name is required]]></check_lastname>
+			<current_password><![CDATA[Contraseña Actual]]></current_password>
+			<editProfile><![CDATA[Editar Perfil]]></editProfile>
+			<email><![CDATA[Email]]></email>
+			<firstname><![CDATA[Primer Nombre]]></firstname>
+			<lastname><![CDATA[Apellido]]></lastname>
+			<Myprofile_Desc_LMenu><![CDATA[Cambiar Nombre, Correo Electrónico, Número de teléfono, y más]]></Myprofile_Desc_LMenu>
+			<Myprofile_LMenu><![CDATA[Mi página]]></Myprofile_LMenu>
+			<new_password><![CDATA[Contraseña Nueva]]></new_password>
+			<new_password_confirm><![CDATA[Vuelve a introducir la contraseña]]></new_password_confirm>
+			<password><![CDATA[Su Contraseña]]></password>
+			<password_desc><![CDATA[¿Quiere cambiar la contraseña?]]></password_desc>
+			<picture><![CDATA[Foto]]></picture>
+			<picture_desc><![CDATA[Subir una foto de perfil]]></picture_desc>
+			<picture_uploadBTN><![CDATA[Subir una foto]]></picture_uploadBTN>
+			<saveBTN><![CDATA[Guardar cambios]]></saveBTN>
+			<Settings_Desc_LMenu><![CDATA[Elegir la dirección de envío. Es posible elegir más de una direccion]]></Settings_Desc_LMenu>
+			<Settings_LMenu><![CDATA[Configuración de dirección]]></Settings_LMenu>
+			<telephone><![CDATA[teléfono]]></telephone>
+			<title><![CDATA[Mi Información]]></title>
+			<YourOrder_Desc_LMenu><![CDATA[Ver mis pedidos en tiempo real y historial de pedidos]]></YourOrder_Desc_LMenu>
+			<YourOrder_LMenu><![CDATA[Mis Pedidos]]></YourOrder_LMenu>
+		</es>
+		<ko>
+			<about_you><![CDATA[개인 정보]]></about_you>
+			<about_you_desc><![CDATA[주문시 필요한 간략한 신상정보를 알려주세요.]]></about_you_desc>
+			<businessName><![CDATA[사업체/비지니스명]]></businessName>
+			<chck_lastname><![CDATA[성(이름)을 입력해주세요]]></chck_lastname>
+			<check_email><![CDATA[이메일 형식이 잘못되었습니다]]></check_email>
+			<check_firstname><![CDATA[이름을 입력해주세요]]></check_firstname>
+			<check_invalid_phone><![CDATA[전화번호 형식이 틀렸습니다]]></check_invalid_phone>
+			<check_lastname><![CDATA[성(이름)을 입력해주세요]]></check_lastname>
+			<current_password><![CDATA[현재 비밀번호]]></current_password>
+			<editProfile><![CDATA[프로필 수정]]></editProfile>
+			<email><![CDATA[이메일]]></email>
+			<firstname><![CDATA[이름]]></firstname>
+			<lastname><![CDATA[성]]></lastname>
+			<Myprofile_Desc_LMenu><![CDATA[이름, 이메일, 비밀번호, 전화번호, 주소변경 등]]></Myprofile_Desc_LMenu>
+			<Myprofile_LMenu><![CDATA[나의 정보]]></Myprofile_LMenu>
+			<new_password><![CDATA[새로운 비밀번호]]></new_password>
+			<new_password_confirm><![CDATA[새로운 비밀번호 재입력]]></new_password_confirm>
+			<password><![CDATA[비밀 번호]]></password>
+			<password_desc><![CDATA[비밀번호 변경을 원하세요?]]></password_desc>
+			<picture><![CDATA[사진]]></picture>
+			<picture_desc><![CDATA[프로필 사진을 업로드 해주세요.]]></picture_desc>
+			<picture_uploadBTN><![CDATA[사진 업로드]]></picture_uploadBTN>
+			<saveBTN><![CDATA[개인정보 저장하기]]></saveBTN>
+			<Settings_Desc_LMenu><![CDATA[주문배송될 주소지정, 다수 주소지정 가능]]></Settings_Desc_LMenu>
+			<Settings_LMenu><![CDATA[배송주소 설정]]></Settings_LMenu>
+			<telephone><![CDATA[전화번호]]></telephone>
+			<title><![CDATA[나의 정보]]></title>
+			<YourOrder_Desc_LMenu><![CDATA[실시간 온라인 주문조회 및 현재까지 주문내역]]></YourOrder_Desc_LMenu>
+			<YourOrder_LMenu><![CDATA[주문 내역]]></YourOrder_LMenu>
+		</ko>
+		<jp>
+			<about_you><![CDATA[個人情報]]></about_you>
+			<about_you_desc><![CDATA[注文の時必要な短い身上情報をお知らせ下さい。]]></about_you_desc>
+			<businessName><![CDATA[会社/事業体名]]></businessName>
+			<chck_lastname><![CDATA[Last name is required]]></chck_lastname>
+			<check_email><![CDATA[Invalid format of Email]]></check_email>
+			<check_firstname><![CDATA[First name is required]]></check_firstname>
+			<check_invalid_phone><![CDATA[Invalid format of phone number]]></check_invalid_phone>
+			<check_lastname><![CDATA[Last name is required]]></check_lastname>
+			<current_password><![CDATA[現在のパスワード]]></current_password>
+			<editProfile><![CDATA[プロフィール修正]]></editProfile>
+			<email><![CDATA[メール]]></email>
+			<firstname><![CDATA[名前]]></firstname>
+			<lastname><![CDATA[苗字]]></lastname>
+			<Myprofile_Desc_LMenu><![CDATA[名前, メール, パスワード, 電話番号, 住所変更など]]></Myprofile_Desc_LMenu>
+			<Myprofile_LMenu><![CDATA[私の情報]]></Myprofile_LMenu>
+			<new_password><![CDATA[新しいパスワード]]></new_password>
+			<new_password_confirm><![CDATA[新しいパスワード再入力]]></new_password_confirm>
+			<password><![CDATA[パスワード]]></password>
+			<password_desc><![CDATA[パスワード変更をしたいですか?]]></password_desc>
+			<picture><![CDATA[写真]]></picture>
+			<picture_desc><![CDATA[プロフィール写真をアップロードしてください。]]></picture_desc>
+			<picture_uploadBTN><![CDATA[写真アップロード]]></picture_uploadBTN>
+			<saveBTN><![CDATA[個人情報保存する]]></saveBTN>
+			<Settings_Desc_LMenu><![CDATA[注文の時配送になる住所指定。 多数住所指定可能。]]></Settings_Desc_LMenu>
+			<Settings_LMenu><![CDATA[配送住所設定]]></Settings_LMenu>
+			<telephone><![CDATA[電話番号]]></telephone>
+			<title><![CDATA[私の情報]]></title>
+			<YourOrder_Desc_LMenu><![CDATA[リアルタイムオンライン注文問い合わせ及び現在までの注文内訳]]></YourOrder_Desc_LMenu>
+			<YourOrder_LMenu><![CDATA[注文内訳]]></YourOrder_LMenu>
+		</jp>
+		<cn>
+			<about_you><![CDATA[个人信息]]></about_you>
+			<about_you_desc><![CDATA[订单备注信息.]]></about_you_desc>
+			<businessName><![CDATA[会社/事业名]]></businessName>
+			<chck_lastname><![CDATA[Last name is required]]></chck_lastname>
+			<check_email><![CDATA[Invalid format of Email]]></check_email>
+			<check_firstname><![CDATA[First name is required]]></check_firstname>
+			<check_invalid_phone><![CDATA[Invalid format of phone number]]></check_invalid_phone>
+			<check_lastname><![CDATA[Last name is required]]></check_lastname>
+			<current_password><![CDATA[當前密碼]]></current_password>
+			<editProfile><![CDATA[编辑个人简介]]></editProfile>
+			<email><![CDATA[電子郵件]]></email>
+			<firstname><![CDATA[名字]]></firstname>
+			<lastname><![CDATA[姓]]></lastname>
+			<Myprofile_Desc_LMenu><![CDATA[名字，电子邮件，密码，电话号码，住所(地址) 变更]]></Myprofile_Desc_LMenu>
+			<Myprofile_LMenu><![CDATA[个人信息]]></Myprofile_LMenu>
+			<new_password><![CDATA[新密碼]]></new_password>
+			<new_password_confirm><![CDATA[请再次输入您的新密码]]></new_password_confirm>
+			<password><![CDATA[密码]]></password>
+			<password_desc><![CDATA[更改密码?]]></password_desc>
+			<picture><![CDATA[照片]]></picture>
+			<picture_desc><![CDATA[请上传个人头像.]]></picture_desc>
+			<picture_uploadBTN><![CDATA[上传照片]]></picture_uploadBTN>
+			<saveBTN><![CDATA[保存更改]]></saveBTN>
+			<Settings_Desc_LMenu><![CDATA[设定收货地址. 可设定多个地址]]></Settings_Desc_LMenu>
+			<Settings_LMenu><![CDATA[设定送货地址]]></Settings_LMenu>
+			<telephone><![CDATA[電話]]></telephone>
+			<title><![CDATA[个人信息]]></title>
+			<YourOrder_Desc_LMenu><![CDATA[实时订单详情／ 已买到的商品]]></YourOrder_Desc_LMenu>
+			<YourOrder_LMenu><![CDATA[采购订单]]></YourOrder_LMenu>
+		</cn>
+	</burugo_profile>
+</Lang>

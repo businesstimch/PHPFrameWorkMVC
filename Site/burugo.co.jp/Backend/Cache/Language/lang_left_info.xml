@@ -1,0 +1,34 @@
+<Lang>
+	<left_info>
+		<en>
+			<edit_profile><![CDATA[Edit Profile]]></edit_profile>
+			<menu_font><![CDATA[Verdana]]></menu_font>
+			<my_page><![CDATA[MY PAGES]]></my_page>
+			<order_status><![CDATA[Order Status]]></order_status>
+		</en>
+		<es>
+			<edit_profile><![CDATA[Editar Perfil]]></edit_profile>
+			<menu_font><![CDATA[Verdana]]></menu_font>
+			<my_page><![CDATA[Mi página]]></my_page>
+			<order_status><![CDATA[Order Status]]></order_status>
+		</es>
+		<ko>
+			<edit_profile><![CDATA[프로필 수정]]></edit_profile>
+			<menu_font><![CDATA[Verdana]]></menu_font>
+			<my_page><![CDATA[내페이지]]></my_page>
+			<order_status><![CDATA[주문 내역]]></order_status>
+		</ko>
+		<jp>
+			<edit_profile><![CDATA[プロフィール修正]]></edit_profile>
+			<menu_font><![CDATA[Verdana]]></menu_font>
+			<my_page><![CDATA[マイページ]]></my_page>
+			<order_status><![CDATA[注文内訳]]></order_status>
+		</jp>
+		<cn>
+			<edit_profile><![CDATA[编辑个人简介]]></edit_profile>
+			<menu_font><![CDATA[Verdana]]></menu_font>
+			<my_page><![CDATA[我的主页]]></my_page>
+			<order_status><![CDATA[采购订单]]></order_status>
+		</cn>
+	</left_info>
+</Lang>

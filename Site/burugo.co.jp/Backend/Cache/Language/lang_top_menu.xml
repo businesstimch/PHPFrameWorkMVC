@@ -1,0 +1,49 @@
+<Lang>
+	<top_menu>
+		<en>
+			<aboutUs><![CDATA[About Us]]></aboutUs>
+			<burugoHome><![CDATA[Burugo Home]]></burugoHome>
+			<ceoPage><![CDATA[Business Management Site]]></ceoPage>
+			<login><![CDATA[Log In]]></login>
+			<logout><![CDATA[Logout]]></logout>
+			<myAcc><![CDATA[My Account]]></myAcc>
+			<myPage><![CDATA[My Business Page]]></myPage>
+		</en>
+		<es>
+			<aboutUs><![CDATA[Quiénes somos]]></aboutUs>
+			<burugoHome><![CDATA[Burugo Casa]]></burugoHome>
+			<ceoPage><![CDATA[Negocios Gestión del Sitio]]></ceoPage>
+			<login><![CDATA[Iniciar la Sesión]]></login>
+			<logout><![CDATA[Finalizar la Sesión]]></logout>
+			<myAcc><![CDATA[Mi Cuenta]]></myAcc>
+			<myPage><![CDATA[Mi Página de Negocio]]></myPage>
+		</es>
+		<ko>
+			<aboutUs><![CDATA[부르고란?]]></aboutUs>
+			<burugoHome><![CDATA[부르고홈 바로가기]]></burugoHome>
+			<ceoPage><![CDATA[비지니스 관리 싸이트]]></ceoPage>
+			<login><![CDATA[로그인]]></login>
+			<logout><![CDATA[로그아웃]]></logout>
+			<myAcc><![CDATA[나의 계정]]></myAcc>
+			<myPage><![CDATA[나의 비지니스 페이지]]></myPage>
+		</ko>
+		<jp>
+			<aboutUs><![CDATA[Burugoとは？]]></aboutUs>
+			<burugoHome><![CDATA[Burugo ホムショートカット ]]></burugoHome>
+			<ceoPage><![CDATA[ビジネス管理サイト]]></ceoPage>
+			<login><![CDATA[ログイン]]></login>
+			<logout><![CDATA[ログアウト]]></logout>
+			<myAcc><![CDATA[マイアカウント]]></myAcc>
+			<myPage><![CDATA[マイビーズニスページ]]></myPage>
+		</jp>
+		<cn>
+			<aboutUs><![CDATA[About Us]]></aboutUs>
+			<burugoHome><![CDATA[Burugo  一键访问]]></burugoHome>
+			<ceoPage><![CDATA[商务专用网站]]></ceoPage>
+			<login><![CDATA[登录]]></login>
+			<logout><![CDATA[退出]]></logout>
+			<myAcc><![CDATA[My Account]]></myAcc>
+			<myPage><![CDATA[我的商业网页]]></myPage>
+		</cn>
+	</top_menu>
+</Lang>

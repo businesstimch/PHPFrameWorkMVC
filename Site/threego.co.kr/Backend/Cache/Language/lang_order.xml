@@ -1,0 +1,94 @@
+<Lang>
+	<order>
+		<en>
+			<order_status_1><![CDATA[Pending Order]]></order_status_1>
+			<order_status_2><![CDATA[Order Received/Processing]]></order_status_2>
+			<order_status_3><![CDATA[Canceled]]></order_status_3>
+			<order_status_4><![CDATA[Ready To Pickup]]></order_status_4>
+			<order_status_5><![CDATA[Out For Delivery]]></order_status_5>
+			<order_status_6><![CDATA[Completed]]></order_status_6>
+			<order_status_7><![CDATA[Refunded]]></order_status_7>
+			<order_status_8><![CDATA[Refunded]]></order_status_8>
+			<order_status_desc_1><![CDATA[]]></order_status_desc_1>
+			<order_status_desc_2><![CDATA[]]></order_status_desc_2>
+			<order_status_desc_3><![CDATA[]]></order_status_desc_3>
+			<order_status_desc_4><![CDATA[]]></order_status_desc_4>
+			<order_status_desc_5><![CDATA[]]></order_status_desc_5>
+			<order_status_desc_6><![CDATA[]]></order_status_desc_6>
+			<order_status_desc_7><![CDATA[]]></order_status_desc_7>
+			<order_status_desc_8><![CDATA[]]></order_status_desc_8>
+		</en>
+		<es>
+			<order_status_1><![CDATA[Orden Pendiente]]></order_status_1>
+			<order_status_2><![CDATA[Order Received/Processing]]></order_status_2>
+			<order_status_3><![CDATA[Processing Order]]></order_status_3>
+			<order_status_4><![CDATA[Ready To Pickup]]></order_status_4>
+			<order_status_5><![CDATA[Out For Delivery]]></order_status_5>
+			<order_status_6><![CDATA[Completed]]></order_status_6>
+			<order_status_7><![CDATA[Refunded]]></order_status_7>
+			<order_status_8><![CDATA[Refunded]]></order_status_8>
+			<order_status_desc_1><![CDATA[]]></order_status_desc_1>
+			<order_status_desc_2><![CDATA[]]></order_status_desc_2>
+			<order_status_desc_3><![CDATA[]]></order_status_desc_3>
+			<order_status_desc_4><![CDATA[]]></order_status_desc_4>
+			<order_status_desc_5><![CDATA[]]></order_status_desc_5>
+			<order_status_desc_6><![CDATA[]]></order_status_desc_6>
+			<order_status_desc_7><![CDATA[]]></order_status_desc_7>
+			<order_status_desc_8><![CDATA[]]></order_status_desc_8>
+		</es>
+		<ko>
+			<order_status_1><![CDATA[예약/주문 대기중]]></order_status_1>
+			<order_status_2><![CDATA[예약/주문 접수완료 및 처리중]]></order_status_2>
+			<order_status_3><![CDATA[예약/주문 취소]]></order_status_3>
+			<order_status_4><![CDATA[픽업 준비완료]]></order_status_4>
+			<order_status_5><![CDATA[배송출발]]></order_status_5>
+			<order_status_6><![CDATA[완료]]></order_status_6>
+			<order_status_7><![CDATA[환불 완료]]></order_status_7>
+			<order_status_8><![CDATA[환불 완료]]></order_status_8>
+			<order_status_desc_1><![CDATA[]]></order_status_desc_1>
+			<order_status_desc_2><![CDATA[]]></order_status_desc_2>
+			<order_status_desc_3><![CDATA[]]></order_status_desc_3>
+			<order_status_desc_4><![CDATA[]]></order_status_desc_4>
+			<order_status_desc_5><![CDATA[]]></order_status_desc_5>
+			<order_status_desc_6><![CDATA[]]></order_status_desc_6>
+			<order_status_desc_7><![CDATA[]]></order_status_desc_7>
+			<order_status_desc_8><![CDATA[]]></order_status_desc_8>
+		</ko>
+		<jp>
+			<order_status_1><![CDATA[Pending Order]]></order_status_1>
+			<order_status_2><![CDATA[Order Received/Processing]]></order_status_2>
+			<order_status_3><![CDATA[Processing Order]]></order_status_3>
+			<order_status_4><![CDATA[Ready To Pickup]]></order_status_4>
+			<order_status_5><![CDATA[Out For Delivery]]></order_status_5>
+			<order_status_6><![CDATA[Completed]]></order_status_6>
+			<order_status_7><![CDATA[Refunded]]></order_status_7>
+			<order_status_8><![CDATA[Refunded]]></order_status_8>
+			<order_status_desc_1><![CDATA[]]></order_status_desc_1>
+			<order_status_desc_2><![CDATA[]]></order_status_desc_2>
+			<order_status_desc_3><![CDATA[]]></order_status_desc_3>
+			<order_status_desc_4><![CDATA[]]></order_status_desc_4>
+			<order_status_desc_5><![CDATA[]]></order_status_desc_5>
+			<order_status_desc_6><![CDATA[]]></order_status_desc_6>
+			<order_status_desc_7><![CDATA[]]></order_status_desc_7>
+			<order_status_desc_8><![CDATA[]]></order_status_desc_8>
+		</jp>
+		<cn>
+			<order_status_1><![CDATA[Pending Order]]></order_status_1>
+			<order_status_2><![CDATA[Order Received/Processing]]></order_status_2>
+			<order_status_3><![CDATA[Processing Order]]></order_status_3>
+			<order_status_4><![CDATA[Ready To Pickup]]></order_status_4>
+			<order_status_5><![CDATA[Out For Delivery]]></order_status_5>
+			<order_status_6><![CDATA[Completed]]></order_status_6>
+			<order_status_7><![CDATA[Refunded]]></order_status_7>
+			<order_status_8><![CDATA[Refunded]]></order_status_8>
+			<order_status_desc_1><![CDATA[]]></order_status_desc_1>
+			<order_status_desc_2><![CDATA[]]></order_status_desc_2>
+			<order_status_desc_3><![CDATA[]]></order_status_desc_3>
+			<order_status_desc_4><![CDATA[]]></order_status_desc_4>
+			<order_status_desc_5><![CDATA[]]></order_status_desc_5>
+			<order_status_desc_6><![CDATA[]]></order_status_desc_6>
+			<order_status_desc_7><![CDATA[]]></order_status_desc_7>
+			<order_status_desc_8><![CDATA[]]></order_status_desc_8>
+		</cn>
+	</order>
+</Lang>

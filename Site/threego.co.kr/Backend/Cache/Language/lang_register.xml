@@ -1,0 +1,1240 @@
+<Lang>
+	<register>
+		<en>
+			<activate_fail_body><![CDATA[<b>Sorry,</b><br />
+                    We could not find your information from our data.<br />
+                    If you already registered and not be able to log in please contact us at <a href="/support/">support team</a>.]]></activate_fail_body>
+			<activate_fail_title><![CDATA[Your account already had been activated or not exist.]]></activate_fail_title>
+			<activate_succ_body><![CDATA[<b>Thank you for your activation.</b><br />
+                    Now you can login with your credential.<br />
+		    If you have any other question please contact us at <a href="/support/">support team</a>.]]></activate_succ_body>
+			<activate_succ_title><![CDATA[Your account has been activated]]></activate_succ_title>
+			<CapD_1><![CDATA[Please input your information to become a Burugo member.]]></CapD_1>
+			<CapH_1><![CDATA[Burugo Registration]]></CapH_1>
+			<check_box_req><![CDATA[Please check this box]]></check_box_req>
+			<code_req><![CDATA[Please type code on the picture]]></code_req>
+			<email_not_valid><![CDATA[This is not a valid email address.]]></email_not_valid>
+			<email_req><![CDATA[Email is required.]]></email_req>
+			<email_taken><![CDATA[This email address is already taken.]]></email_taken>
+			<feature><![CDATA[Burugo Features]]></feature>
+			<feature_1_d><![CDATA[Realtime order/review management system]]></feature_1_d>
+			<feature_1_h><![CDATA[1. Fast and Convenient]]></feature_1_h>
+			<feature_2_d><![CDATA[Simple order process]]></feature_2_d>
+			<feature_2_h><![CDATA[2. Easy to order and confirm]]></feature_2_h>
+			<feature_3_d><![CDATA[Nice and Fast delivery service]]></feature_3_d>
+			<feature_3_h><![CDATA[3. Trustable Delivery Service]]></feature_3_h>
+			<feature_desc><![CDATA[You will have premium benefits for your business!]]></feature_desc>
+			<feature_join_d><![CDATA[We Gurantee That You Will Never Regret.]]></feature_join_d>
+			<feature_join_h><![CDATA[Join Burugo Today!!]]></feature_join_h>
+			<Field_AgreeAll><![CDATA[By creating an account, you are agreeing that you have read and agree <span class="showTermCond">Privacy Policy</span> and <span class="showTermCond">Burugo User Agreement</span>.]]></Field_AgreeAll>
+			<Field_BName><![CDATA[Business Name]]></Field_BName>
+			<Field_Captcha><![CDATA[Enter the code below]]></Field_Captcha>
+			<Field_FName><![CDATA[First Name]]></Field_FName>
+			<Field_HowHear><![CDATA[How did you hear about us?]]></Field_HowHear>
+			<Field_HowHear_0><![CDATA[Please Select ...]]></Field_HowHear_0>
+			<Field_HowHear_1><![CDATA[From TV Advertisement]]></Field_HowHear_1>
+			<Field_HowHear_2><![CDATA[From Search Engine AD]]></Field_HowHear_2>
+			<Field_HowHear_3><![CDATA[From Search Engine(Google, Yahoo, Bing, etc)]]></Field_HowHear_3>
+			<Field_HowHear_4><![CDATA[From FOOD Magazines]]></Field_HowHear_4>
+			<Field_HowHear_5><![CDATA[From Friends]]></Field_HowHear_5>
+			<Field_HowHear_6><![CDATA[From Colleagues]]></Field_HowHear_6>
+			<Field_HowHear_7><![CDATA[I don't know, I came from Mars]]></Field_HowHear_7>
+			<Field_H_1><![CDATA[Your Login Information]]></Field_H_1>
+			<Field_H_2><![CDATA[About You]]></Field_H_2>
+			<Field_LName><![CDATA[Last Name]]></Field_LName>
+			<Field_Login><![CDATA[Login ID (Email Address)]]></Field_Login>
+			<Field_Pass><![CDATA[Password]]></Field_Pass>
+			<Field_PassC><![CDATA[Confirm Password]]></Field_PassC>
+			<field_req><![CDATA[This field is required.]]></field_req>
+			<Field_SendEmail><![CDATA[We will send you a confirmation email. Please make sure that it is valid address.]]></Field_SendEmail>
+			<pass_alphabet_req><![CDATA[Must contain at least one alphabet(A~Z,a~z)]]></pass_alphabet_req>
+			<pass_min_5><![CDATA[Minimum length is 5 characters]]></pass_min_5>
+			<pass_not_match><![CDATA[Password is not matched]]></pass_not_match>
+			<pass_num_req><![CDATA[Must contain at least one number(0~9)]]></pass_num_req>
+			<register_succ_body><![CDATA[<b>Thank you for your registeration.</b><br />
+                    We sent a confirmation email, please confirm the email to access our service.<br />
+                    If you are not able to find the confirmation email in your email folder, please check your spam/junk folder for just in case, otherwise please contact our <a href="/support/">support team</a>.]]></register_succ_body>
+			<register_succ_title><![CDATA[Your account has been created]]></register_succ_title>
+			<termsAndCondition><![CDATA[
+			<h2>Privacy Agreement</h2>
+			<p>burugo, Inc. ('burugo') collects certain information through its websites and mobile sites, located at www.burugo.com. Your privacy is important to us and this Privacy Policy lays out our policies and procedures surrounding the collection and handling of such information. This Privacy Policy applies only to the Services. It does not apply to any restaurant sites, other third party services linked to burugo Services or offline activities related to burugo services.</p>
+			<h3>1. Information burugo Collects</h3>
+				<p>burugo may collect the following information from users of our Services: first name, last name, street address, city, state, zip code, cross streets, phone number, e-mail address, Services-specific display name, GPS location, electronic signature and credit card information (collectively, 'Personally Identifiable Information' or 'PII'). burugo is not intended for use by children under the age of 13 and burugo does not knowingly collect PII from children under the age of 13. Use of Sites services requires that you register and/or create an account ('Account'). In addition to the PII set forth above, burugo may collect information regarding Account holders' past burugo orders, favorite restaurants, customer service inquiries, service/restaurant reviews and certain social networking preferences relating to the Sites (e.g. pages or entities you like, recommend or follow).</p>
+				
+				<p>In addition, burugo may collect information regarding burugo account holders' current and past burugo orders, gratuity amounts, favorite restaurants, customer service inquiries, service/restaurant reviews and certain social networking preferences.</p>
+				
+				<p>burugo also uses web analytics software to track and analyze traffic for its Services in connection with burugo's advertising and promotion of burugo services. burugo also aggregates certain information collected by the Applications including, but not limited to, certain order data, gratuity information, delivery locations, delivery driver mileage, and delivery driver location. burugo may publish these statistics or share them with third parties without including PII.</p>
+				
+				<p>burugo may collect additional PII in connection with The Daily Grub blog submissions including professional title, business/personal website, social networking handle/username and the author's photograph.
+			
+			<h3>2. burugo's Use Of Collected Information</h3>
+				burugo uses PII to create users' burugo accounts, to communicate with users (directly and through restaurants and delivery drivers) about burugo services, to offer users additional services, promotions and special offers and to charge for purchases and gratuities made through us. Users may opt to allow us to store certain PII used to create users' burugo accounts, including, but not limited to, credit card information. burugo uses certain stored PII to customize future order processing for you. You may request that burugo cease storing certain PII at any time, but you might not be able to take advantage of certain customized features. Users may affirmatively opt-out of receiving promotional communications from burugo by visiting http://www.burugo.com and providing burugo with their e-mail address via the opt-out link. burugo may also use PII to enforce burugo terms of use and service.
+				
+				burugo uses PII submitted by authors of The Daily Grub blog content by publishing that information on The Daily Grub, and as otherwise agreed by burugo and submitting author. By submitting PII to burugo in connection with Daily Grub blog content, the author agrees to burugo's publication of that PII, and any other PII.
+				
+				burugo uses cookies to remember users on the Sites and to enhance users' experience on the Sites. For example, when users with burugo accounts return to the Sites, cookies identify those users and allow the Sites to provide certain user-specific information such as burugo account information, past orders, favorite restaurants and user restaurant reviews.
+				
+				burugo does not sell the information it collects through the Services to third parties. burugo shares collected PII to third-party vendors and service providers with whom burugo works to provide application programming interfaces ('APIs') and other functions for the Services in connection with the delivery of burugo services. In addition, burugo shares users' burugo order content, special order instructions, first and last name, street address, e-mail address, telephone number and gratuity amounts with restaurants where users' orders are placed and delivery drivers, to the extent necessary to process and deliver those orders. burugo may also disclose PII to third parties such as attorneys, collection agencies, tribunals or law enforcement authorities pursuant to valid requests in connection with alleged violations of burugo terms of use and service or other alleged contract violations, infringement or similar harm to persons or property. 
+		
+			<h3>3. burugo's Protection of PII</h3>
+				<p>burugo uses reasonable security measures equal to or exceeding industry standard to protect PII from unauthorized access, destruction, use, modification and disclosure. Unfortunately, even with these measures,  burugo cannot guarantee the security of PII. By using the Services, you acknowledge and agree that burugo makes no such guarantee, and that you use the Services at your own risk.</p>
+			<h3>4. Accessing and Correcting Your PII</h3>
+				<p>Registered burugo account holders can access and change their own PII using the 'Edit' function on the our website. If you have questions regarding burugo's use or collection of your PII, please contact burugo's privacy officer at: burugoceo@gmail.com.</p>
+			<h3>5. Privacy Policy Amendments</h3>
+				<p>burugomay change this Privacy Policy at any time by posting a new version on this page or on a successor page. The new version will become effective on the posting date, which will be listed at the top of the page as the effective date.</p>
+		
+		<h2>Terms of Use</h2>
+			<p>burugo, Inc. ('burugo') operates its website and mobile site, located at www.burugo.com. Please read the following Terms of Use carefully before using burugo. For inquiries relating to any food orders, see our Return Policy. For information on advertising or promoting your restaurant through burugo, visit burugo Sign-up Form for Restaurants. </p>
+		
+			<h3>1. Applicability & Acceptance of These Terms of Use</h3>
+				<p>By viewing, using, accessing, browsing, or submitting any content or material on the Sites, you agree to these Terms of Use as a binding legal agreement between you and burugo, without limitation or qualification. The term 'you' or 'You' shall refer to any person or entity who views, uses, accesses, browses or submits any content or material to the Sites.</p>
+		
+				<p>If you do not agree to these Terms of Use, then you may not use the Sites. Burugo reserves the right to modify these Terms of Use at any time without prior notice.</p>
+		
+				<p>You agree that each visit you make to the Sites shall be subject to the then-current Terms of Use, and continued use of the Sites now or following modifications in these Terms of Use confirms that you have read, accepted, and agreed to be bound by such modifications.</p>
+		
+			<h3>User License</h3>
+				<p>1. burugo grants you permission (which may be revoked at any time for any reason or no reason) to view the Sites and to download, email, share via social networking or print individual pages from the Sites in accordance with these Terms of Use and solely for your own personal, non-commercial use, provided you do not remove any trademark, copyright or other notice contained on such pages. No other use is permitted. You may not, for example, incorporate the information, content, or other material in any database, compilation, archive or cache. You may not modify, copy, distribute, re-publish, transmit, display, perform, reproduce, publish, reuse, resell, license, create derivative works from, transfer, or sell any information, content, material, software, products or services obtained from the Sites, except as specifically noted above. Except as specifically authorized by burugo,  you may not deep-link to the Sites for any purpose or access the Sites manually or with any robot, spider, web crawler, extraction software, automated process or device to scrape, copy, or monitor any portion of the Sites or any information, content, or material on the Sites. burugo reserves all of its statutory and common law rights against any person or entity who violates this paragraph. You may not link or frame to any pages of the Sites or any content contained therein, whether in whole or in part, without prior written consent from burugo. You may like or follow burugo or share links to the Sites via social networking technology referenced on the Sites. Any rights not expressly granted herein are reserved.<p>
+				<p>2. User Conduct. You agree that your use of the Sites and/or services on the Sites is subject to all applicable local, state and federal laws and regulations. You also agree:</p>
+					- to comply with US law and local laws or rules regarding online conduct and acceptable material;<br />
+					- not to use the Sites or their services or submit content to the Sites if you are under the age of 13;<br />
+					- not to use the Sites to purchase alcohol unless you and the alcohol recipient are 21 or older and present a valid photo identification(s) verifying your age at the time of alcohol delivery;<br />
+					- not to access the Sites or services using a third-party's account/registration without the express consent of the account holder;<br />
+					- not to use the Sites for illegal purposes;<br />
+					- not to commit any acts of infringement on the Sites or with respect to content on the Sites;<br />
+					- not to use the Sites to engage in commercial activities apart from sanctioned use of burugo services;<br />
+					- not to copy any content, including, but not limited to restaurant menu content and third-party reviews, for republication in print or online;<br />
+					- not to create restaurant reviews or blog entries for or with any commercial or other purpose or intent that does not in good faith comport with the purpose or spirit of the Sites;<br />
+					- not to attempt to gain unauthorized access to other computer systems from or through the Sites;<br />
+					- not to interfere with another person's use and enjoyment of the Sites or another entity's use and enjoyment of the Sites;<br />
+					- not to upload or transmit viruses or other harmful, disruptive or destructive files; and/or<br />
+					- not to disrupt, interfere with, or otherwise harm or violate the security of the Sites, or any services, system resources, accounts, passwords, servers or networks connected to or accessible through the Sites or affiliated or linked sites (including those of our restaurant partners).<br />
+				<p>3. Harm from Commercial Use. You agree that the consequences of commercial use or re-publication of content or information from the Sites may be so serious and incalculable that monetary compensation may not be a sufficient or appropriate remedy and that burugo will be entitled to temporary and permanent injunctive relief to prohibit such use.
+			<h2>3. Site Content </h3>
+				<p>1. Nature of User Material. Some of the services offered by burugo on the Sites allow you and others to post, transmit, display, publish, distribute, or otherwise submit public user generated material including, but not limited to, restaurant reviews and blog entries, to the Sites (collectively, 'Submissions'). You agree not to create any Submission that: </p>
+					- contains vulgar, profane, abusive, hateful, or sexually explicit language, epithets or slurs, text in poor taste, inflammatory attacks of a personal, sexual, racial or religious nature, or expressions of bigotry, racism, discrimination or hate;<br />
+					- is defamatory, threatening, disparaging, inflammatory, false, misleading, deceptive, fraudulent, inaccurate, or unfair, contains gross exaggeration or unsubstantiated claims, violates the privacy rights or right of publicity of any third party, is unreasonably harmful or offensive to any individual or community, contains any actionable statement, or tends to mislead or reflect unfairly on any other person, business or entity;<br />
+					- unfairly interferes with any third party's uninterrupted use and enjoyment of the Sites;<br />
+					- advertises, disparages, promotes or offers to trade any goods or services in any manner that does not comport with the purpose or spirit of the Sites, including, but not limited to, negative reviews posted by competing restaurants or allegations of health code violations;<br />
+					- is intended primarily to promote a cause or movement, whether political, religious or other;<br />
+					- contains copyrighted content (copyrighted articles, illustrations, images, text, or other content) without the express permission of the owner of the copyrights in the content;<br />
+					- constitutes, promotes or encourages illegal acts, the violation of any right of any individual or entity, the violation of any local, state, national or international law, rule, guideline or regulation, or otherwise creates liability;<br />
+					- discloses any personal identifying information relating to or images of a minor without consent of a parent, guardian or educational supervisor;<br />
+					- infringes any copyright, trademark, patent, trade secret, or other intellectual property right;<br />
+					- contains viruses or other harmful, disruptive or destructive files;<br />
+					- harms or is inappropriate for minors to view;<br />
+					- links to any commercial or other website; and/or<br />
+					- is not otherwise in compliance with these Terms of Use.<br />
+		
+				<p>2. User Representations and Warranties. Each time you provide a Submission to the Sites, you represent and warrant that you have the right to provide such Submission, which means:</p>
+					- you are the author of the Submission, or<br />
+					- the Submission is not protected by copyright law, or<br />
+					- you have express permission from the copyright owner to use the Submission in connection with the Sites; and<br />
+					- you have the right to grant burugo the license set out in these Terms of Use;<br />
+					- for restaurant review Submission(s), you have had first-hand experience with the subject restaurant; and<br />
+					- your use of the Sites and Submission(s) do not violate these Terms of Use.<br />
+					
+				<p>3. User License Grant to burugo. You grant burugo, its affiliates, and related entities a royalty-free, perpetual, irrevocable, non-exclusive right and license to use, copy, modify, display, archive, store, publish, transmit, perform, distribute, reproduce and create derivative works from all Submissions you provide to burugo in any form, media, software or technology of any kind now existing or developed in the future. Without limiting the generality of the previous sentence, you authorize burugo to include the Submissions you provide in a searchable format that may be accessed by users of the Sites. You also grant burugo and its and related entities the right to use any Personally Identifiable Information (as that term is defined in burugo's Privacy Policy) included with any Submission in connection with the use, reproduction or distribution of such Submission. You also grant burugo the right to use the Submission and any facts, ideas, concepts, know-how or techniques ('Information') contained in any Submission or communication you send to burugo for any purpose whatsoever, including but not limited to, developing, manufacturing, promoting and/or marketing products and services. You grant all rights described in this paragraph in consideration of your use of the Sites, without compensation of any sort to you. burugo does not claim ownership of Submissions.</p>
+				<p>4. Disclaimer of Responsibility for Material. Submissions are not endorsed by burugo,  and do not represent the views of burugo or its parents, subsidiaries and affiliates, agents, officers or directors. You acknowledge and agree that burugo does not control all Submissions, and disclaims any responsibility for such Submissions. burugo specifically disclaims any duty, obligation, or responsibility, to review, screen, refuse to post, remove, or edit any Submissions. In addition, burugo does not represent or warrant that any other content or information accessible via the Sites is accurate, complete, reliable, current or error-free including the menus, pricing, hours of operation or parking accessibility available from its partner restaurants. Price, description, menu content, product/service availability, parking accessibility and restaurant information are subject to change without notice. Burugo assumes no responsibility or liability for any errors or omissions in the content of the Sites. While we does not charge you for using its services and does not add any additional charges (other than sales taxes and delivery) to the menu items it receives from its participating restaurants,  we offers some restaurant menus via other services. The price shown on the menu may include a markup by those services. </p>
+				<p>5. Review & Removal of Material. burugo reserves the right (but disclaims any duty, obligation or responsibility) to review, screen, refuse to post, remove in their entirety, or edit (at any time and without prior notice) any Submissions that we believes, in its absolute and sole discretion, may violate Sections 2(b), 3(a), or 3(b) above. You may contact us at burugoceo@gmail.com or burugo at burugo, Inc., 2855 rolling pin lane #211, Suwanee, ga 30024 to request removal of a Submission. However, burugodisclaims any duty, obligation or responsibility to comply with such request except as specifically outlined in this paragraph. burugo also reserves the right (but disclaims any duty, obligation, or responsibility) to refuse to post, remove in their entirety, or edit (at any time and without prior notice) any Submissions on the Sites for any reason or no reason whatsoever, in its absolute and sole discretion. The Digital Millennium Copyright Act of 1998 (the 'DMCA') provides recourse for copyright owners who believe that material appearing on the Internet infringes their rights under US copyright law. If you believe in good faith that Submissions posted by the Sites infringe your copyright, you (or your agent) may send burugo a notice requesting that the Submission(s) be removed from the Site(s), or access to it be blocked. The notice must include the following information: (a) a physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed; (b) identification of the copyrighted work claimed to have been infringed (or if multiple copyrighted works located on the Sites are covered by a single notification, a representative list of such works); (c) identification of the material that is claimed to be infringing or the subject of infringing activity, and information reasonably sufficient to allow burugo to locate the Submission(s) Sites; (d) the name, address, telephone number and email address (if available) of the complaining party; (e) a statement that the complaining party has a good faith belief that use of the Submission in the manner complained of is not authorized by the copyright owner, its agent or the law; and (f) a statement that the information in the notification is accurate and, under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed. If you believe in good faith that a notice of copyright infringement has been wrongly filed against you, the DMCA permits you to send us a counter-notice. Notices and counter-notices must meet the then-current statutory requirements imposed by the DMCA; see http://www.loc.gov/copyright for details. Notices and counter-notices with respect to the Sites should be sent to burugo, Inc., 2855 Rolling Pin Lane #211, Suwanee, GA 30024. burugo suggests that you consult your legal advisor before filing a notice or counter-notice. Also, be aware that there can be penalties for false claims under the DMCA. We reserve the right to terminate the account of any user who is a copyright infringer. </p>
+				<p>6. Proprietary Rights. You acknowledge and agree that the Sites contain proprietary information and content that is protected by intellectual property and other laws, and may not be used except as provided in these Terms of Use without advance, written permission of burugo. All Sites design, text, graphics, interfaces, and images (and the selection and arrangements thereof), and software, hypertext markup language ('HTML'), scripts, active server pages, and other content and software used in the Sites are reserved. </p>
+			<h3>4. Termination and Modifications to the Sites</h3>
+				<p>burugo reserves the right, in its sole and absolute discretion, to modify, suspend, or discontinue at any time, with or without notice, the Sites and/or services offered on or through the Sites (or any part thereof), including but not limited to the Sites' features, look and feel, and functional elements and related services.</p>
+			<h3>5. Indemnity</h3>
+				<p>You agree to indemnify and hold burugo, its parents, subsidiaries and affiliates, agents, officers, directors, or other employees harmless from any claim, demand, or damage (whether direct, indirect, or consequential), including reasonable attorneys' fees, made by anyone in connection with your use of the Sites, with your Submissions, with any alleged infringement of intellectual property or other right of any person or entity relating to the Sites, your violation of these Terms of Use, and any other acts or omissions relating to the Sites.</p>
+			<h3>6. Disclaimer of Warranties</h3>
+				<p>THE INFORMATION, CONTENT, PRODUCTS, SERVICES, AND MATERIALS AVAILABLE THROUGH THE SITES (WHETHER PROVIDED BY BURUGO, YOU, OTHER USERS OR OTHER AFFILIATES/THIRD PARTIES), INCLUDING WITHOUT LIMITATION, FOOD/BEVERAGE ORDERS, SUBMISSIONS, TEXT, PHOTOS, GRAPHICS, AUDIO FILES, VIDEO, AND LINKS, ARE PROVIDED 'AS IS' AND 'AS AVAILABLE' WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED.</p>
+		
+				<p>TO THE MAXIMUM EXTENT PERMITTED BY LAW, BURUGO DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NONINFRINGEMENT, FREEDOM FROM COMPUTER VIRUS, AND IMPLIED WARRANTIES ARISING FROM COURSE OF DEALING OR COURSE OF PERFORMANCE.</p>
+			<h3>7. Limitation of Liability</h3>
+				<p>IN NO EVENT SHALL BURUGO BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, OR ANY LOSS OR DAMAGES WHATSOEVER (EVEN IF GRUBHUB HAS BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), WHETHER IN AN ACTION UNDER CONTRACT, NEGLIGENCE, OR ANY OTHER THEORY, IN ANY MANNER ARISING OUT OF OR IN CONNECTION WITH THE USE, INABILITY TO USE, PERFORMANCE OF, OR SERVICES PROVIDED ON OR THROUGH THE SITES. BURUGO ASSUMES NO RESPONSIBILITY AND SHALL NOT BE LIABLE FOR ANY DAMAGES TO, OR VIRUSES THAT MAY INFECT, YOUR COMPUTER EQUIPMENT OR OTHER PROPERTY ON ACCOUNT OF YOUR ACCESS TO, USE OF, BROWSING OF, OR DOWNLOADING OF ANY MATERIAL FROM THE SITES. BURUGO ASSUMES NO RESPONSIBILITY OR LIABILITY IN ANY MANNER ARISING OUT OF OR IN CONNECTION WITH ANY INFORMATION, CONTENT, PRODUCTS, SERVICES, OR MATERIAL AVAILABLE ON OR THROUGH THE SITES, AS WELL AS ANY THIRD PARTY WEBSITE PAGES OR ADDITIONAL WEBSITES LINKED TO THIS SITE, FOR ANY ERROR, DEFAMATION, LIBEL, SLANDER, OMISSION, FALSEHOOD, OBSCENITY, PORNOGRAPHY, PROFANITY, DANGER, INACCURACY CONTAINED THEREIN OR HARM TO PERSON OR PROPERTY CAUSED THEREBY. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY. BECAUSE SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU. IN NO EVENT SHALL BURUGO'S TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES AND CAUSES OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO, NEGLIGENCE) OR OTHERWISE, EXCEED (A) THE AMOUNT PAID BY YOU TO GRUBHUB OR A RESTAURANT AFFILIATE, IF ANY, OR (B) $100 (WHICHEVER IS LESS).</p>
+		
+				<p>YOU AND BURUGO AGREE THAT THE WARRANTY DISCLAIMERS AND LIMITATIONS OF LIABILITY IN THESE TERMS OF USE ARE MATERIAL, BARGAINED-FOR BASES OF THIS AGREEMENT, AND THAT THEY HAVE BEEN TAKEN INTO ACCOUNT IN DETERMINING THE CONSIDERATION TO BE GIVENBY EACH PARTY UNDER THIS AGREEMENT AND IN THE DECISION BY EACH PARTY TO ENTER INTO THIS AGREEMENT. YOU AND BURUGO AGREE THAT THE WARRANTY DISCLAIMERS AND LIMITATIONS OF LIABILITY IN THESE TERMS OF USE ARE FAIR AND REASONABLE.</p>
+		
+				<p>IF YOU ARE DISSATISFIED WITH THE SITE OR DO NOT AGREE TO ANY PROVISIONS OF THESE TERMS OF USE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SITE, EXCEPT AS MAY BE PROVIDED FOR IN THIS SECTION 7.</p>
+			<h3>8. Your account, password, and security</h3>
+				<p>Use of Sites services requires that you register and/or create an account ('Account') or use the Sites as a guest. To register and create an Account, you must select an account designation and password and provide certain personal information. In consideration of the use of the Sites' services, you agree to: (a) provide true, accurate, current and complete information about yourself as prompted by the registration form, and (b) maintain and promptly update the personal information you provide to keep it true, accurate, current and complete. If you provide any information that is untrue, inaccurate, not current or incomplete, or burugo has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, burugo has the right to refuse any and all current or future use of the Sites (or any portion thereof).</p>
+		
+				<p>You are responsible for maintaining the confidentiality and security of your Account and password, and you are fully responsible for all activities that occur under your password or Account, and for any other actions taken in connection with the Account or password. You agree to (a) immediately notify burugo of any known or suspected unauthorized use(s) of your password or Account, or any known or suspected breach of security, including loss, theft, or unauthorized disclosure of your password or credit card information; and (b) ensure that you exit from your Account at the end of each session. burugo will not be liable for any injury, loss or damage of any kind arising from or relating to your failure to comply with (a) and (b) or for any acts or omissions by you or someone else using your Account and/or password.</p>
+			<h3>9. Links</h3>
+				<p>As a courtesy to you, the Sites may offer links to other websites. Some of these websites may be affiliated with burugo while others are not. burugo is not responsible for the contents of any website pages created and maintained by organizations independent of burugo. Visiting any such third-party website pages is at your own risk. burugo has no control of these third-party website pages, nor can it guarantee the accuracy, completeness, or timeliness of information in third-party website pages. Your use of such information is voluntary, and your reliance on such information should be made only after independent review. References to commercial products or services within any such third-party website pages do not constitute or imply an endorsement by burugo. By using the Sites you acknowledge that burugo is responsible neither for the availability of, nor the content located on or through any third-party website pages.</p>
+			<h3>10. Trademarks</h3>
+				<p>Burugo job®, burugo helper®, burugo friend®, burugo social®, Etreebus®, burugo.com Powered By burugo™ (word and design) are burugo’s trademarks. Such trademarks and other marks, logos, and names of burugo or the Sites, used on or in connection with the Sites may not be used in connection with any product or service that is not under burugo's ownership or control. Furthermore, such trademarks may not be used in any manner that is likely to cause confusion among customers or in any manner that disparages or discredits burugo. All other trademarks not owned by burugo (or its affiliates) that appear on the Sites are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by burugo or its affiliates.</p>
+			<h3>11. Consideration</h3>
+				<p>You acknowledge that these Terms of Use are supported by reasonable and valuable consideration, the receipt and adequacy of which are hereby acknowledged. Without limiting the foregoing, you acknowledge that such consideration includes, without limitation, your use of the Sites and receipt or use of data, content, products and/or services through the Sites, the possibility of our review, use or display of your Submission(s), and the possibility of publicity and promotion from our review, use or display of your user-generated content.</p>
+			<h3>12. Jurisdiction, Applicable Law, and Limitations</h3>
+				<p>This Site is created and controlled by burugo in the State of Georgia, U.S.A. You agree that these Terms of Use will be governed by and construed in accordance with the laws of the United States of America and the State of Georgia, without regard to its conflicts of law provisions. Use of the Sites is unauthorized in any jurisdiction that does not give effect to all provisions of these Terms of Use. GrubHub makes no claims or assurances that the Sites are appropriate or may be downloaded outside of the United States. You agree that all legal proceedings arising out of or in connection with these Terms of Use, or services available on or through the Sites must be filed in a federal or state court located in Atlanta, Georgia, within one year of the time in which the events giving rise to such claim began, or your claim will be forever waived and barred. You expressly submit to the exclusive jurisdiction of said courts and consent to extraterritorial service of process.</p>
+			<h3>General</h3>
+				<p>1. Enforceability. If any portion of these Terms of Use is found to be void, invalid or otherwise unenforceable, then that portion shall be deemed to be superseded by a valid, enforceable provision that matches the intent of the original provision as closely as possible. The remainder of these Terms of Use shall continue to be enforceable and valid according to terms contained herein.</p>
+				<p>2. Entire Agreement. Except as expressly provided in a particular 'Legal & Privacy' posting or other notice on particular pages of the Sites, these Terms of Use, which hereby incorporate by reference the terms of burugo's Privacy Policy, constitute the entire agreement between you and burugo, superseding all prior agreements regarding the Sites.</p>
+				<p>3. No Waiver. The failure of burugo to exercise or enforce any right or provision of the Terms of Use shall not constitute a waiver of said right or provision. Neither party hereto shall be deemed to be in default of any provision of the Terms of Use or for failure in performance resulting from acts or events beyond the reasonable control of such party and arising without its fault or negligence, including, but not be limited to, acts of God, civil or military authority, interruption of electric or telecommunication services, civil disturbances, acts of war or terrorists, strikes, fires, floods or other catastrophes.</p>
+				<p>4. Headings & Construction. The section titles in the Terms of Use are for your convenience only and carry no contractual or legal effect whatsoever. The language in these Terms of Use shall be interpreted in accordance with its fair meaning and shall not be strictly interpreted for or against either party.</p>
+				<p>5. Contact burugo. For purposes of providing notice of cancellation or termination, contact us at webmaster@burugo.com or burugo at burugo, Inc., 2855 Rolling Pin Lane #211, Suwanee, GA 30024</p>
+		
+		<p>Copyright ? 2013 burugo, Inc. All Rights Reserved.</p>
+		
+		<h2>burugo Sign-Up Form for Restaurants</h2>
+			<p>Select one (1) burugo service package for the restaurant listed on the burugo sign-up form ('Restaurant'). 'Order' shall mean the dollar amount of the food and beverage subtotal, including delivery fee, if any, for each online Restaurant order placed using burugo. For telephone orders, the fee charged shall be equal to Restaurant's average fee per online order. In addition to service package amount, Restaurant agrees to pay all credit card processing fees associated with Order</p>
+			<p>Restaurant, as defined above, by and through the undersigned authorized agent, agrees as follows:</p>
+			<p>1. Either Party may terminate this Agreement for any reason upon notice to the other party. </p>
+			<p>2. The term of this Agreement shall begin when the restaurant is 'live' on burugo Website and terminate on the effective date of any termination.</p>
+			<p>3. Party owing payments shall remit remaining payments to the other Party within 30 days following the term of this Agreement.</p>
+			<p>4. burugo shall be an independent contractor of Restaurant during the term of this Agreement.</p>
+			<p>5. Burugo shall provide certain services to Restaurant consistent with burugo’s business practices and at burugo's sole discretion including advertising, sales and revenue collection (the 'Services').</p>
+			<p>6. Restaurant shall provide notice to all Restaurant staff that telephone conversations with burugo made in connection with the Services or this Agreement may be recorded.</p>
+			<p>7. During the term of the Agreement, Restaurant shall make all payments due and owing to burugo.</p>
+			<p>8. Restaurant must provide an accurate copy of its current in-store Restaurant menu ('Menu') within a reasonable time before the Agreement term begins.</p>
+			<p>9. Restaurant must notify burugo in writing of any changes to the Menu at least seven (7) business days before such changes go into effect.</p>
+			<p>10. burugo shall compute any sales, use, privilege, gross receipts, restaurant, excise or other tax due in connection with the sale of food or drink (and delivery fee, if applicable) by my Restaurant through burugo('Sales Tax'). burugo shall collect Sales Tax on behalf of Restaurant. Burugo shall be responsible for (a) verifying that the collected, tendered Sales Tax amount is correct, (b) filing all required Sales Tax returns and associated forms and (c) remitting all required Sales Tax to the appropriate taxing authorities.</p>
+			<p>11. Compliance with any applicable laws, taxes or tariffs related to internet electronic commerce; delivery service and parking accessibility, if any; compliance with appropriate health codes with respect to preparation of food and beverages; and all matters concerning quality and condition of the food and beverages.</p>
+			<p>12. burugo does not warrant that the functions of burugo Website will meet Restaurant expectations of website traffic or resulting business or that the operation of burugo Website will be uninterrupted and/or error-free. Restaurant shall be responsible for all Losses associated with occasional downtime of burugo Website due to line interruptions and/or other instances beyond burugo's control.</p>
+			<p>13. This Agreement will be governed by and construed in accordance with the laws of the State of Georgia, without giving effect to the conflict of law principles thereof. All disputes related to this Agreement will be submitted to the exclusive jurisdiction and venue of state or federal courts located in Atlanta, Georgia, which the parties agree is the most appropriate and convenient for the resolution of disputes related to this Agreement.</p>
+			<p>14. burugo's Terms of Use, which are subject to change, are incorporated herein by reference and Restaurant agrees to be bound by said terms.</p>
+			<p>15. Restaurant grants burugoan unlimited license, solely for the purposes expressly set forth in this Agreement, to use any information or content related to the Restaurant ('Restaurant Content'), in connection with the Services, offered or displayed through any form of media.</p>
+			<p>16. Restaurant will indemnify, defend and hold harmless burugo, its business units, and each of burugo's respective officers, directors, shareholders, employees, representatives, successors and assigns, from and against all Losses, to the extent such Losses are related to: (a) any development, operation or maintenance of the burugo Website done at Restaurant's direction or request; (b) any claim that Restaurant Content provided by Restaurant infringes or misappropriates any third party's copyright, U.S. patent, trademark or other proprietary right; or (c) the breach of any representation, or warranty made by Restaurant in this Agreement.</p>
+			<p>17. This Agreement may be executed in counterparts, in hard copy or electronically, each of which will be deemed an original, but both of which together will constitute one and the same instrument.</p>
+			<p>18. The following terms and conditions shall apply to Restaurants engaging  burugo to create Custom Websites</p>
+			<p>19. In addition to the Services, Restaurant authorizes burugo to secure a domain name for Restaurant to develop and/or improve and provide web page maintenance for Restaurant for advertising purposes ('the Project'). Restaurant agrees to pay burugo a fee of $30.00 per month plus applicable credit card processing fees for each order originating from the Project web page.</p>
+			<p>20. Restaurant warrants that Restaurant owns all content submitted by Restaurant to burugo in connection with the Project, or that Restaurant has secured all necessary rights from the owner to use all such content. Restaurant further warrants that no content submitted will contain anything that may violate burugo's Terms of Use or otherwise interfere with, abuse or compromise, the function of any hosting service or burugo services.</p>
+			<p>21. Burugo shall own all intellectual property rights associated with the finished assembled Project website, web pages and associated content created by burugo. This content includes, but is not limited to the design, photos, graphics, source code, work-up files, text, and any program(s) specifically designed for or purchased on behalf of Restaurant in connection with the Project.</p>
+			<p>22. Restaurant will indemnify, defend and hold harmless burugo, its business units, and each of burugo's respective officers, directors, shareholders, employees, representatives, successors and assigns, from and against all Losses, to the extent such Losses are related to: (a) the development, operation, maintenance of the Project website done at Restaurant's direction or request; (b) any claim that content provided by Restaurant infringes or misappropriates any third party's copyright, U.S. patent, trademark or other proprietary right; or (c) any claim that the Project website and content displayed therein is defective, inaccurate or causes injury to any third party. burugo does not warrant that the functions of the Project website, will meet Restaurant's expectations of site traffic or resulting business or that the operation of the Project web pages will be uninterrupted and/or error-free. Restaurant will not hold burugo responsible for occasional downtime of the Project website due to line interruptions and/or other instances beyond burugo’s control.</p>
+		
+		<p>This Agreement, including any future Agreement modifications, constitutes the entire agreement of the Parties hereto with respect to the subject matter hereof and supersedes any and all prior agreement, written and oral, with respect thereto. Restaurant agrees that acceptance of any Services shall be subject to the then-current Agreement terms, and continued acceptance of the Services following Agreement modifications confirms that Restaurant has read, accepted, and agreed to be bound by such modifications. All Agreement modifications shall be posted at www.burugo.com and shall be effective immediately upon posting.</p>
+		<p>The undersigned hereby agrees to the terms, conditions and stipulations of this Agreement as an authorized agent of the Restaurant.</p>
+		
+		
+		
+		
+		
+		
+		<h2>burugo.com CUSTOM WEBSITE SIGN UP FORM</h2>
+		<p>Restaurant, as defined above, by and through the undersigned authorized agent, agrees as follows:</p>
+		<p>1. Either Party may terminate this Agreement for any reason upon notice to the other party.</p>
+		<p>2. burugo shall be an independent contractor of Restaurant during the term of this Agreement.</p>
+		<p>3. burugo shall provide certain services to Restaurant consistent with burugo's business practices and at burugo's sole discretion including web page maintenance as more particularly described below ('Services').</p>
+		<p>4. Restaurant authorizes burugo to secure a domain name for Restaurant to develop and/or improve and provide web page maintenance for Restaurant for advertising purposes ('the Project').</p>
+		<p>5. Restaurant agrees to pay burugo a fee of $30.00 per month plus applicable credit card processing fees for each orders originating from the Project web page.</p>
+		<p>6. Restaurant warrants that Restaurant owns all content submitted by Restaurant to burugo in connection with the Project, or that Restaurant has secured all necessary rights from the owner to use all such content. Restaurant further warrants that no content submitted will contain anything that may violate burugo's Terms of Use or otherwise interfere with, abuse or compromise, the function of any hosting service or burugo services.</p>
+		<p>7. burugo shall own all intellectual property rights associated with the finished assembled Project website, web pages and associated content created by burugo. This content includes, but is not limited to the design, photos, graphics, source code, work-up files, text, and any program(s) specifically designed for or purchased on behalf of Restaurant in connection with the Project.</p>
+		<p>8. Restaurant will indemnify, defend and hold harmless burugo, its business units, and each of burugo's respective officers, directors, shareholders, employees, representatives, successors and assigns, from and against all Losses, to the extent such Losses are related to: (a) the development, operation, maintenance of the Project website done at Restaurant's direction or request; (b) any claim that content provided by Restaurant infringes or misappropriates any third party's copyright, U.S. patent, trademark or other proprietary right; or (c) any claim that the Project website and content displayed therein is defective, inaccurate or causes injury to any third party.</p>
+		<p>burugo does not warrant that the functions of the Project website, will meet Restaurant's expectations of site traffic or resulting business or that the operation of the Project web pages will be uninterrupted and/or error-free. Restaurant will not hold burugo responsible for occasional downtime of the Project website due to line interruptions and/or other instances beyond burugo's control.</p>
+		
+		<p>This Agreement, including any future Agreement modifications, constitutes the entire agreement of the Parties hereto with respect to the subject matter hereof and supersedes any and all prior agreement, written and oral, with respect thereto. Restaurant agrees that acceptance of any Services shall be subject to the then-current Agreement terms, and continued acceptance of the Services following Agreement modifications confirms that Restaurant has read, accepted, and agreed to be bound by such modifications. All Agreement modifications shall be posted at www.burugo.com and shall be effective immediately upon posting.</p>
+		
+		<p>burugo shall also provide notice of all Agreement modifications via e-mail sent to Restaurant e-mail address provided by Restaurant to burugo. Restaurant shall have a ten (10) day grace period following posting of any Agreement modification to cancel the Agreement in accordance with the Agreement terms ('Grace Period'). The most recent Agreement modification shall not apply to any Restaurant that cancels the Agreement during the Grace Period. The undersigned hereby agrees to the terms, conditions and stipulations of this Agreement as an authorized agent of the Restaurant.</p>
+		]]></termsAndCondition>
+			<yesimready><![CDATA[Yes, I'm Ready!]]></yesimready>
+		</en>
+		<es>
+			<activate_fail_body><![CDATA[<b>Sorry,</b><br />
+                    We could not find your information from our data.<br />
+                    If you already registered and not be able to log in please contact us at <a href="/support/">support team</a>.]]></activate_fail_body>
+			<activate_fail_title><![CDATA[Your account already had been activated or not exist.]]></activate_fail_title>
+			<activate_succ_body><![CDATA[<b>Thank you for your activation.</b><br />
+                    Now you can login with your credential.<br />
+		    If you have any other question please contact us at <a href="/support/">support team</a>.]]></activate_succ_body>
+			<activate_succ_title><![CDATA[Your account has been activated]]></activate_succ_title>
+			<CapD_1><![CDATA[Antes de convertirse en un miembro de Burugo por favor dénos una cierta información sobre usted.]]></CapD_1>
+			<CapH_1><![CDATA[Registro de Burugo]]></CapH_1>
+			<check_box_req><![CDATA[Please check this box]]></check_box_req>
+			<code_req><![CDATA[Please type code on the picture]]></code_req>
+			<email_not_valid><![CDATA[This is not a valid email address.]]></email_not_valid>
+			<email_req><![CDATA[Email is required.]]></email_req>
+			<email_taken><![CDATA[This email address is already taken.]]></email_taken>
+			<feature><![CDATA[Beneficios de BURUGO]]></feature>
+			<feature_1_d><![CDATA[Realtime order/review management system]]></feature_1_d>
+			<feature_1_h><![CDATA[1. Rápida y cómoda gestión de clientes]]></feature_1_h>
+			<feature_2_d><![CDATA[Proceso sencillo]]></feature_2_d>
+			<feature_2_h><![CDATA[2. Fácil de pedir y confirmar]]></feature_2_h>
+			<feature_3_d><![CDATA[Servicio de entrega agradable y rápido]]></feature_3_d>
+			<feature_3_h><![CDATA[3. Servicio de entrega confiable]]></feature_3_h>
+			<feature_desc><![CDATA[Usted recibirá un montón de beneficios para su negocio!]]></feature_desc>
+			<feature_join_d><![CDATA[Le garantizamos que nunca se arrepentirá]]></feature_join_d>
+			<feature_join_h><![CDATA[¡Regístrese a Burugo ahora!]]></feature_join_h>
+			<Field_AgreeAll><![CDATA[By creating an account, you are agreeing that you have read and agree <span class="showTermCond">Privacy Policy</span> and <span class="showTermCond">Burugo User Agreement</span>.]]></Field_AgreeAll>
+			<Field_BName><![CDATA[Nombre de su negocio]]></Field_BName>
+			<Field_Captcha><![CDATA[Escriba los caracteres que ve en la imagen abajo]]></Field_Captcha>
+			<Field_FName><![CDATA[Nombre]]></Field_FName>
+			<Field_HowHear><![CDATA[¿Cómo se enteró de Burugo?]]></Field_HowHear>
+			<Field_HowHear_0><![CDATA[Seleccionar uno ...]]></Field_HowHear_0>
+			<Field_HowHear_1><![CDATA[Anuncio de Televisión]]></Field_HowHear_1>
+			<Field_HowHear_2><![CDATA[anuncio del motor de busqueda]]></Field_HowHear_2>
+			<Field_HowHear_3><![CDATA[Motor de busqueda (Naver, Google, Yahoo, y más)]]></Field_HowHear_3>
+			<Field_HowHear_4><![CDATA[Revistas de alimentos]]></Field_HowHear_4>
+			<Field_HowHear_5><![CDATA[Amigos]]></Field_HowHear_5>
+			<Field_HowHear_6><![CDATA[Compañeros]]></Field_HowHear_6>
+			<Field_HowHear_7><![CDATA[No lo se. Vine de Martes.]]></Field_HowHear_7>
+			<Field_H_1><![CDATA[Your Login Information]]></Field_H_1>
+			<Field_H_2><![CDATA[información del usuario]]></Field_H_2>
+			<Field_LName><![CDATA[Apellido]]></Field_LName>
+			<Field_Login><![CDATA[ID de usuario (Correo electrónico)]]></Field_Login>
+			<Field_Pass><![CDATA[Contraseña]]></Field_Pass>
+			<Field_PassC><![CDATA[Vuelve a escribir la contraseña]]></Field_PassC>
+			<field_req><![CDATA[This field is required.]]></field_req>
+			<Field_SendEmail><![CDATA[Para verificar su dirección de correo electrónico, introduce su correo electrónico actual]]></Field_SendEmail>
+			<pass_alphabet_req><![CDATA[Must contain at least one alphabet(A~Z,a~z)]]></pass_alphabet_req>
+			<pass_min_5><![CDATA[Minimum length is 5 characters]]></pass_min_5>
+			<pass_not_match><![CDATA[Password is not matched]]></pass_not_match>
+			<pass_num_req><![CDATA[Must contain at least one number(0~9)]]></pass_num_req>
+			<register_succ_body><![CDATA[<b>Thank you for your registeration.</b><br />
+                    We sent a confirmation email, please confirm the email to access our service.<br />
+                    If you are not able to find the confirmation email in your email folder, please check your spam/junk folder for just in case, otherwise please contact our <a href="/support/">support team</a>.]]></register_succ_body>
+			<register_succ_title><![CDATA[Your account has been created]]></register_succ_title>
+			<termsAndCondition><![CDATA[
+			<h2>Acuerdo de Privacidad</h2>
+			<p>Burugo, Inc. ('Burugo') recoge determinados datos a través de sus sitios web y los sitios móviles, que se encuentra en www.burugo.com. Su privacidad es importante para nosotros y la Política de Privacidad establece nuestras políticas y procedimientos de la recolección y manejo de dicha información.
+			Esta política de privacidad se aplica únicamente a los Servicios. No se aplica aningún sitio de restaurantes, otros servicios de terceros enlazadas a Servicios de Burugo, o actividades fuera de línea relacionadas con servicios de Burugo.</p>
+			<h3>1. La información Burugo recoge</h3>
+				<p>Burugo puede recopilar la siguiente información de los usuarios de nuestros servicios : nombre, apellido, dirección, ciudad , estado, código postal , cruces de calles , número de teléfono, dirección de correo electrónico , servicios específicos de nombre de presentación , localización GPS, la firma electrónica y la información de tarjeta de crédito ( colectivamente , 'información de Identificación Personal ' o 'PII'). Burugo no está destinado para ser usado por niños menores de 13 y Burugo no recopila a sabiendas información de 
+identificación personal de niños menores de 13 años. El uso del Sitio servicios requiere que se registre y / o crear una cuenta ('Cuenta'). Además de la información de identificación personal se ha expuesto anteriormente, Burugo 
+puede recopilar información acerca de las órdenes anteriores titulares de la cuenta Burugo , restaurantes favoritos, consultas de servicio al cliente, 
+evaluaciones de Servicios / restaurantes y ciertas preferencias de redes sociales relativos a los Sitios (p.ej. páginas o entidades que le gustan, recomendar o seguir ).</p>
+				
+				<p>Además, Burugo puede recopilar información con respecto a las órdenes actuales y pasados ​​burugo, cantidades gratuidad , restaurantes favoritos, consultas de servicio al cliente, evaluaciones de Servicios / restaurantes y ciertas preferencias de redes sociales.</p>
+				
+				<p>Burugo también utiliza un software de análisis web para seguir y analizar el tráfico de sus servicios en relación con la publicidad de Burugo y promoción deservicios Burugo. Burugo también recopila cierta información recogida por las aplicaciones, incluyendo, pero no limitado a, ciertos datos de los pedidos, la información de la gratuidad, lugares de entrega, el kilometraje del conductor de la entrega, y la ubicación del controlador de entrega. Burugo puede publicar estas estadísticas, o compartirlos con terceros sin incluir información de identificación personal.</p>
+				
+				<p>Burugo puede recopilar un adicional PII en relación con las presentaciones en el blog The Daily Grub incluyendo título profesional, de negocios / mi web, redes sociales / nombre de usuario y una fotografía del autor.</p>
+			
+			<h3>2. Uso de Burugo de la información recogida</h3>
+				Burugo utiliza PII para crear cuentas de los usuarios de Burugo, para comunicarse con los usuarios ( directamente y a través de restaurantes y conductores de la entrega ) de los servicios Burugo, para ofrecer a los usuarios promociones y ofertas especiales, y cobrar las compras y las propinas hechas a través de nosotros.
+				Los usuarios pueden optar por permitir que almacenemos cierta PII utilizada para crear cuentas de los usuarios, incluyendo, pero no limitado a, información de tarjeta de crédito.
+				Burugo utiliza cierta PII almacenada para personalizar futuro pedidos de usted.
+				Usted puede solicitar a Burugos que deje almacenar cierta información de identificación en cualquier momento, pero es posible que no sea capaz de tomar ventaja de ciertas características personalizadas.
+				Los usuarios afirmativamente pueden optar por no recibir anuncios de promociones visitando http://www.burugo.com y proporcionando Burugo con su dirección de correo electrónico a través del enlace de exclusión.
+				Burugo también puede utilizar información de identificación para cumplir condiciones de uso y servicios de Burugo.
+				Burugo utiliza PII presentado por los autores del blog The Daily Grub mediante la publicación de esa información en The Daily Grub, y según lo acordado de otra manera por Burugo y los autores.
+				Mediante la presentación de PII a Burugo en conexión con el blog The Daily Grub, el autor se compromete a Burugo de la publicación de PII, así como cualquier otra información de identificación personal.
+				Burugo utiliza cookies para recordar a los usuarios de los Sitios y para mejorar la experiencia de los usuarios en los Sitios.
+				Por ejemplo, cuando los usuarios con cuentas de Burugo, vuelven a los sitios , los cookies identifican aquellos usuarios y permiten que los sitios proporcionen cierta información específica del usuario, como información de la cuenta, pedidos anteriores, restaurantes preferidos y opiniones de restaurantes.
+				Burugo no vende la información que recopila a través de los servicios a terceros.
+				Burugo comparte recogidas PII con terceros proveedores y prestadores de servicios con los que Burugo trabaja para proporcionar interfaces de programación de aplicaciones ( 'API' ) y otras funciones en relación con los servicios de Burugo. Además, Burugo comparte el contenido de los pedidos, instrucciones de la orden especial, nombre y apellido, dirección postal, dirección de correo electrónic , número de teléfono y la propina cantidades con restaurantes donde los usuarios se colocan órdenes y conductores de la entrega , en la medida necesaria para procesar y entregar los pedidos.
+				Burugo también puede revelar PII a terceros, tales como abogados, agencias de cobro , los tribunales o las autoridades del orden público de conformidad con las solicitudes válidas en relación con presuntas violaciónes de Burugo condiciones de uso y servicio o de otras presuntas violaciónes de contrato, infracción o daños similares a personas o propiedades
+
+			<h3>3. Protección de la información de identificación personal de Burugo</h3>
+				<p>Burugo utiliza medidas razonables de seguridad igual o superior estándar de la industria para proteger PII del acceso no autorizado, destrucción, uso, modificación y divulgación.
+				Desafortunadamente, incluso con estas medidas, Burugo no puede garantizar la seguridad de PII.
+				Al utilizar los Servicios, usted reconoce y acepta que Burugo no hace tal garantía, y que utiliza los Servicios bajo su propio riesgo.</p>
+			<h3>4. Acceso y corrección de su PII</h3>
+				<p>Los titulares de cuentas de Burugo pueden acceder y modificar su propio PII mediante la función 'Editar' en nuestro sitio web.
+				Si tiene alguna pregunta acerca del uso de Burugo o la entrega de su información de identificación personal, por favor póngase en contacto con el Oficial de Privacidad de Burugo: burugoceo@gmail.com.</p>
+			<h3>5. Enmiendas para la política de privacidad</h3>
+				<p>Burugo puede cambiar esta política de privacidad en cualquier momento mediante la publicación de una nueva versión en esta página o en una página sucesor. La nueva versión entrará en vigor en la fecha de contabilización, que se enumeran en la parte encima de la página como la fecha de vigencia.</p>
+		
+		<h2>Condiciones de uso</h2>
+			<p>Burugo, Inc. ('burugo') opera su sitio web y sitio móvil, ubicado en www.burugo.com.
+			Por favor, lea los siguientes Términos de Uso cuidadosamente antes de usar Burugo.
+			Para consultas relacionadas con cualquier pedido de alimentos, consulte nuestra política de devoluciones.
+			Para obtener información sobre la publicidad o promoción de su restaurante a través Burugo, visita Burugo del formulario de registro para los restaurantes. </p>
+		
+			<h3>1. Aplicabilidad y aceptación de estos términos de uso</h3>
+				<p>Al ver, usar, acceder, navegar o enviar cualquier contenido o material en los Sitios, usted acepta estas condiciones de uso como un acuerdo legal vinculante entre usted y Burugo, sin limitación ni condición alguna.
+				El término 'usted' o 'tú' se referirá a cualquier persona o entidad que ve, usa, acceda, navegue o presente cualquier contenido o material a los Sitios.</p>
+		
+				<p>Si usted no está de acuerdo con estos Términos de Uso, usted no podrá utilizar los Sitios.
+				Burugo se reserva el derecho de modificar estos Términos de Uso en cualquier momento sin previo aviso.</p>
+		
+				<p>Usted acepta que cada visita que realice a los sitios estarán sujetos a los términos vigentes enese momento de uso, y el uso continuado de los Sitios ahora o después de las modificaciones en las presentes Condiciones de Uso confirma que ha leído, aceptado y acordado en obligarse por tales modificaciones.</p>
+		
+			<h3>Licencia para el Usuario</h3>
+				<p>1. Burugo le concede permiso (que puede ser revocada en cualquier momento por cualquier razón o sin razón) para ver los sitios y para descargar, correo electrónico, compartir a través de redes sociales o imprimir páginas individuales de los Sitios de conformidad con estas Condiciones de Uso y con el exclusivo su propio uso personal y no comercial, siempre y cuando usted no elimina ninguna marca registrada, derecho de autor u otro aviso contenido en dichas páginas. No se permite ningún otro uso.
+				Usted no puede, por ejemplo, incorporar la información, contenido u otro material en cualquier base de datos, compilación, archivo o caché. Usted no puede modificar, copiar, distribuir, volver a publicar, transmitir, mostrar, realizar, reproducir, publicar, reutilizar, revender, licenciar, crear trabajos derivados, ceder ni vender ninguna información, contenido, materiales, software, productos o servicios obtenido a partir de los Sitios, con excepción de lo expresamente señalado anteriormente. Con excepción de lo expresamente autorizado por Burugo, es posible que no tenga enlace profundo a los Sitios para cualquier propósito o acceder a los sitios de forma manual o con cualquier robot, araña, araña web, software de extracción, proceso o dispositivo para raspar, copiar o monitorear cualquier porción automatizada de los Sitios o cualquier información, contenido o materiales en los Sitios.
+
+				Burugo se reserva todos sus derechos legales y comunes de derecho en contra de cualquier persona o entidad que viole el presente apartado.
+				Usted no puede tener un enlace o un marco a cualquier página de los Sitios o cualquier contenido en el mismo, ya sea en su totalidad o en parte, sin el consentimiento previosamente escrito por Burugo.
+				Te puede gustar o seguir Burugo o compartir enlaces a los sitios a través de la tecnología de las redes sociales.
+				Todos los derechos no expresamente concedidos aquí son reservados.<p>
+				
+				<p>2. Conducta del usuario. Usted acepta que su uso de los Sitios y / o servicios de los Sitios está sujeto a todas las leyes y regulaciones locales, estatales y federales aplicables. También está de acuerdo:</p>
+					- Para cumplir con la ley de EE.UU. y las leyes o normas locales sobre conducta y material aceptable;<br />
+					- No usar los Sitios o sus servicios, o enviar contenido a los sitios si eres menor de 13 años;<br />
+					- No utilizar los sitios para comprar bebidas alcohólicas a menos que usted y el destinatario de alcohol es mayor de 21 años y presenta una identificación válida con fotos que verifican su edad en el momento de la entrega de alcohol ;<br />
+					- No acceder a los Sitios o servicios utilizando la cuenta / registro de un tercero sin el consentimiento expreso del titular de la cuenta;<br />
+					- No utilizar los Sitios con fines ilegales;<br />
+					- No cometer actos de violación de los Sitios o con respecto a los contenidos en los Sitios;<br />
+					- No utilizar los sitios para realizar actividades comerciales, aparte de su uso de los servicios sancionados de Burugo;<br />
+					- No copiar cualquier contenido, incluyendo, pero no limitado amenús del restaurante y opiniones de terceros, para su republicación en forma impresa o en línea;<br />
+					- No crear reseñas de restaurantes o entradas de blog para o con cualquier fin comercial o de otro tipo o la intención de que no supone, en Buena fe con el propósito o el espíritu de los Sitios;<br />
+					- No intentar obtener acceso no autorizado a otros sistemas informáticos desde o a través de los Sitios;<br />
+					- Para no interferir con el uso de otra persona y el disfrute de los Sitios o el uso de otra entidad y el disfrute de los Sitios;<br />
+					- A no cargar o transmitir virus u otros archivos dañinos, perjudiciales o destructivos<br />
+					- No interrumpir, interferir, o de otra manera dañar o violar la seguridad de los Sitios, o cualquiera de los servicios, los recursos del sistema, cuentas, contraseñas, servidores o redes conectadas o accesibles a través de los Sitios o afiliados (incluyendo las de nuestros restaurantes asociados).<br />
+					
+				<p>3. Daño de Uso Comercial. Usted acepta que las consecuencias del uso comercial o re-publicación de contenido o la información de los sitios pueden ser muy graves e incalculables que la compensación monetaria no puede ser una solución suficiente o adecuada y que Burugo tendrá derecho a desagravio por mandato judicial temporal y permanente para prohibir dicho uso.
+			<h2>3. Contenido del Sitio </h3>
+				<p>1. Naturaleza de Material del usuario.
+				Algunos de los servicios ofrecidos por Burugo en los sitios permiten que usted y otros a publicar, transmitir, exhibir, publicar, distribuir, o de otra manera de enviar el material generado por el usuario público, incluyendo, pero no limitado a, reseñas de restaurantes y entradas de blog, a los Sitios ( colectivamente , ' Presentaciones ').
+				Usted se compromete a no crear ninguna de las entregas que: </p>
+					- Contiene vulgar, profano, abusivo, lenguaje de odio, o sexualmente explícito, epítetos o insultos, texto de mal gusto, ataques inflamatorios de carácter personal, sexual, racial o religioso, o expresiones de intolerancia, el racismo, la discriminación o el odio;<br />
+					- es difamatorio, amenazante, despectivo, inflamatorio, falsa, equívoca, engañosa, fraudulenta, inexacta, o injusta, contiene exageración o afirmaciones sin fundamento, viola los derechos de privacidad o derecho de publicidad de terceros, es irrazonablemente perjudicial u ofensivo para cualquier individual o comunitario, contiene cualquier declaración procesable, o tiende a inducir a error o reflejar injustamente en cualquier otra persona, negocio o entidad;<br />
+					- Interfiere de manera desleal con el uso ininterrumpido de terceros y el goce de los Sitios;<br />
+					- Hace publicidad, menosprecie, promueve u ofrece para el comercio los bienes o servicios de cualquier manera que no concuerda con el propósito o el espíritu de los Sitios, incluyendo, pero no limitado a, comentarios negativos publicados por los restaurantes o denuncias de violaciónes código de salud que compiten;<br />
+					- Tiene por objetivo principal promover una causa o movimiento, ya sea político, religioso o de otro tipo;<br />
+					- Contiene material con copyright (derechos de autor de artículos, ilustraciones, imágenes, texto, o de otros contenidos) sin la autorización expresa del titular de los derechos de autor de los contenidos;<br />
+					- Constituye, promueva o aliente actos ilegales, la violación de cualquier derecho de cualquier persona o entidad, la violación de cualquier ley local, estatal, nacional o internacional, norma, directriz o reglamento, o de lo contrario crea la responsabilidad;<br />
+					- Da a conocer ninguna información de identificación personal relacionada con o imágenes de un menor de edad sin el consentimiento de un padre, tutor o supervisor de educación;<br />
+					- Infrinja cualquier derecho de autor, marca registrada, patente, secreto comercial, o cualquier otro derecho de propiedad intelectual;<br />
+					- Contiene virus u otros archivos dañinos, perjudiciales o destructivos;<br />
+					- Hace daños o es inapropiado para menores de edad a la vista;<br />
+					- Enlaces a cualquier sitio web comercial o de otro tipo<br />
+					- No es otra cosa en el cumplimiento de estas condiciones de uso.<br />
+		
+				<p>2. User Representations and Warranties. Each time you provide a Submission to the Sites, you represent and warrant that you have the right to provide such Submission, which means:</p>
+					- you are the author of the Submission, or<br />
+					- the Submission is not protected by copyright law, or<br />
+					- you have express permission from the copyright owner to use the Submission in connection with the Sites; and<br />
+					- you have the right to grant burugo the license set out in these Terms of Use;<br />
+					- for restaurant review Submission(s), you have had first-hand experience with the subject restaurant; and<br />
+					- your use of the Sites and Submission(s) do not violate these Terms of Use.<br />
+					
+				<p>3. Concesión de licencia de usuario para Burugo.
+				Usted concede Burugo, sus afiliados y entidades relacionadas a, perpetuo, irrevocable y libre de regalías, no exclusivo y licencia para usar, copiar, modificar, visualizar, archivar, almacenar, publicar, transmitir, realizar, distribuir, reproducir y crear derivado obras de todas las Presentaciones que Usted suministre a Burugo en cualquier forma, medio, software o tecnología de cualquier tipo existentes en la actualidad o desarrollados en el futuro. Sin limitar la generalidad de la oración anterior, usted autoriza Burugo para incluir las Presentaciones que Usted suministre en un formato de búsqueda que se pueda acceder por los usuarios de los Sitios.
+				Usted también otorga Burugo y sus entidades relacionadas y el derecho a utilizar cualquier información de identificación personal (como dicho término se define en la Política de privacidad de Burugo) incluido con ninguna de las entregas en conexión con el uso, reproducción o distribución de dicha Presentación.
+				Usted también otorga Burugo el derecho a usar la Presentación y cualesquier hechos, ideas, conceptos, know-how o técnicas ('Información') que figura en ninguna de las entregas o comunicación que usted envíe a Burugo para cualquier propósito, incluyendo pero no limitado a, desarrollo, fabricación, promoción y / o productos y servicios de marketing. Usted le otorga todos los derechos descritos en el presente apartado en relación con el uso de los Sitios, y sin ninguna clase de indemnización.
+				Burugo no reclama la propiedad de los envíos.</p>
+				
+				<p>4. Descargo de responsabilidad de Materiales.
+				Las presentaciones no están respaldados por Burugo, y no representan las opiniones de Burugo o sus matrices, filiales y afiliadas, agentes, funcionarios o directores. Usted reconoce y acepta que Burugo no controla todos los envíos, y se exime de cualquier responsabilidad por dichos Envíos.
+				Burugo niega específicamente cualquier derecho, obligación o responsabilidad de revisar, controlar, denegar la publicación, remover o editar cualquier Envío.
+				Además, Burugo no representa ni garantiza que cualquier otro contenido o información accesible a través de los sitios sean exactos, completos, fiables, actuales o libres de error, incluyendo los menús, precios, horas de funcionamiento o accesibilidad de aparcamiento disponibles en sus restaurantes asociados.
+				Precio, descripción, el contenido del menú, la disponibilidad del producto / servicio, la accesibilidad de aparcamiento y información de restaurantes están sujetos a cambios sin previo aviso.
+				Burugo no asume ninguna responsabilidad por cualquier error u omisión en el contenido de los Sitios. A pesar de que no le cobrarmos por usar sus servicios y no agregamos ningún cargo adicional (excepto los impuestos de venta y de entrega) para los elementos de menú que recibe de sus restaurantes participantes, ofrecemos algunos menús de los restaurantes a través de otros servicios.
+				El precio que se muestra en el menú puede incluir un margen de beneficio por esos servicios. </p>
+				
+				<p>5. Revisión y eliminación de material.
+				Burugo se reserva el derecho (pero no asume ninguna obligación o responsabilidad) para revisar, controlar, denegar la publicación, remover en su totalidad, o editar (en cualquier momento y sin previo aviso) cualquier Presentación que considere, a su sola y absoluta discreción, puede violar las Secciones 2 ( b ), 3 ( a) , o 3 ( b ).
+				Puede ponerse en contacto con nosotros en burugoceo@gmail.com en Burugo, Inc., 2855 rolling pin lane #211, Suwanee, GA 30024 para solicitar la eliminación de una Presentación.
+				Sin embargo, Burugo exime cualquier derecho, obligación o responsabilidad de cumplir con dichas solicitudes, excepto como se describe específicamente en el presente apartado.
+				Burugo también se reserva el derecho (pero no asume ninguna obligación o responsabilidad) de denegar la publicación, remover en su totalidad, o de edición (en cualquier momento y sin previo aviso) cualquier Presentación en los Sitios por cualquier razón o sin ningún motivo, a su absoluta y exclusiva discreción.
+				La Digital Millennium Copyright Act de 1998 (la 'DMCA' ) proporciona recursos a los propietarios de derechos que creen que el material que aparece en Internet infringe sus derechos bajo la ley de copyright de EE.UU. Si usted cree de buena fe que envíos publicados por los Sitios infringen sus derechos de autor, usted (o su agente ) puede enviarnos una notificación solicitando Burugo que la sumisión ( es ) se retira del sitio ( s ), o el acceso a la misma se bloqueará.
+				La notificación debe incluir la siguiente información: 
+				( a) una firma física o electrónica de una persona autorizada para actuar en nombre del propietario de un derecho exclusivo que presuntamente se ha infringido;
+				( b ) identificación de la obra cuyos derechos de autor han sido violados (o si varias obras localizadas en los Sitios están cubiertas por una sola notificación, que es una lista representativa de tales obras),
+				( ​​c ) la identificación del material que se reclama haber sido infringido o que sea objeto de la actividad infractora, e información razonablemente suficiente para permitir Burugo para localizar la Sumisión ( es );
+				( d ) el nombre , dirección, número de teléfono y dirección de correo electrónico (si hay) de la parte reclamante,
+				( e) una declaración de que la parte demandante tiene una creencia de buena fe que el uso del Presentado el descrito en la reclamación no está autorizado por el propietario del copyright, su agente o la ley , y
+				( f ) una declaración de que la información en la notificación es exacta y, bajo pena de perjurio, que la parte reclamante está autorizada para actuar en nombre del propietario de un derecho exclusivo que presuntamente se ha infringido. Si usted cree de buena fe que un aviso de infracción de derechos de autor ha sido presentado indebidamente en su contra, la DMCA permite que nos envíe una respuesta a una notificación. Avisos y contra- avisos deben cumplir con los requisitos legales en ese momento impuestos por la DMCA; ver http://www.loc.gov/copyright para más detalles. Avisos y contra- notificaciones con respecto a los sitios deben ser enviadas a Burugo, 2855 rolling pin lane #211, Suwanee, GA 30024. Burugo sugiere que consulte a su asesor legal antes de presentar una notificación o contra-notificación.
+				Además, tenga en cuenta que no puede tener sanciones por declaraciones falsas bajo la DMCA. Nos reservamos el derecho de suspender la cuenta de cualquier usuario que es un infractor de derechos de autor. </p>
+				
+				<p>6. Derechos de propiedad.
+				Usted reconoce y acepta que los sitios contienen información de propiedad y el contenido que está protegido por la propiedad intelectual y otras leyes, y no puede ser utilizado salvo lo dispuesto en estos Términos de Uso sin anticipación, el permiso escrito por Burugo.
+				Todos los sitios de diseños, textos, gráficos, interfaces, y las imágenes (y la selección y arreglos de los mismos), y el software, el lenguaje de marcado de hipertexto ('HTML'), scripts, páginas servidor activas y otros contenidos y el software utilizado en los Sitios están reservados. </p>
+			<h3>4. Terminación y Modificaciones de los Sitios</h3>
+				<p>Burugo se reserva el derecho, a su sola y absoluta discreción, de modificar, suspender o interrumpir, en cualquier momento, con o sin previo aviso, los Sitios y / o servicios ofrecidos a través de los Sitios (o cualquier parte del mismo), incluyendo pero no limitado a las funciones de los Sitios, diseños y tactos, y los elementos funcionales y los servicios relacionados.</p>
+			<h3>5. Indemnidad</h3>
+				<p>Usted se compromete a indemnizar y mantener Burugo, sus matrices, subsidiarias y afiliadas, agentes, oficiales, directores u otros empleados de cualquier reclamo, demanda o daño (ya sea directo, indirecto o consecuente), incluyendo los honorarios razonables de abogados, hechos por cualquier persona en relación con su uso de los Sitios, con sus Presentaciones, con una supuesta violación de la propiedad intelectual o cualquier otro derecho de cualquier persona o entidad en relación con los Sitios, su violación de estos Términos de Uso, y cualquier otro acto u omisiones relacionados con los Sitios.</p>
+			<h3>6. Renuncia de Garantías</h3>
+				<p>LA INFORMACIÓN, EL CONTENIDO, PRODUCTOS, SERVICIOS Y MATERIALES DISPONIBLES A TRAVÉS DE LOS SITIOS (sea proporcionado por BURUGO, USTED, OTROS USUARIOS O OTROS AFILIADOS / TERCEROS), INCLUYENDO SIN LIMITACIÓN, LOS ALIMENTOS / PEDIDOS DE BEBIDAS, PRESENTACIONES, TEXTOS, FOTOGRAFIAS, GRAFICOS, ARCHIVOS DE AUDIO, VIDEO Y ENLACES, SE PROPORCIONAN 'TAL CUAL' Y 'SEGÚN DISPONIBILIDAD', SIN GARANTÍAS DE NINGÚN TIPO, YA SEA EXPRESA O IMPLÍCITA.</p>
+		
+				<p>EN LA MEDIDA MÁXIMA PERMITIDA POR LA LEY, BURUGO NIEGA TODAS LAS REPRESENTACIONES Y GARANTÍAS, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO PARTICULAR, TÍTULO, NO INFRACCIÓN, AUSENCIA DE VIRUS INFORMÁTICOS Y GARANTÍAS DERIVADAS DEL CURSO DE NEGOCIACIÓN O CURSO DE RENDIMIENTO.</p>
+			<h3>7. Limitación de la responsabilidad</h3>
+				<p>EN NINGÚN CASO BURUGO SERÁ RESPONSABLE ANTE USTED POR DAÑOS DIRECTOS, INDIRECTOS, ESPECIALES, MORALES, ACCIDENTALES, EJEMPLARES O INDIRECTOS, O CUALQUIER PÉRDIDA O DAÑO (INCLUSO SI GRUBHUB HAYA SIDO ADVERTIDO DE LA POSIBILIDAD DE TALES DAÑOS), YA SEA UNA ACCIÓN BAJO CONTRATO, NEGLIGENCIA O CUALQUIER OTRA TEORÍA, DE CUALQUIER FORMA DERIVADA DE O EN CONEXION CON EL USO, LA IMPOSIBILIDAD DE USO, EL RENDIMIENTO DE O SERVICIOS PRESTADOS EN O A TRAVÉS DE LOS SITIOS.
+				BURUGO NO ASUME NINGUNA RESPONSABILIDAD Y NO SE HACE RESPONSABLE POR CUALQUIER DAÑO O VIRUS QUE PUEDAN INFECTAR SU EQUIPO INFORMATICO U OTRA PROPIEDAD COMO CONSECUENCIDE SU ACCESO, USO, NAVEGAR O LA DESCARGA DE CUALQUIER MATERIAL DE LOS SITIOS.
+				BURUGO ASUME NINGUNA RESPONSABILIDAD DE CUALQUIER FORMA QUE SURJA DE O EN RELACIÓN CON CUALQUIER INFORMACIÓN, CONTENIDO, PRODUCTOS, SERVICIOS, O MATERIAL DISPONIBLE EN O A TRAVÉS DE LOS SITIOS, ASÍ COMO CUALQUIER PÁGINA WEB DE TERCEROS O SITIOS WEB ADICIONALES VINCULADOS A ESTE SITIO, POR CUALQUIER ERROR, DIFAMACION, INJURIA, LA CALUMNIA, OMISION, FALSEDAD, OBSCENIDAD, PORNOGRAFIA, BLASFEMIA, PELIGRO, INEXACTITUD CONTENIDOS EN EL MISMO O DAÑOS A PERSONAS O PROPIEDADES CAUSADOS POR ELLO. ESTAS LIMITACIONES SE APLICARÁN A PESAR DE CUALQUIER FALLA DE PROPÓSITO ESENCIAL DE CUALQUIER RECURSO LIMITADO.
+				DEBIDO A QUE ALGUNAS JURISDICCIONES NO PERMITEN LA EXCLUSIÓN O LIMITACIÓN DE RESPONSABILIDAD POR DAÑOS EMERGENTES O INCIDENTALES, LAS LIMITACIONES ANTERIORES NO PUEDEN APLICAR A USTED. EN NINGÚN CASO LA RESPONSABILIDAD TOTAL DE BURUGO HACIA USTED POR TODOS LOS DAÑOS, PÉRDIDAS Y CAUSAS DE ACCIÓN, YA SEA POR CONTRATO, AGRAVIO (INCLUYENDO PERO NO LIMITADO A, NEGLIGENCIA) O CUALQUIER OTRA FORMA, EXCEDERA (A) EL MONTO PAGADO POR USTED A GRUBHUB O UN RESTAURANTE AFILIADO, O (B) $ 100 (que sea menor).</p>
+		
+				<p>USTED Y BURUGO CONVIENE QUE LAS RENUNCIAS Y LIMITACIONES DE RESPONSABILIDAD EN ESTAS CONDICIONES DE USO DE LA GARANTÍA SON MATERIAL, NEGOCIADO-PARA BASES DE ESTE ACUERDO, Y QUE SE HAN TOMADO EN CUENTA PARA DETERMINAR LA CONSIDERACIÓN DE SER DADO POR CADA PARTE DE CONFORMIDAD CON EL PRESENTE CONTRATO Y EN LA DECISIÓN DE CADA PARTE PARA CELEBRAR ESTE ACUERDO. USTED Y BURUGO CONVIENE QUE LAS RENUNCIAS Y LIMITACIONES DE RESPONSABILIDAD EN ESTAS CONDICIONES DE USO DE LA GARANTÍA SON JUSTAS Y RAZONABLES.</p>
+		
+				<p>SI NO ESTÁ SATISFECHO CON EL SITIO O NO ESTÁ DE ACUERDO CON LOS DISPOSICIONES DE ESTOS TÉRMINOS DE USO, SU ÚNICO Y EXCLUSIVO REMEDIO ES DEJAR DE USAR EL SITIO, SALVO QUE SE PROPORCIONA EN ESTA SECCIÓN 7.</p>
+			<h3>8. Su cuenta, la contraseña y la seguridad</h3>
+				<p>El uso del Sitio servicios requiere que se registre y / o crear una cuenta ( 'Cuenta' ) o utilizar los Sitios como invitado.
+				Para registrarse y crear una cuenta, debe seleccionar una designación de cuenta y contraseña y proporcionar cierta información personal.
+				En consideración del uso de los servicios de los Sitios, usted acepta:
+				(a) proveer información verdadera, precisa, actual y completa sobre usted según lo solicitado por el formulario de registro, y
+				(b) mantener y actualizar la información personal que proporcione a mantenerla verdadera, precisa, actualizada y completa. Si suministra información que es falsa, inexacta, desactualizada o incompleta, o Burugo tiene motivos razonables para sospechar que dicha información es falsa, inexacta, desactualizada o incompleta, Burugo tiene el derecho de negarle el uso presente o futuro del los Sitios (o cualquier porción del mismo).</p>
+		
+				<p>Usted es responsable de mantener la confidencialidad y seguridad de su cuenta y contraseña, y usted es completamente responsable de todas las actividades que ocurran bajo su contraseña o cuenta, y de cualesquiera otras acciones adoptadas en relación con la Cuenta o contraseña.
+				Usted se compromete a
+				(a) notificar inmediatamente de cualquier burugo sabe o se sospecha el uso no autorizado (s) de su contraseña o cuenta o cualquier violación conocida o sospechada de seguridad, incluyendo la pérdida, el robo o la divulgación no autorizada de su contraseña o información de la tarjeta de crédito; y
+				(b) asegurarse de salir de su cuenta al final de cada sesión. Burugo no será responsable por cualquier lesión, pérdida o daño de cualquier tipo que surja de o en relación con el incumplimiento de (a) y ( b) o en cualquier acto u omisión por parte suya o de otra persona utilizando su cuenta y / o contraseña .</p>
+			<h3>9. Enlaces</h3>
+				<p>Como una cortesía a usted, los sitios pueden ofrecer enlaces a otros sitios web.
+				Algunos de estos sitios web pueden estar afiliados a Burugo mientras que otros no lo son.
+				Burugo no se hace responsable de los contenidos de las páginas de sitios web creados y mantenidos por organizaciones independientes de Burugo.
+				Visitar cualquiera de dichas páginas web de terceros es bajo su propio riesgo.
+				Burugo no tiene control de estas páginas web de terceros, ni puede garantizar la exactitud, integridad o puntualidad de la información contenida en páginas web de terceros.
+				Su uso de esta información es voluntaria, y su confianza en dicha información debe hacerse sólo después de un examen independiente.
+				Las referencias a productos o servicios comerciales dentro de cualquiera de dichas páginas web de terceros no constituye o implica una aprobación por parte burugo.
+				Al utilizar los Sitios usted reconoce que Burugo es responsable ni de la disponibilidad de, ni el contenido localizado en o a través de cualquiera de las páginas de sitios web de terceros.</p>
+			<h3>10. Marcas comerciales</h3>
+				<p>Burugo job®, burugo helper®, burugo friend®, burugo social®, Etreebus®, burugo.com Powered By burugo™ (palabra y el diseño) son marcas comerciales de Burugo. Dichas marcas registradas y otras marcas, logotipos y nombres de burugo o los Sitios, utilizado sobre o en relación con los Sitios no pueden ser utilizadas en conexión con cualquier producto o servicio que no esté bajo la propiedad o el control Burugo.
+				Además, tales marcas no podrán ser utilizadas de ninguna manera que pueda causar confusión entre los clientes, o de ninguna manera que menosprecie o desacredite a Burugo. Todas las demás marcas comerciales que no pertenecen a Burugo (o sus filiales) que aparecen en los Sitios son propiedad de sus respectivos dueños, quienes pueden o no estar afiliados, conectados o patrocinados por Burugo o sus filiales.</p>
+			<h3>11. Consideración</h3>
+				<p>Usted acepta que estas Condiciones de Uso están soportadas por una contraprestación razonable y valiosa, el recibo y la adecuación de los cuales son aquí reconocidas.
+				Sin limitar lo anterior, usted reconoce que dicha contraprestación incluye, sin limitación, su uso de los Sitios y la recepción o uso de datos, contenidos, productos y / o servicios a través de los Sitios, la posibilidad de la revisión, el uso o la exhibición de su Envío (s), y la posibilidad de la publicidad y promoción de nuestra revisión, el uso o la exhibición de su contenido generado por el usuario.</p>
+			<h3>12. Competencia, la ley aplicable, y limitaciones</h3>
+				<p>Este Sitio es creado y controlado por Burugo en el estado de Georgia, EE.UU.
+				Usted acepta que estas Condiciones de Uso se regirán e interpretarán de conformidad con las leyes de los Estados Unidos de América y el Estado de Georgia, sin consideración a sus conflictos de disposiciones legales.
+				El uso de los Sitios no está autorizado en jurisdicción alguna que no haga efectivas todas las provisiones de estos Términos de uso.
+				GrubHub no hace declaraciones o garantías de que los sitios son apropiados o pueden ser descargados fuera de los Estados Unidos.
+				Usted acepta que todos los procedimientos legales surjan de o en conexión con estas Condiciones de Uso, o servicios disponibles en o a través de los Sitios se deben presentar en un tribunal estatal o federal ubicado en Atlanta, Georgia, en el plazo de un año desde el momento en el que dieron lugar a dicha reclamación comenzó, o su reclamo será por siempre renunciadoUsted se somete expresamente a la jurisdicción exclusiva de dichos tribunales y consentimiento para el servicio de proceso extraterritorial.</p>
+			<h3>General</h3>
+				<p>1. Exigibilidad. Si alguna parte de estos Términos de Uso es considerada como nula, inválida o inaplicable, se considerará que la porción a ser reemplazada por una disposición válida y aplicable que la intención de la disposición original tanto como sea posible. El resto de estos Términos de Uso seguirá siendo válida y aplicable de acuerdo a los términos aquí contenidos.</p>
+				<p>2. Acuerdo completo. Salvo que se disponga expresamente en un 'Legal & Privacy «desplazamiento particular u otro aviso en las páginas particulares de los Sitios, estas condiciones de uso, que por la presente incorporan por referencia los términos de la Burugo Política de Privacidad, constituyen el acuerdo completo entre usted y burugo , reemplazando todos los acuerdos anteriores con respecto a los Sitios.</p>
+				<p>3. No renuncia. El fracaso de burugo para ejercer o hacer valer cualquier derecho o disposición de estas Condiciones de Uso no constituirá una renuncia a dicho derecho o disposición.
+				Ni presente parte se considerará en incumplimiento de cualquier disposición de estas Condiciones de Uso o el fracaso en el rendimiento como consecuencia de actos o eventos más allá del control razonable de dicha parte, en concepto sin su culpa o negligencia, incluyendo, pero sin limitarse a, actos de Dios, la autoridad civil o militar, de la interrupción de los servicios eléctricos o de telecomunicaciones , disturbios civiles, actos de guerra o terrorismo, huelgas, incendios, inundaciones u otras catástrofes.</p>
+				<p>4. Las partidas y Construcción. Los títulos de las secciones en las condiciones de uso son sólo para su conveniencia y llevan ningún efecto legal o contractual alguno.
+				El lenguaje en estas Condiciones de Uso se interpretará de acuerdo con su justo significado y no debe ser interpretado estrictamente a favor o en contra de cualquiera de las partes.</p>
+				<p>5. Póngase en contacto con Burugo. A los efectos de dar aviso de la cancelación o terminación, póngase en contacto con nosotros en webmaster@burugo.com o Burugo, Inc., 2855 rolling pin lane #211, Suwanee, GA 30024</p>
+		
+		<p>Copyright © 2014 Burugo, Inc. Todos los derechos reservados.</p>
+		
+		<h2>Burugo Formulario de Inscripción para Restaurantes</h2>
+			<p>Elige un (1) paquete de servicios de Burugo para el restaurante que aparece en el formulario de Burugo inscribirse ('Restaurante'). 'Orden ' se entenderá la cantidad en dólares de la comida y bebida subtotal, incluyendo honorario de entrega para cada orden </p>
+			<p>Restaurantes tengan en línea usando Burugo. Para pedidos telefónicos, la comisión cobrada será igual a la tasa media del pedido a los restaurantes en línea. Además de la cantidad paquete de servicios, restaurantes se comprometen a pagar todos los gastos de procesamiento de tarjetas de crédito asociadas a los pedidos, y tal como se define anteriormente, por ya través del agente autorizado que suscribe, acuerda lo siguiente:</p>
+			
+			<p>1. Cualquiera de los partidos podrá denunciar el presente Acuerdo por cualquier razón mediante notificación al otro partido. </p>
+			<p>2. El término de este Acuerdo comenzará cuando el restaurante es 'en vivo' en Burugo Web y termina en la fecha efectiva de rescisión.</p>
+			<p>3. Partido que le debe pagos deberá remitir pagos restantes al otro partido dentro de 30 días siguientes a la vigencia de este Acuerdo.</p>
+			<p>4. Burugo será un contratista independiente de los restaurantes, durante la vigencia del presente Acuerdo.</p>
+			<p>5. Burugo deberá proporcionar determinados servicios a los restaurantes en consonancia con las prácticas comerciales de Burugo con su sola discreción de Burugo incluyendo la publicidad, las ventas y la recaudación de ingresos (los 'Servicios').</p>
+			<p>6. Restaurantes deberán informar a todo que las conversaciones telefónicas en relación con los Servicios de Burugo o este Acuerdo pueden ser grabadas.</p>
+			<p>7. Durante la vigencia del Acuerdo, restaurantes harán todos los pagos debidos a Burugo.</p>
+			<p>8. Restaurantes deben proporcionar una copia exacta de su menú actual dentro de la tienda del restaurante ('Menú') en un plazo razonable antes de que comience el término Acuerdo.</p>
+			<p>9. Restaurantes deberán notificar Burugo por escrito de cualquier cambio en el menú de al menos siete (7) días hábiles antes de que estos cambios entren en vigor.</p>
+			<p>10. Burugo deberá computar cualquier venta, uso, privilegio, los ingresos brutos, restaurante, especiales o de otro importe devengado en relación con la venta de comida o bebida ( y la cuota de entrega) a mi restaurante a través Burugo ('Impuesto sobre las Ventas').
+			Burugo cobrará Impuesto sobre las ventas en nombres de restaurantes.
+			Burugo será responsable de (a) la verificación de que el, licitado importe de impuestos recolectados es correcto, (b) la presentación de todas las declaraciones de impuestos de ventas requeridas y las formas conexas y (c) remitir toda Impuesto sobre las ventas se requiere a las correspondientes autoridades fiscales.</p>
+			<p>11. El cumplimiento de las leyes, impuestos o aranceles relacionados con el comercio electrónico en Internet; servicio de entrega y aparcamiento de accesibilidad, en su caso, cumplir con los códigos de salud adecuadas en materia de preparación de alimentos y bebidas, y todo lo concerniente a la calidad y el estado de los alimentos y bebidas.</p>
+			<p>12. Burugo no garantiza que las funciones del Sitio Web de Burugo se cumplen las expectativas del restaurante de tráfico del sitio web o que resulten de negocios o de que el funcionamiento de Burugo sea ininterrumpido y / o libre de errores . Restaurantes serán responsable de todas las pérdidas asociadas con el tiempo de inactividad ocasional de Sitio web de Burugo debido a interrupciones en la línea y / u otras instancias ajenas al control de Burugo .</p>
+			<p>13. Este Contrato se regirá e interpretará de acuerdo con las leyes del Estado de Georgia, sin dar efecto al conflicto de principios legales de los mismos.
+			Todas las disputas relacionadas con este Contrato se someterá a la jurisdicción y competencia exclusiva de los tribunales estatales o federales ubicados en Atlanta, Georgia, que las partes están de acuerdo es el más adecuado y conveniente para la resolución de los conflictos derivados o relacionados con el presente Acuerdo.</p>
+			<p>14. Condiciones de Uso de Burugo, las cuales están sujetas a cambio, se incorporan al presente por referencia y Restaurantes aceptan que quedarán vinculados por dichos términos.</p>
+			<p>15. Restaurantes otorgan una licencia ilimitada, solamente para los fines expresamente establecidos en este Acuerdo, para usar cualquier información o contenido relacionado con el restaurante ('Contenido del restaurante '), en relación con los Servicios, ofrecidas o expuestas a través de cualquier medio de comunicación.</p>
+			<p>16. Restaurantes indemnizarán, defenderán y mantendrán Burugo inofensivo, sus unidades de negocio, y cada uno de los respectivos funcionarios, directores, accionistas, empleados, representantes, sucesores y cesionarios de Burugo, de y contra todas las pérdidas, en la medida tales pérdidas están relacionadas con :
+			(a) cualquier desarrollo, operación o mantenimiento del sitio web hecho en la dirección del restaurante o solicitud;
+			(b) cualquier afirmación de que restaurante contenido proporcionado por restaurante infringe o se apropia indebidamente de los derechos de autor de terceros , la patente de EE.UU., marca registrada u otro derecho de propiedad, o ( c ) la violación de cualquier representación o garantía hecha por restaurante en el presente Acuerdo.</p>
+			<p>17. El presente Acuerdo podrá ser ejecutado en varios ejemplares, en papel o electrónicamente, cada uno de los cuales se considerará un original, pero los dos que juntos constituirán uno y el mismo instrumento.</p>
+			<p>18. Los siguientes términos y condiciones se aplicarán a los restaurantes de Burugo para rear sitios web personalizados</p>
+			<p>19. Además de los servicios, Restaurantes autorizan Burugo para asegurar un nombre de dominio para los restaurantes que desarrollen y / o mejoren y den mantenimiento de la página web para los restaurantes con fines publicitarios ('el Proyecto'). Restaurantes acuerdan pagar Burugo una cuota de $ 30.00 por mes, más las tasas de procesamiento de tarjetas de crédito aplicables para cada orden procedente de la página web del proyecto.</p>
+			<p>20. Restaurantes garantizan que son propietarios de todo el contenido presentado por restaurantes de Burugo en relación con el proyecto, o que restaurantes han asegurado todos los derechos necesarios del propietario para utilizar todos estos contenidos.
+			Restaurantes además garantizan que ningún contenido enviado contendrá nada que pueda violar los Términos de Uso o interferir con, el abuso o el compromiso, la función de cualquier servicio dealojamiento o burugo servicios.</p>
+			<p>21. Burugo tendrá todos los derechos de propiedad intelectual relacionados con el sitio web terminado montado Proyecto , páginas web y contenidos asociados creado por burugo.
+			Este contenido incluye, pero no se limita al diseño, fotos , gráficos , código fuente , archivos de trabajo en marcha , texto y cualquier programa(s) específicamente diseñada para o comprado en nombre del restaurante , en relación con el Proyecto.</p>
+			<p>22. Restaurantes indemnizarán, defenderán y mantendrán Burugo inofensivo, sus unidades de negocio, y cada uno de los respectivos funcionarios, directores, accionistas, empleados, representantes, sucesores y cesionarios de Burugo, de y contra todas las pérdidas, en la medida tales pérdidas están relacionadas con:
+			(a) el desarrollo, la explotación, el mantenimiento de la página web del proyecto realizado en la dirección del restaurante o solicitud;
+			(b) cualquier afirmación de que el contenido proporcionado por restaurante infringe o se apropia indebidamente de los derechos de autor de terceros, la patente de EE.UU., marca registrada u otro derecho de propiedad, o
+			(c) cualquier afirman que el sitio web del proyecto y el contenido que se muestra en ella es defectuosa, inexacta o cause un perjuicio a terceros. Burugo no garantiza que las funciones de la página web del proyecto, se cumplen las expectativas del restaurante de tráfico del sitio o que resulten de negocios o de que el funcionamiento de las páginas web del proyecto será ininterrumpido y / o libre de errores.
+			Restaurantes no darán Burugo responsable por el tiempo de inactividad ocasional de la página web del proyecto, debido a interrupciones en la línea y / u otras instancias ajenas al control de Burugo.</p>
+		
+		<p>Este Acuerdo, incluyendo cualquier futura modificación del Acuerdo, constituye el acuerdo de las partes con respecto al objeto del mismo y sustituye a cualquier acuerdo previo, oral y escrita, con respecto a la misma.
+		Restaurantes de acuerdo en que la aceptación de cualquiera de los Servicios estarán sujetas a los términos del Contrato vigente en ese momento, y la aceptación continua de los servicios siguientes modificaciones del Acuerdo restaurantes confirma que ha leído, aceptado y acordado que quedarán vinculado por estas modificaciones. Todas las modificaciones del Acuerdo se publicarán en www.burugo.com y entrarán en vigor inmediatamente después de su publicación.</p>
+		<p>El abajo firmante está de acuerdo a los términos, condiciones y estipulaciones del presente Acuerdo como agente autorizado del restaurante.</p>
+		
+		
+		
+		
+		
+		
+		<h2>Burugo.com SITIO WEB PERSONALIZADO formulario de inscripción</h2>
+		<p>Restaurantes, tal como se definen anteriormente, por ya través del agente autorizado que suscribe, acuerda lo siguiente:</p>
+		<p>1. Cualquiera de los partidos podrán denunciar el presente Acuerdo por cualquier razón mediante notificación a la otra parte.</p>
+		<p>2. Burugo será un contratista independiente del restaurante, durante la vigencia del presente Acuerdo.</p>
+		<p>3. Burugo deberán prestar ciertos servicios a restaurantes en consonancia con las prácticas comerciales de Burugo y la sola discreción de Burugo incluyendo mantenimiento de la página web como se describe más particularmente a continuación ('Servicios').</p>
+		<p>4. Restaurantes autorizan Burugo para asegurar un nombre de dominio para el restaurante para desarrollar y / o mejorar y proporcionar mantenimiento de la página web para el restaurante con fines publicitarios ('el Proyecto').</p>
+		<p>5. Restaurantes acuerdan pagar Burugo una cuota de $ 30.00 por mes, más las tasas de procesamiento de tarjetas de crédito aplicables para cada pedido de la página Web del proyecto.</p>
+		<p>6. Restaurantes garantizan que son propietarios de todo el contenido presentado por restaurantes de Burugo en relación con el proyecto, o que restaurantes han asegurado todos los derechos necesarios del propietario para utilizar todos estos contenidos. Restaurantes además garantizna que ningún contenido enviado contendrá nada que pueda violar los Términos de Uso o interferir con, el abuso o el compromiso, la función de cualquier servicio dealojamiento o servicios de Burugo.</p>
+		<p>7. Burugo tendrá todos los derechos de propiedad intelectual relacionados con el sitio web terminado montado proyecto, páginas web y contenidos asociados creado por Burugo.
+		Este contenido incluye, pero no se limita al diseño, fotos, gráficos, código fuente, archivos de trabajo en marcha, texto y cualquier programa (s) específicamente diseñada para o comprado en nombre del restaurante, en relación con el Proyecto.</p>
+		<p>8. Restaurantes indemnizarán, defenderán y mantendrán Burugo inofensivo, sus unidades de negocio, y cada uno de los respectivos funcionarios, directores, accionistas, empleados, representantes, sucesores y cesionarios de burugo, de y contra todas las pérdidas, en la medida tales pérdidas están relacionadas con :
+		(a) el desarrollo, la explotación, el mantenimiento de la página web del proyecto realizado en la dirección del restaurante o solicitud;
+		(b) cualquier afirmación de que el contenido proporcionado por restaurante infringe o se apropia indebidamente de los derechos de autor de terceros, la patente de EE.UU., marca registrada u otro derecho de propiedad, o ( c ) cualquier afirman que el sitio web del proyecto y el contenido que se muestra en ella es defectuosa, inexacta o cause un perjuicio a terceros.</p>
+		<p>Burugo no garantiza que las funciones de la página web del proyecto, se cumplen las expectativas del restaurante de tráfico del sitio o que resulten de negocios o de que el funcionamiento de las páginas web del proyecto será ininterrumpido y / o libre de errores.
+		Restaurante¨s no darán Burugo responsable por el tiempo de inactividad ocasional de la página web del proyecto, debido a interrupciones en la línea y / u otras instancias ajenas al control de Burugo.</p>
+		
+		<p>Este Acuerdo, incluyendo cualquier futura modificación del Acuerdo, constituye el acuerdo de las partes con respecto al objeto del mismo y sustituye a cualquier acuerdo previo, oral y escrita, con respecto a la misma.
+		Restaurantes de acuerdo en que la aceptación de cualquiera de los Servicios estará sujeta a los términos del Contrato vigentes en ese momento, y la aceptación continua de los servicios siguientes modificaciones del Acuerdo confirma que los restaurantes han leído, aceptado y acordado que quedarán vinculados por estas modificaciones.
+		Todas las modificaciones del Acuerdo se publicarán en www.burugo.com y entrarán en vigor inmediatamente después de su publicación.</p>
+		
+		<p>Burugo estará dotado además de la notificación de todas las modificaciones del Acuerdo a través del correo electrónico enviado a la dirección del correo electrónico proporcionada por el restaurante a Burugo.
+		Restaurante dispondrá de un plazo de gracia de diez (10) días después de la publicación de cualquier modificación del Acuerdo de cancelar el Acuerdo de conformidad con los términos del Contrato ( plazo de gracia ).
+		La más reciente modificación deAcuerdo no se aplicará a cualquier restaurante que anula el Acuerdo durante el período de gracia.
+		El abajo firmante está de acuerdo a los términos, condiciones y estipulaciones del presente Acuerdo como agente autorizado del restaurante.</p>
+		]]></termsAndCondition>
+			<yesimready><![CDATA[Yes, I'm Ready!]]></yesimready>
+		</es>
+		<ko>
+			<activate_fail_body><![CDATA[<b>Sorry,</b><br />
+                    We could not find your information from our data.<br />
+                    If you already registered and not be able to log in please contact us at <a href="/support/">support team</a>.]]></activate_fail_body>
+			<activate_fail_title><![CDATA[Your account already had been activated or not exist.]]></activate_fail_title>
+			<activate_succ_body><![CDATA[<b>Thank you for your activation.</b><br />
+                    Now you can login with your credential.<br />
+		    If you have any other question please contact us at <a href="/support/">support team</a>.]]></activate_succ_body>
+			<activate_succ_title><![CDATA[Your account has been activated]]></activate_succ_title>
+			<CapD_1><![CDATA[부르고 회원이 되기위해 기본적인 고객정보를 기입해 주세요.]]></CapD_1>
+			<CapH_1><![CDATA[부르고 회원가입]]></CapH_1>
+			<check_box_req><![CDATA[체크 박스를 선택해주세요]]></check_box_req>
+			<code_req><![CDATA[사진속의 코드를 입력해 주세요]]></code_req>
+			<email_not_valid><![CDATA[사용되지 않는 이메일주소입니다. ]]></email_not_valid>
+			<email_req><![CDATA[이메일주소가 필요합니다.]]></email_req>
+			<email_taken><![CDATA[사용할 수 없는 이메일입니다.]]></email_taken>
+			<feature><![CDATA[부르고 회원 특혜]]></feature>
+			<feature_1_d><![CDATA[휴대폰과 컴퓨터로 빠르고 쉽게]]></feature_1_d>
+			<feature_1_h><![CDATA[1. 빠르고 정확한 예약]]></feature_1_h>
+			<feature_2_d><![CDATA[복잡하지 않고 누구나 사용가능]]></feature_2_d>
+			<feature_2_h><![CDATA[2. 편리한 주문과 확인]]></feature_2_h>
+			<feature_3_d><![CDATA[배달 전직원 백그라운드 조사, 친절한 고객 서비스]]></feature_3_d>
+			<feature_3_h><![CDATA[3. 믿을 수 있는 배달 서비스]]></feature_3_h>
+			<feature_desc><![CDATA[부르고 회원이 누리는 많은 특혜들을 살펴 보세요.]]></feature_desc>
+			<feature_join_d><![CDATA[부르고 회원 가입과 동시에 모든 혜택을 누릴 수 있습니다.]]></feature_join_d>
+			<feature_join_h><![CDATA[지금 바로 부르고에 가입하세요!!]]></feature_join_h>
+			<Field_AgreeAll><![CDATA[고객 가입과 동시에 <span class="showTermCond">약관</span>에 동의 합니다.]]></Field_AgreeAll>
+			<Field_BName><![CDATA[비지니스명/대행서비스 이름]]></Field_BName>
+			<Field_Captcha><![CDATA[아래 코드를 입력해 주세요.]]></Field_Captcha>
+			<Field_FName><![CDATA[이름]]></Field_FName>
+			<Field_HowHear><![CDATA[어디에서 부르고를 들으셨나요?]]></Field_HowHear>
+			<Field_HowHear_0><![CDATA[선택해 주세요 ...]]></Field_HowHear_0>
+			<Field_HowHear_1><![CDATA[TV 광고를 통해서]]></Field_HowHear_1>
+			<Field_HowHear_2><![CDATA[검색엔진 광고를 통해서]]></Field_HowHear_2>
+			<Field_HowHear_3><![CDATA[검색엔진을 통해서(구글, 야후, 빙, 기타)]]></Field_HowHear_3>
+			<Field_HowHear_4><![CDATA[음식관련 잡지를 통해서]]></Field_HowHear_4>
+			<Field_HowHear_5><![CDATA[친구를 통해서]]></Field_HowHear_5>
+			<Field_HowHear_6><![CDATA[직장 동료를 통해서]]></Field_HowHear_6>
+			<Field_HowHear_7><![CDATA[몰라요. 전 혜성에서 온 사람입니다.]]></Field_HowHear_7>
+			<Field_H_1><![CDATA[기본 로그인 정보]]></Field_H_1>
+			<Field_H_2><![CDATA[가입자 기본 정보]]></Field_H_2>
+			<Field_LName><![CDATA[성]]></Field_LName>
+			<Field_Login><![CDATA[로그인 아이디 (이메일 주소)]]></Field_Login>
+			<Field_Pass><![CDATA[비밀번호]]></Field_Pass>
+			<Field_PassC><![CDATA[비밀번호 재확인]]></Field_PassC>
+			<field_req><![CDATA[필수입력 사항입니다.]]></field_req>
+			<Field_SendEmail><![CDATA[이메일 주소 확인을 위해, 가입인증 메일을 보내오니, 실제 사용중이신 이메일을 넣어 주세요.]]></Field_SendEmail>
+			<pass_alphabet_req><![CDATA[최소한 하나의 영문자(A~Z,a~z)를 입력해주세요]]></pass_alphabet_req>
+			<pass_min_5><![CDATA[최소한 5자 이상 입력해주세요]]></pass_min_5>
+			<pass_not_match><![CDATA[비밀번호가 맞지 않습니다]]></pass_not_match>
+			<pass_num_req><![CDATA[최소한 하나의 숫자(0~9)를 입력해주세요]]></pass_num_req>
+			<register_succ_body><![CDATA[<b>Thank you for your registeration.</b><br />
+                    We sent a confirmation email, please confirm the email to access our service.<br />
+                    If you are not able to find the confirmation email in your email folder, please check your spam/junk folder for just in case, otherwise please contact our <a href="/support/">support team</a>.]]></register_succ_body>
+			<register_succ_title><![CDATA[계정이 만들어 졌습니다.]]></register_succ_title>
+			<termsAndCondition><![CDATA[
+			<h2>(주)부르고 개인정보 취급방침 </h2>
+
+
+			<p>(주)부르고(이하 '회사'라고 함)는 통신비밀보호법, 전기통신사업법, 정보통신망 이용촉진 및 정보보호 등에 관한 법률, 개인정보 보호법, 통신비밀보호법, 
+			전기통신사업법 등 정보통신서비스제공자가 준수하여야 할 관련 법령상의 개인정보보호 규정을 준수하며, 관련 법령에 의거한 개인정보취급방침을 정하여 
+			이용자 권익 보호에 최선을 다하고 있습니다. 회사의 개인정보취급방침은 다음과 같은 내용을 담고 있습니다.</p>
+			
+			
+			1. 수집하는 개인정보의 항목 및 수집방법<br />
+			2. 개인정보의 수집 및 이용목적<br />
+			3. 개인정보 제공<br />
+			4. 개인정보의 취급위탁<br />
+			5. 개인정보의 보유 및 이용기간<br />
+			6. 개인정보 파기절차 및 방법<br />
+			7. 이용자 및 법정대리인의 권리와 그 행사방법<br />
+			8. 개인정보 자동 수집 장치의 설치/운영 및 거부에 관한 사항<br />
+			9. 개인정보의 보호 대책<br />
+			10. 개인정보관리책임자 및 담당자의 연락처<br />
+			11. 기타<br />
+			12. 고지의 의무<br />
+			
+			
+			<h3>1. 수집하는 개인정보의 항목 및 수집방법</h3>
+			
+			   가. 수집하는 개인정보의 항목<br />
+				   첫째, 회사는 회원(또는 서비스) 가입, 원활한 고객상담, 각종 서비스의 제공 등을 위해 아래와 같은 최소한의 개인정보를 필수항목으로 수집하고 있습니다.<br />
+						<회원가입><br />
+						- 성명, 생년월일, 이메일, 거주지, 휴대폰 번호, 아이디, 비밀번호<br />
+						<비지니스 업소등록><br />
+						- 비지니스 업소명, 지역, 업소전화번호, 사장님 성함, 휴대폰번호, 사업자등록증, 프랜차이즈,영업시간, 카드결제여부, 배달여부, 배달가능지역, 휴무일, 업소소개글<br />
+			
+			   나. 개인정보 수집방법<br />
+			   회사는 다음과 같은 방법으로 개인정보를 수집합니다.<br />
+			   - 홈페이지,팩스, 전화 <br />
+			
+			
+			<h3>2. 개인정보의 수집 및 이용목적</h3>
+			
+			   가. 서비스 제공에 관한 계약 이행 및 서비스 제공 본인인증, 서비스 제공<br />
+			
+			   나. 회원관리<br />
+				   회원제 서비스 이용 및 제한적 본인 확인제에 따른 본인확인, 개인식별, 불량회원의 부정 이용방지와 비인가 사용방지, 가입의사 확인, 가입 및 가입횟수 제한, 
+				   만14세 미만 아동 개인정보 수집 시 법정 대리인 동의여부 확인, 추후 법정 대리인 본인확인, 분쟁 조정을 위한 기록보존, 불만처리 등 민원처리, 고지사항 전달<br />
+			
+			   다. 신규 서비스 개발 및 마케팅광고에의 활용<br />
+				   신규 서비스 개발 및 맞춤 서비스 제공, 통계학적 특성에 따른 서비스 제공 및 광고, 서비스의 유효성 확인, 이벤트 및 광고성 정보 제공 및 참여기회 제공,  접속빈도 파악, 회원의 서비스이용에 대한 통계<br />
+			
+			
+			<h3>3. 개인정보 제공</h3>
+			<p>회사는 이용자들의 개인정보를 '2. 개인정보의 수집목적 및 이용목적'에서 고지한 범위내에서 사용하며, 이용자의 사전 동의 없이는 동 범위를 초과하여 이용하거나 
+			원칙적으로 이용자의 개인정보를 외부에 공개하지 않습니다. 다만, 아래의 경우에는 예외로 합니다.</p>
+			
+			   가. 이용자들이 사전에 공개에 동의한 경우<br />
+			
+			   나. 법령의 규정에 의거하거나, 수사 목적으로 법령에 정해진 절차와 방법에 따라 수사기관의 요구가 있는 경우<br />
+			 
+			
+			<h3>4. 회사는 고객에 대하여 보다 더 질 높은 서비스 제공을 위해 </h3>
+			
+			   가. 이용자들이 사전에 공개에 동의한 경우 제공하고 있습니다.<br />
+			
+			
+			<h3>5. 개인정보의 보유 및 이용기간</h3>
+			이용자의 개인정보는 원칙적으로 개인정보의 수집 및 이용목적이 달성되면 지체 없이 파기합니다. 단, 다음의 정보에 대해서는 아래의 이유로 명시한 기간 동안 보존합니다.<br />
+			
+			   가. 회사 내부 방침에 의한 정보보유 사유<br />
+				   - 부정이용기록 <br />
+					 보존 이유 : 부정 이용 방지 <br />
+					 보존 기간 : 1년 <br />
+			
+			   <비지니스 전용사이트><br />
+				   - 사장님 탈퇴기록 <br />
+					 보존 이유 : 민원처리 등 <br />
+					 보존 기간 : 30일 <br />
+			
+			   나. 관련법령에 의한 정보보유 사유<br />
+				   <p>상법, 전자상거래 등에서의 소비자보호에 관한 법률 등 관계법령의 규정에 의하여 보존할 필요가 있는 경우 회사는 관계법령에서 정한 
+				   일정한 기간 동안 회원정보를 보관합니다. 이 경우 회사는 보관하는 정보를 그 보관의 목적으로만 이용하며 보존기간은 아래의 예시와 같습니다.</p>
+				   - 본인확인에 관한 기록 <br />
+					 보존 이유 : 정보통신망 이용촉진 및 정보보호 등에 관한 법률 <br />
+					 보존 기간 : 6개월 <br />
+				   - 표시/광고에 관한 기록 <br />
+					 보존 이유 : 정보통신망 이용촉진 및 정보보호 등에 관한 법률 <br />
+					 보존 기간 : 6개월 <br />
+				   - 웹사이트 방문에 관한 기록 <br />
+					 보존 이유 : 통신비밀보호법 <br />
+					 보존 기간 : 3개월 <br />
+			
+			
+			<h3>6. 개인정보 파기절차 및 방법</h3>
+			<p>이용자의 개인정보는 원칙적으로 개인정보의 수집 및 이용목적이 달성되면 지체 없이 파기합니다. 회사의 개인정보 파기절차 및 방법은 다음과 같습니다.</p>
+			
+			   가. 파기절차<br />
+				   - 이용자가 회원가입 등을 위해 입력한 정보는 목적이 달성된 후 별도의 DB로 옮겨져(종이의 경 우 별도의 서류함) 내부 방침 및 기타 관련 법령에 의한 정보보호 사유에 따라(보유 및 이용기간 참조)일정 기간 저장된 후 파기됩니다. <br />
+				   -  개인정보는 법률에 의한 경우가 아니고서는 보유되는 이외의 다른 목적으로 이용되지 않습니다. <br />
+			
+			   나. 파기방법<br />
+				   - 종이에 출력된 개인정보는 분쇄기로 분쇄하거나 소각을 통하여 파기합니다. <br />
+				   - 전자적 파일 형태로 저장된 개인정보는 기록을 재생할 수 없는 기술적 방법을 사용하여 삭제합니다. <br />
+			
+			
+			<h3>7. 이용자 및 법정대리인의 권리와 그 행사방법</h3>
+			   - 이용자 및 법정대리인은 언제든지 등록되어 있는 자신 혹은 당해 만 14세 미만 아동의 개인정보를 조회, 수정 또는 가입해지를 요청할 수 있습니다. <br />
+			   - 이용자 혹은 만 14세 미만 아동의 개인정보에 대한 조회, 수정 또는 가입해지를 위해서 개인정보 관리책임자 혹은 개인정보 관리담당자에게 서면, 전화 또는 이메일로 연락하시면 지체 없이 조치하겠습니다. <br />
+			   - 이용자가 개인정보의 오류에 대한 정정을 요청하신 경우에는 정정을 완료하기 전까지 당해 개인정보를 이용 또는 제공하지 않습니다. 또한 잘못된 개인정보를 제3 자에게 이미 제공한 경우에는 정정 처리결과를 제3자에게 지체 없이 통지하여 정정이 이루어지도록 하겠습니다. <br />
+			   - 회사는 이용자 혹은 법정 대리인의 요청에 의해 해지 또는 삭제된 개인정보는 '5. 개인정보의 보유 및 이용기간'에 명시된 바에 따라 처리하고 그 외의 용도로 열람 또는 이용할 수 없도록 처리하고 있습니다. <br />
+			
+			
+			<h3>8. 개인정보 자동 수집 장치의 설치/운영 및 거부에 관한 사항</h3>
+			
+			   가. 쿠키란<br />
+				  - 회사는 개인화되고 맞춤화된 서비스를 제공하기 위해서 이용자의 정보를 저장하고 수시로 불러오는 ‘쿠키(cookie)’를 사용합니다. <br />
+				  - 쿠키는 웹사이트를 운영하는데 이용되는 서버가 이용자의 브라우저에게 보내는 아주 작은 텍스트 파일로 이용자 컴퓨터의 하드디스크에 저장됩니다. <br />
+					이후 이용자가 웹 사이트에 방문할 경우 웹 사이트 서버는 이용자의 하드 디스크에 저장되어 있는 쿠키의 내용을 읽어 이용자의 환경설정을 유지하고 맞춤화된 서비스를 제공하기 위해 이용됩니다.<br />
+				  - 쿠키는 개인을 식별하는 정보를 자동적/능동적으로 수집하지 않으며, 이용자는 언제든지 이러한 쿠키의 저장을 거부하거나 삭제할 수 있습니다.<br />
+			
+			   나. 쿠키의 사용 목적<br />
+			   이용자들이 방문한 회사의 각 서비스와 웹 사이트들에 대한 방문 및 이용형태, 인기 검색어, 이용자 규모 등을 파악하여 이용자에게 광고를 포함한 최적화된 맞춤형 정보를 제공을 위해 사용합니다.<br />
+			
+			   다. 쿠키의 설치/운영 및 거부<br />
+				  - 이용자는 쿠키 설치에 대한 선택권을 가지고 있습니다. 따라서 이용자는 웹브라우저에서 선택을 설정함으로써 모든 쿠키를 허용하거나, 쿠키가 저장될 때마다 확인을 거치거나, 아니면 모든 쿠키의 저장을 거부할 수도 있습니다. <br />
+				  - 다만, 쿠키의 저장을 거부할 경우에는 로그인이 필요한 회사의 일부 서비스는 이용에 어려움이 있을 수 있습니다. <br />
+				  - 쿠키 설치 허용 여부를 지정하는 방법(Internet Explorer의 경우) 은 다음과 같습니다.<br />
+					① [도구] 메뉴에서 [인터넷 옵션]을 선택합니다. <br />
+					② [개인정보 탭]을 클릭합니다. <br />
+					③ [개인정보취급 수준]을 설정하시면 됩니다. <br />
+			
+			
+			<h3>9. 개인정보의 보호 대책</h3>
+			<p>회사는 이용자들의 개인정보를 취급함에 있어 개인정보가 분실, 도난, 누출, 변조 또는 훼손되지 않도록 안전성 확보를 위하여 다음과 같은 대책을 강구하고 있습니다.</p>
+			
+			   가. 비밀번호 암호화<br />
+			   회원 비밀번호는 암호화되어 저장 및 관리되고 있어 본인만이 알고 있으며, 개인정보의 확인 및 변경도 비밀번호를 알고 있는 본인에 의해서만 가능합니다.<br />
+			
+			   나. 해킹 등에 대비한 대책<br />
+			   <p>회사는 해킹이나 컴퓨터 바이러스 등에 의해 회원의 개인정보가 유출되거나 훼손되는 것을 막기 위해 최선을 다하고 있습니다.
+			   개인정보의 훼손에 대비해서 자료를 수시로 백업하고 있고, 최신 백신프로그램을 이용하여 이용자들의 개인정보나 자료가 누출되거나 손상되지 않도록 방지하고 있으며, 
+			   암호화통신 등을 통하여 네트워크상에서 개인정보를 안전하게 전송할 수 있도록 하고 있습니다. 그리고 침입차단시스템을 이용하여 외부로부터의 무단 접근을 통제하고 
+			   있으며, 기타 시스템적으로 보안성을 확보하기 위한 가능한 모든 기술적 장치를 갖추려 노력하고 있습니다.</p>
+			
+			   다. 취급 직원의 최소화 및 교육<br />
+			   <p>회사의 개인정보관련 취급 직원은 담당자에 한정시키고 있고 이를 위한 별도의 비밀번호를 부여하여 정기적으로 갱신하고 있으며, 담당자에 대한 수시 교육을 통하여 개인정보취급방침의 준수를 항상 강조하고 있습니다.</p>
+			
+			   라. 개인정보보호전담기구의 운영<br />
+			   <p>사내 개인정보보호전담기구 등을 통하여 개인정보취급방침의 이행사항 및 담당자의 준수여부를 확인하여 문제가 발견될 경우 즉시 수정하고 바로 잡을 수 있도록 노력하고 있습니다. 단, 이용자 본인의 부주의나 인터넷상의 문제로 ID, 비밀번호, 주민등록번호, 소셜시큐리티번호 등 개인정보가 유출되어 발생한 문제에 대해 회사는  일체의 책임을 지지 않습니다.</p>
+			
+			
+			<h3>10. 개인정보관리책임자 및 담당자의 연락처</h3>
+			귀하께서는 회사의 서비스를 이용하시며 발생하는 모든 개인정보보호 관련 민원을 개인정보관리책임자 혹은 담당부서로 신고하실 수 있습니다. 회사는 이용자들의 신고사항에 대해 신속하게 충분한 답변을 드릴 것입니다.<br />
+			
+				개인정보 관리 책임자<br />
+				이 름  박찬호<br />
+				전 화  678-308-8833<br />
+				직 위 사장<br />
+				메 일  ceo@burugo.com<br />
+			
+			기타 개인정보침해에 대한 신고나 상담이 필요하신 경우에는 아래 기관에 문의하시기 바랍니다.<br />
+			
+			
+			<h3>11. 기타</h3>
+			<p>회사의 인터넷 서비스에 링크되어 있는 웹사이트들이 개인정보를 수집하는 행위에 대해서는 본 '개인정보취급방침'이 적용되지 않음을 알려 드립니다.</p>
+			
+			
+			<h3>12. 고지의 의무</h3>
+			<p>현 개인정보취급방침 내용 추가, 삭제 및 수정이 있을 시에는 개정 최소 7일전부터 홈페이지의 '공지사항'을 통해 고지할 것입니다.
+			다만, 개인정보의 수집 및 활용, 제3자 제공 등과 같이 이용자 권리의 중요한 변경이 있을 경우에는 최소 30일 전에 고지합니다.</p>
+			
+			
+			
+			
+			- 공고일자 : 2013년11월 7일<br />
+			- 시행일자 : 2013년 11월7일<br />
+            
+            
+		]]></termsAndCondition>
+			<yesimready><![CDATA[회원가입]]></yesimready>
+		</ko>
+		<jp>
+			<activate_fail_body><![CDATA[<b>Sorry,</b><br />
+                    We could not find your information from our data.<br />
+                    If you already registered and not be able to log in please contact us at <a href="/support/">support team</a>.]]></activate_fail_body>
+			<activate_fail_title><![CDATA[Your account already had been activated or not exist.]]></activate_fail_title>
+			<activate_succ_body><![CDATA[<b>Thank you for your activation.</b><br />
+                    Now you can login with your credential.<br />
+		    If you have any other question please contact us at <a href="/support/">support team</a>.]]></activate_succ_body>
+			<activate_succ_title><![CDATA[Your account has been activated]]></activate_succ_title>
+			<CapD_1><![CDATA[BURUGO会員になる前に基本的な顧客情報を記入してください.]]></CapD_1>
+			<CapH_1><![CDATA[BURUGO 会員加入]]></CapH_1>
+			<check_box_req><![CDATA[チェックボックスを選択してください]]></check_box_req>
+			<code_req><![CDATA[写真の中のコードを入力してください]]></code_req>
+			<email_not_valid><![CDATA[使用されないEメールアドレスです。]]></email_not_valid>
+			<email_req><![CDATA[Eメールアドレスが必要です。]]></email_req>
+			<email_taken><![CDATA[使用できないメールです。]]></email_taken>
+			<feature><![CDATA[BURUGO 会員特恵]]></feature>
+			<feature_1_d><![CDATA[携帯電話とコンピューターで早くて簡単に]]></feature_1_d>
+			<feature_1_h><![CDATA[1. 早くて正確な予約]]></feature_1_h>
+			<feature_2_d><![CDATA[複雑ではなく誰でも使用可能]]></feature_2_d>
+			<feature_2_h><![CDATA[2. 手軽い注文と確認]]></feature_2_h>
+			<feature_3_d><![CDATA[配達全職員のバックグラウンドの調査, 親切な顧客サービス]]></feature_3_d>
+			<feature_3_h><![CDATA[3. 信頼できる配達サービス]]></feature_3_h>
+			<feature_desc><![CDATA[BURUGO会 員になれば享受する多くの特恵をよく調べて見てください!]]></feature_desc>
+			<feature_join_d><![CDATA[BURUGO会員加入と同時に、すべての恩恵を享受することができます。]]></feature_join_d>
+			<feature_join_h><![CDATA[今すぐBURUGOに加入してください!!]]></feature_join_h>
+			<Field_AgreeAll><![CDATA[顧客加入と同時に上の約款に同意します <span class="showTermCond">Privacy Policy</span> and <span class="showTermCond">Burugo User Agreement</span>.]]></Field_AgreeAll>
+			<Field_BName><![CDATA[事業団体名/代行サービス名]]></Field_BName>
+			<Field_Captcha><![CDATA[下のアルファベットを入力してください]]></Field_Captcha>
+			<Field_FName><![CDATA[名前]]></Field_FName>
+			<Field_HowHear><![CDATA[BURUGOに加入するきっかけは?]]></Field_HowHear>
+			<Field_HowHear_0><![CDATA[選択してください ...]]></Field_HowHear_0>
+			<Field_HowHear_1><![CDATA[TV広告を通じて]]></Field_HowHear_1>
+			<Field_HowHear_2><![CDATA[検索エンジン広告を通じて]]></Field_HowHear_2>
+			<Field_HowHear_3><![CDATA[検索エンジンを通じて(Google,ヤフー,その他)]]></Field_HowHear_3>
+			<Field_HowHear_4><![CDATA[食べ物関連雑誌を通じて]]></Field_HowHear_4>
+			<Field_HowHear_5><![CDATA[友達を通じて]]></Field_HowHear_5>
+			<Field_HowHear_6><![CDATA[職場仲間を通じて]]></Field_HowHear_6>
+			<Field_HowHear_7><![CDATA[分かりません。私は彗星から来た人です]]></Field_HowHear_7>
+			<Field_H_1><![CDATA[基本ログイン情報]]></Field_H_1>
+			<Field_H_2><![CDATA[加入者基本情報]]></Field_H_2>
+			<Field_LName><![CDATA[苗字]]></Field_LName>
+			<Field_Login><![CDATA[ログイン ID (E-mailアドレス)]]></Field_Login>
+			<Field_Pass><![CDATA[パスワード]]></Field_Pass>
+			<Field_PassC><![CDATA[Confirm パスワード再確認]]></Field_PassC>
+			<field_req><![CDATA[必須事項です。]]></field_req>
+			<Field_SendEmail><![CDATA[E-mail 住所確認のために, 加入認証メールを送りますので, 実際使用中のE-mailを入れてください.]]></Field_SendEmail>
+			<pass_alphabet_req><![CDATA[最低一つの英文字(A~Z、a~z)を入力してください]]></pass_alphabet_req>
+			<pass_min_5><![CDATA[少なくとも5字以上入力してください]]></pass_min_5>
+			<pass_not_match><![CDATA[暗証番号があわないんです]]></pass_not_match>
+			<pass_num_req><![CDATA[最低一つの数字(0~9)を入力してください]]></pass_num_req>
+			<register_succ_body><![CDATA[<b>Thank you for your registeration.</b><br />
+                    We sent a confirmation email, please confirm the email to access our service.<br />
+                    If you are not able to find the confirmation email in your email folder, please check your spam/junk folder for just in case, otherwise please contact our <a href="/support/">support team</a>.]]></register_succ_body>
+			<register_succ_title><![CDATA[アカウントが作られました。]]></register_succ_title>
+			<termsAndCondition><![CDATA[
+			<h2>(株) Burugo個人情報取り扱い方針</h2>
+
+
+			<p>(株) Burugo(以下 '会社'という)は通信秘密保護法, 電気通信事業法, 情報通信網利用促進及び情報保護などに関する法律, 個人情報保護法, 通信秘密保護法, 電気通信事業法など情報通信サービス提供者が守らなければならない関連法令上の個人情報保護規定を守って, 関連法令に基づいた個人情報取り扱い方針を決めて利用者権益保護に最善をつくしています。 会社の個人情報取り扱い方針は次のような内容を記しています.</p>
+			
+			
+			1. 収集する個人情報の項目及び収集方法<br />
+			2. 個人情報の収集及び利用目的<br />
+			3. 個人情報提供<br />
+			4. 個人情報の取り扱い委託<br />
+			5. 個人情報の保有及び利用期間<br />
+			6. 個人情報破棄手続き及び方法<br />
+			7. 利用者及び法定代理人の権利とその行事方法<br />
+			8. 個人情報自動収集装置の設置/運営及び拒否に関する事項<br />
+			9. 個人情報の保護対策<br />
+			10. 個人情報管理責任者及び担当者の連絡先<br />
+			11. その他<br />
+			12. 告知の義務<br />
+			
+			
+			<h3>1. 収集する個人情報の項目及び収集方法</h3>
+			
+			   ア. 収集する個人情報の項目<br />
+				   第一, 会社は会員(またはサービス) 加入, 円滑な顧客相談, 各種サービスの提供などのために下のような最小限の個人情報を必須項目で収集しています.<br />
+						<会員加入><br />
+						- 名前, 生年月日, E-mail, 居住地, 携帯電話番号, I.D., パスワード<br />
+						<ビジネス業店登録><br />
+						- ビジネス店名, 地域, 業店電話番号, 社長のお名前, 携帯電話番号, 事業者登録証, フランチャイズ,営業時間, カード決済可否, 配達可否, 配達可能地域, 休業日, 業店紹介文<br />
+			
+			   イ. 個人情報収集方法<br />
+			   会社は次のような方法で個人情報を収集します.<br />
+			   - ホームページ,ファックス,電話 <br />
+			
+			
+			<h3>2. 個人情報の収集及び利用目的</h3>
+			
+			   ア. サービス提供に関する契約移行及びサービス提供本人認証,サービス提供<br />
+			
+			   イ. 会員管理<br />
+				   会員制サービス利用及び制限的本人確認制による本人確認, 個人識別, 不良会員の不正利用防止と非認可使用防止, 加入意思確認, 加入及び加入回数制限, 満14歳未満児童個人情報収集時法廷代理人同意可否確認, 後日法廷代理人本人確認, 紛争調整のための記録保存, 不満処理など請願処理, 告知事項伝達<br />
+			
+			   ウ. 新規サービス開発及びマーケティング広告への活用<br />
+				   新規サービス開発及びオーダーメードサービス提供, 統計学的特性によるサービス提供及び広告, サービスの有效性確認, イベント及び広告性情報提供及び参加機会提供, 接続頻度把握, 会員のサービス利用に対する統計<br />
+			
+			
+			<h3>3. 個人情報提供</h3>
+			<p>会社は利用者たちの個人情報を '2. 個人情報の収集目的及び利用目的'で告知した範囲内で使い, 利用者の事前同意なしには同範囲を超過して利用するとか原則的に利用者の個人情報を外部に公開しません。 ただし, 下の場合には例外にします.</p>
+			
+			   ア. 利用者たちが前もって公開に同意した場合<br />
+			
+			   イ. 法令の規定に基づくとか, 捜査目的で法令に決まった手続きと方法によって捜査機関の要求がある場合<br />
+			 
+			
+			<h3>4. 会社は顧客に対してもっとも質の高いサービス提供のため </h3>
+			
+			   ア. 利用者たちが前もって公開に同意した場合提供しています.<br />
+			
+			
+			<h3>5. 個人情報の保有及び利用期間</h3>
+			利用者の個人情報は原則的に個人情報の収集及び利用目的が達成されれば透かさず破棄します。 ただし, 次の情報に対しては下の理由で明示した期間の間保存します.<br />
+			
+			   ア. 会社内部方針による情報保有事由<br />
+				   - 不正利用記録 <br />
+					 保存理由 : 不正利用防止 <br />
+					 保存期間 : 1年 <br />
+			
+			   <ビジネス専用サイト><br />
+				   - 社長脱退記録 <br />
+					 保存理由 : 請願処理など <br />
+					 保存期間 : 30日 <br />
+			
+			   イ. 関連法令による情報保有事由<br />
+				   <p>商法, 電子商取引などでの消費者保護に関する法律など関係法令の規定によって保存する必要がある場合会社は関係法令で定め決まった期間の間、会員情報を保管します. この場合、会社は保管する情報をその保管の目的だけで利用して保存期間は下の例示と同じです.</p>
+				   - 本人確認に関する記録 <br />
+					 保存理由 : 情報通信網利用促進及び情報保護などに関する法律 <br />
+					 保存期間 : 6ヶ月 <br />
+				   - 表示/広告に関する記録 <br />
+					 保存理由 : 情報通信網利用促進及び情報保護などに関する法律 <br />
+					 保存期間 : 6ヶ月 <br />
+				   - ウェブサイト訪問に関する記録 <br />
+					 保存理由 : 通信秘密保護法 <br />
+					 保存期間 : 3ヶ月 <br />
+			
+			
+			<h3>6. 個人情報破棄手続き及び方法</h3>
+			<p>利用者の個人情報は原則的に個人情報の収集及び利用目的が達成されれば透かさず破棄します. 会社の個人情報破棄手続き及び方法は次の通りです.</p>
+			
+			   ア. 破棄の手続き<br />
+				   - 利用者が会員加入などのために入力した情報は目的が達成された後、別途の DBで移されて(紙の場合、別途の書類箱) 内部方針及びその他関連法令による情報保護事由によって(保有及び利用期間参照)日程期間保存された後、破棄されます. <br />
+				   - 個人情報は法律による場合ではなければ保有される以外の他の目的に利用されません. <br />
+			
+			   イ. 破棄方法<br />
+				   - 紙に出力された個人情報は粉砕機で粉碎したり、焼却を通じて破棄します. <br />
+				   - 電子的ファイル形態に保存された個人情報は記録を再生することができない技術的方法を使って削除します. <br />
+			
+			
+			<h3>7. 利用者及び法定代理人の権利とその行事方法</h3>
+			   - 利用者及び法定代理人はいつでも登録されている自分あるいは満14歳未満児童の個人情報を照会, 修正または加入解約を要請することができます. <br />
+			   - 利用者あるいは満14歳未満児童の個人情報に対する照会, 修正または加入解約のために個人情報管理責任者あるいは個人情報管理担当者に書面, 電話またはE-mailで連絡すれば透かさず措置します. <br />
+			   - 利用者が個人情報のエラーに対する訂正を要請した場合には、訂正を完了する前まで個人情報を利用または提供しません。 また間違った個人情報を第3者にもう提供した場合には訂正処理結果を第3者に透かさず通知して訂正が成り立つようにします. <br />
+			   - 会社は利用者あるいは法廷代理人の要請によって解約または削除された個人情報は '5. 個人情報の保有及び利用期間'に明示されたところによって処理し、その以外の用途で閲覧または利用することができないように処理しています. <br />
+			
+			
+			<h3>8. 個人情報自動収集装置の設置/運営及び拒否に関する事項</h3>
+			
+			   ア. クッキーとは<br />
+				  - 会社は個人化され、オーダーメード化されたサービスを提供するために利用者の情報を保存し、寄り寄り呼んで来る ‘クッキー(cookie)’を使います. <br />
+				  - クッキーはウェブサイトを運営するのに利用されるサーバーが利用者のブラウザーに送るとても小さなテキストファイルで利用者コンピューターのハードディスクに保存されます. <br />
+					以後、利用者がウェブサイトに訪問する場合、ウェブサイトサーバーは利用者のハードディスクに保存されているクッキーの内容を読んで利用者の環境設定を維持し、オーダーメード化されたサービスを提供するために利用されます.<br />
+				  - クッキーは個人を識別する情報を自動的/能動的に収集しないし, 利用者はいつでもこのようなクッキーの保存を拒否するとか削除することができます.<br />
+			
+			   イ. クッキーの使用目的<br />
+			   利用者たちが訪問した会社の各サービスと各ウェブサイトに対する訪問及び利用形態, 人気検索語, 利用者規模などを把握し、利用者に広告を含んだ最適化されたオーダーメード型情報を提供のために使います.<br />
+			
+			   ウ. クッキーの設置/運営及び拒否<br />
+				  - 利用者はクッキー設置に対する選択権を持っています。 したがって利用者はウェブブラウザーで選択を設定することですべてのクッキーを許容するとか, クッキーが保存される度に確認を経るとか, ではなければすべてのクッキーの保存を拒否することもできます. <br />
+				  - ただし, クッキーの保存を拒否する場合には、ログインが必要な会社の一部サービスは利用に不便があり得ます. <br />
+				  - クッキー設置許容可否を指定する方法(Internet Explorerの場合)は次の通りです.<br />
+					① [ツール] メニューで [インターネットオプション]を選択します. <br />
+					② [個人情報タップ]をクリックします. <br />
+					③ [個人情報取り扱いレベル]を設定すれば良いです. <br />
+			
+			
+			<h3>9. 個人情報の保護対策</h3>
+			<p>会社は利用者たちの個人情報を扱うにおいて、個人情報が紛失, 盗難, 漏出, 変造または毀損されないように安全性確保のために次のような対策を講究しています.</p>
+			
+			   ア. パスワード暗号化<br />
+			   会員パスワードは暗号化されて保存及び管理されていて本人だけが分かっているし, 個人情報の確認及び変更もパスワードが分かっている本人にだけ可能です.<br />
+			
+			   イ. ハッキングなどに備えた対策<br />
+			   <p>会社はハッキングやコンピューターウイルスなどによって会員の個人情報が流出されるとか毀損されることを阻むために最善をつくしています.
+			   個人情報の毀損に備えて資料を随時にバックアップしているし, 最新ワクチンプログラムを利用し、利用者たちの個人情報や資料が漏出されるとか損傷されないように防止しているし, 暗号化通信などを通じてネットワーク上で個人情報を安全に送るようにしています.
+			   そして、侵入遮断システムを利用して外部からの無断接近を統制しているし, その他システム的に保安性を確保するための可能なあらゆる技術的装置を取り揃えようと努力しています.</p>
+			
+			   ウ. 取り扱い職員の最小化及び教育<br />
+			   <p>会社の個人情報関連取り扱い職員は担当者に限定させているし、このため別途のパスワードを付与して定期的に更新しているし, 担当者に対する随時教育を通じて個人情報取り扱い方針の遵守をいつも強調しています.</p>
+			
+			   エ. 個人情報保護専門機構の運営<br />
+			   <p>社内での個人情報保護専門機構などを通じて個人情報取り扱い方針の移行事項及び担当者の遵守可否を確認して問題が発見される場合、直ちに修正し、直すことができるように努力しています。 ただし, 利用者本人の不注意やインターネット上の問題で ID, パスワード, 住民番号, ソーシャルセキュリティ番号など個人情報が流出されて発生した問題に対して会社は一体の責任を負いません.</p>
+			
+			
+			<h3>10. 個人情報管理責任者及び担当者の連絡先</h3>
+			貴下は会社のサービスを利用しながら発生するすべての個人情報保護関連請願を個人情報管理責任者、あるいは担当部署で届けることができます. 会社は利用者たちの申告事項に対して速かに十分な返事を申し上げます.<br />
+			
+				個人情報管理責任者<br />
+				名前：パク・チャンホ<br />
+				電話： 678-308-8833<br />
+				職位：社長<br />
+				E-mail： ceo@burugo.com<br />
+			
+			その他個人情報侵害に対する申告や相談が必要な場合には下の機関にお問い合わせてください.<br />
+			
+			
+			<h3>11. その他</h3>
+			<p>会社のインターネットサービスにリンクされているウェブサイトが個人情報を収集する行為に対しては我が会社の個人情報取り扱い方針'が適用されないことをお知らせいたします.</p>
+			
+			
+			<h3>12. 告知の義務</h3>
+			<p>現個人情報取り扱い方針内容追加, 削除及び修正がある場合には改訂最小7日前からホームページの '告知事項'を通じて告知します.
+			ただし, 個人情報の収集及び活用, 第3者提供などのように利用者権利の重要な変更がある場合には最小30日前に告知します.</p>
+			
+			
+			
+			
+			- 公告日付け: 2013年11月 7日<br />
+			- 施行日付け: 2013年 11月7日<br />
+		]]></termsAndCondition>
+			<yesimready><![CDATA[会員加入]]></yesimready>
+		</jp>
+		<cn>
+			<activate_fail_body><![CDATA[<b>Sorry,</b><br />
+                    We could not find your information from our data.<br />
+                    If you already registered and not be able to log in please contact us at <a href="/support/">support team</a>.]]></activate_fail_body>
+			<activate_fail_title><![CDATA[Your account already had been activated or not exist.]]></activate_fail_title>
+			<activate_succ_body><![CDATA[<b>Thank you for your activation.</b><br />
+                    Now you can login with your credential.<br />
+		    If you have any other question please contact us at <a href="/support/">support team</a>.]]></activate_succ_body>
+			<activate_succ_title><![CDATA[Your account has been activated]]></activate_succ_title>
+			<CapD_1><![CDATA[Please input your information to become a Burugo member.]]></CapD_1>
+			<CapH_1><![CDATA[Burugo 注册]]></CapH_1>
+			<check_box_req><![CDATA[Please check this box]]></check_box_req>
+			<code_req><![CDATA[Please type code on the picture]]></code_req>
+			<email_not_valid><![CDATA[This is not a valid email address.]]></email_not_valid>
+			<email_req><![CDATA[Email is required.]]></email_req>
+			<email_taken><![CDATA[This email address is already taken.]]></email_taken>
+			<feature><![CDATA[Burugo Features]]></feature>
+			<feature_1_d><![CDATA[Realtime order/review management system]]></feature_1_d>
+			<feature_1_h><![CDATA[1. Fast and Convenient]]></feature_1_h>
+			<feature_2_d><![CDATA[Simple order process]]></feature_2_d>
+			<feature_2_h><![CDATA[2. Easy to order and confirm]]></feature_2_h>
+			<feature_3_d><![CDATA[Nice and Fast delivery service]]></feature_3_d>
+			<feature_3_h><![CDATA[3. Trustable Delivery Service]]></feature_3_h>
+			<feature_desc><![CDATA[You will get tons of benefits for your business!]]></feature_desc>
+			<feature_join_d><![CDATA[We Gurantee That You Will Never Regret.]]></feature_join_d>
+			<feature_join_h><![CDATA[Join Burugo Today!!]]></feature_join_h>
+			<Field_AgreeAll><![CDATA[By creating an account, you are agreeing that you have read and agree <span class="showTermCond">Privacy Policy</span> and <span class="showTermCond">Burugo User Agreement</span>.]]></Field_AgreeAll>
+			<Field_BName><![CDATA[Business Name]]></Field_BName>
+			<Field_Captcha><![CDATA[Enter the code below]]></Field_Captcha>
+			<Field_FName><![CDATA[First Name]]></Field_FName>
+			<Field_HowHear><![CDATA[How did you hear about us?]]></Field_HowHear>
+			<Field_HowHear_0><![CDATA[Please Select ...]]></Field_HowHear_0>
+			<Field_HowHear_1><![CDATA[From TV Advertisement]]></Field_HowHear_1>
+			<Field_HowHear_2><![CDATA[From Search Engine AD]]></Field_HowHear_2>
+			<Field_HowHear_3><![CDATA[From Search Engine(Google, Yahoo, Bing, etc))]]></Field_HowHear_3>
+			<Field_HowHear_4><![CDATA[From FOOD Magazines]]></Field_HowHear_4>
+			<Field_HowHear_5><![CDATA[From Friends]]></Field_HowHear_5>
+			<Field_HowHear_6><![CDATA[From Colleagues]]></Field_HowHear_6>
+			<Field_HowHear_7><![CDATA[I don't know, I came from Mars]]></Field_HowHear_7>
+			<Field_H_1><![CDATA[Your Login Information]]></Field_H_1>
+			<Field_H_2><![CDATA[About You]]></Field_H_2>
+			<Field_LName><![CDATA[Last Name]]></Field_LName>
+			<Field_Login><![CDATA[Login ID (Email Address)]]></Field_Login>
+			<Field_Pass><![CDATA[Password]]></Field_Pass>
+			<Field_PassC><![CDATA[Confirm Password]]></Field_PassC>
+			<field_req><![CDATA[This field is required.]]></field_req>
+			<Field_SendEmail><![CDATA[We will send you a confirmation email. Please make sure that it is valid address.]]></Field_SendEmail>
+			<pass_alphabet_req><![CDATA[Must contain at least one alphabet(A~Z,a~z)]]></pass_alphabet_req>
+			<pass_min_5><![CDATA[Minimum length is 5 characters]]></pass_min_5>
+			<pass_not_match><![CDATA[Password is not matched]]></pass_not_match>
+			<pass_num_req><![CDATA[Must contain at least one number(0~9)]]></pass_num_req>
+			<register_succ_body><![CDATA[<b>Thank you for your registeration.</b><br />
+                    We sent a confirmation email, please confirm the email to access our service.<br />
+                    If you are not able to find the confirmation email in your email folder, please check your spam/junk folder for just in case, otherwise please contact our <a href="/support/">support team</a>.]]></register_succ_body>
+			<register_succ_title><![CDATA[Your account has been created]]></register_succ_title>
+			<termsAndCondition><![CDATA[
+			<h2>Privacy Agreement</h2>
+			<p>burugo, Inc. ('burugo') collects certain information through its websites and mobile sites, located at www.burugo.com. Your privacy is important to us and this Privacy Policy lays out our policies and procedures surrounding the collection and handling of such information. This Privacy Policy applies only to the Services. It does not apply to any restaurant sites, other third party services linked to burugo Services or offline activities related to burugo services.</p>
+			<h3>1. Information burugo Collects</h3>
+				<p>burugo may collect the following information from users of our Services: first name, last name, street address, city, state, zip code, cross streets, phone number, e-mail address, Services-specific display name, GPS location, electronic signature and credit card information (collectively, 'Personally Identifiable Information' or 'PII'). burugo is not intended for use by children under the age of 13 and burugo does not knowingly collect PII from children under the age of 13. Use of Sites services requires that you register and/or create an account ('Account'). In addition to the PII set forth above, burugo may collect information regarding Account holders' past burugo orders, favorite restaurants, customer service inquiries, service/restaurant reviews and certain social networking preferences relating to the Sites (e.g. pages or entities you like, recommend or follow).</p>
+				
+				<p>In addition, burugo may collect information regarding burugo account holders' current and past burugo orders, gratuity amounts, favorite restaurants, customer service inquiries, service/restaurant reviews and certain social networking preferences.</p>
+				
+				<p>burugo also uses web analytics software to track and analyze traffic for its Services in connection with burugo's advertising and promotion of burugo services. burugo also aggregates certain information collected by the Applications including, but not limited to, certain order data, gratuity information, delivery locations, delivery driver mileage, and delivery driver location. burugo may publish these statistics or share them with third parties without including PII.</p>
+				
+				<p>burugo may collect additional PII in connection with The Daily Grub blog submissions including professional title, business/personal website, social networking handle/username and the author's photograph.
+			
+			<h3>2. burugo's Use Of Collected Information</h3>
+				burugo uses PII to create users' burugo accounts, to communicate with users (directly and through restaurants and delivery drivers) about burugo services, to offer users additional services, promotions and special offers and to charge for purchases and gratuities made through us. Users may opt to allow us to store certain PII used to create users' burugo accounts, including, but not limited to, credit card information. burugo uses certain stored PII to customize future order processing for you. You may request that burugo cease storing certain PII at any time, but you might not be able to take advantage of certain customized features. Users may affirmatively opt-out of receiving promotional communications from burugo by visiting http://www.burugo.com and providing burugo with their e-mail address via the opt-out link. burugo may also use PII to enforce burugo terms of use and service.
+				
+				burugo uses PII submitted by authors of The Daily Grub blog content by publishing that information on The Daily Grub, and as otherwise agreed by burugo and submitting author. By submitting PII to burugo in connection with Daily Grub blog content, the author agrees to burugo's publication of that PII, and any other PII.
+				
+				burugo uses cookies to remember users on the Sites and to enhance users' experience on the Sites. For example, when users with burugo accounts return to the Sites, cookies identify those users and allow the Sites to provide certain user-specific information such as burugo account information, past orders, favorite restaurants and user restaurant reviews.
+				
+				burugo does not sell the information it collects through the Services to third parties. burugo shares collected PII to third-party vendors and service providers with whom burugo works to provide application programming interfaces ('APIs') and other functions for the Services in connection with the delivery of burugo services. In addition, burugo shares users' burugo order content, special order instructions, first and last name, street address, e-mail address, telephone number and gratuity amounts with restaurants where users' orders are placed and delivery drivers, to the extent necessary to process and deliver those orders. burugo may also disclose PII to third parties such as attorneys, collection agencies, tribunals or law enforcement authorities pursuant to valid requests in connection with alleged violations of burugo terms of use and service or other alleged contract violations, infringement or similar harm to persons or property. 
+		
+			<h3>3. burugo's Protection of PII</h3>
+				<p>burugo uses reasonable security measures equal to or exceeding industry standard to protect PII from unauthorized access, destruction, use, modification and disclosure. Unfortunately, even with these measures,  burugo cannot guarantee the security of PII. By using the Services, you acknowledge and agree that burugo makes no such guarantee, and that you use the Services at your own risk.</p>
+			<h3>4. Accessing and Correcting Your PII</h3>
+				<p>Registered burugo account holders can access and change their own PII using the 'Edit' function on the our website. If you have questions regarding burugo's use or collection of your PII, please contact burugo's privacy officer at: burugoceo@gmail.com.</p>
+			<h3>5. Privacy Policy Amendments</h3>
+				<p>burugomay change this Privacy Policy at any time by posting a new version on this page or on a successor page. The new version will become effective on the posting date, which will be listed at the top of the page as the effective date.</p>
+		
+		<h2>Terms of Use</h2>
+			<p>burugo, Inc. ('burugo') operates its website and mobile site, located at www.burugo.com. Please read the following Terms of Use carefully before using burugo. For inquiries relating to any food orders, see our Return Policy. For information on advertising or promoting your restaurant through burugo, visit burugo Sign-up Form for Restaurants. </p>
+		
+			<h3>1. Applicability & Acceptance of These Terms of Use</h3>
+				<p>By viewing, using, accessing, browsing, or submitting any content or material on the Sites, you agree to these Terms of Use as a binding legal agreement between you and burugo, without limitation or qualification. The term 'you' or 'You' shall refer to any person or entity who views, uses, accesses, browses or submits any content or material to the Sites.</p>
+		
+				<p>If you do not agree to these Terms of Use, then you may not use the Sites. Burugo reserves the right to modify these Terms of Use at any time without prior notice.</p>
+		
+				<p>You agree that each visit you make to the Sites shall be subject to the then-current Terms of Use, and continued use of the Sites now or following modifications in these Terms of Use confirms that you have read, accepted, and agreed to be bound by such modifications.</p>
+		
+			<h3>User License</h3>
+				<p>1. burugo grants you permission (which may be revoked at any time for any reason or no reason) to view the Sites and to download, email, share via social networking or print individual pages from the Sites in accordance with these Terms of Use and solely for your own personal, non-commercial use, provided you do not remove any trademark, copyright or other notice contained on such pages. No other use is permitted. You may not, for example, incorporate the information, content, or other material in any database, compilation, archive or cache. You may not modify, copy, distribute, re-publish, transmit, display, perform, reproduce, publish, reuse, resell, license, create derivative works from, transfer, or sell any information, content, material, software, products or services obtained from the Sites, except as specifically noted above. Except as specifically authorized by burugo,  you may not deep-link to the Sites for any purpose or access the Sites manually or with any robot, spider, web crawler, extraction software, automated process or device to scrape, copy, or monitor any portion of the Sites or any information, content, or material on the Sites. burugo reserves all of its statutory and common law rights against any person or entity who violates this paragraph. You may not link or frame to any pages of the Sites or any content contained therein, whether in whole or in part, without prior written consent from burugo. You may like or follow burugo or share links to the Sites via social networking technology referenced on the Sites. Any rights not expressly granted herein are reserved.<p>
+				<p>2. User Conduct. You agree that your use of the Sites and/or services on the Sites is subject to all applicable local, state and federal laws and regulations. You also agree:</p>
+					- to comply with US law and local laws or rules regarding online conduct and acceptable material;<br />
+					- not to use the Sites or their services or submit content to the Sites if you are under the age of 13;<br />
+					- not to use the Sites to purchase alcohol unless you and the alcohol recipient are 21 or older and present a valid photo identification(s) verifying your age at the time of alcohol delivery;<br />
+					- not to access the Sites or services using a third-party's account/registration without the express consent of the account holder;<br />
+					- not to use the Sites for illegal purposes;<br />
+					- not to commit any acts of infringement on the Sites or with respect to content on the Sites;<br />
+					- not to use the Sites to engage in commercial activities apart from sanctioned use of burugo services;<br />
+					- not to copy any content, including, but not limited to restaurant menu content and third-party reviews, for republication in print or online;<br />
+					- not to create restaurant reviews or blog entries for or with any commercial or other purpose or intent that does not in good faith comport with the purpose or spirit of the Sites;<br />
+					- not to attempt to gain unauthorized access to other computer systems from or through the Sites;<br />
+					- not to interfere with another person's use and enjoyment of the Sites or another entity's use and enjoyment of the Sites;<br />
+					- not to upload or transmit viruses or other harmful, disruptive or destructive files; and/or<br />
+					- not to disrupt, interfere with, or otherwise harm or violate the security of the Sites, or any services, system resources, accounts, passwords, servers or networks connected to or accessible through the Sites or affiliated or linked sites (including those of our restaurant partners).<br />
+				<p>3. Harm from Commercial Use. You agree that the consequences of commercial use or re-publication of content or information from the Sites may be so serious and incalculable that monetary compensation may not be a sufficient or appropriate remedy and that burugo will be entitled to temporary and permanent injunctive relief to prohibit such use.
+			<h2>3. Site Content </h3>
+				<p>1. Nature of User Material. Some of the services offered by burugo on the Sites allow you and others to post, transmit, display, publish, distribute, or otherwise submit public user generated material including, but not limited to, restaurant reviews and blog entries, to the Sites (collectively, 'Submissions'). You agree not to create any Submission that: </p>
+					- contains vulgar, profane, abusive, hateful, or sexually explicit language, epithets or slurs, text in poor taste, inflammatory attacks of a personal, sexual, racial or religious nature, or expressions of bigotry, racism, discrimination or hate;<br />
+					- is defamatory, threatening, disparaging, inflammatory, false, misleading, deceptive, fraudulent, inaccurate, or unfair, contains gross exaggeration or unsubstantiated claims, violates the privacy rights or right of publicity of any third party, is unreasonably harmful or offensive to any individual or community, contains any actionable statement, or tends to mislead or reflect unfairly on any other person, business or entity;<br />
+					- unfairly interferes with any third party's uninterrupted use and enjoyment of the Sites;<br />
+					- advertises, disparages, promotes or offers to trade any goods or services in any manner that does not comport with the purpose or spirit of the Sites, including, but not limited to, negative reviews posted by competing restaurants or allegations of health code violations;<br />
+					- is intended primarily to promote a cause or movement, whether political, religious or other;<br />
+					- contains copyrighted content (copyrighted articles, illustrations, images, text, or other content) without the express permission of the owner of the copyrights in the content;<br />
+					- constitutes, promotes or encourages illegal acts, the violation of any right of any individual or entity, the violation of any local, state, national or international law, rule, guideline or regulation, or otherwise creates liability;<br />
+					- discloses any personal identifying information relating to or images of a minor without consent of a parent, guardian or educational supervisor;<br />
+					- infringes any copyright, trademark, patent, trade secret, or other intellectual property right;<br />
+					- contains viruses or other harmful, disruptive or destructive files;<br />
+					- harms or is inappropriate for minors to view;<br />
+					- links to any commercial or other website; and/or<br />
+					- is not otherwise in compliance with these Terms of Use.<br />
+		
+				<p>2. User Representations and Warranties. Each time you provide a Submission to the Sites, you represent and warrant that you have the right to provide such Submission, which means:</p>
+					- you are the author of the Submission, or<br />
+					- the Submission is not protected by copyright law, or<br />
+					- you have express permission from the copyright owner to use the Submission in connection with the Sites; and<br />
+					- you have the right to grant burugo the license set out in these Terms of Use;<br />
+					- for restaurant review Submission(s), you have had first-hand experience with the subject restaurant; and<br />
+					- your use of the Sites and Submission(s) do not violate these Terms of Use.<br />
+					
+				<p>3. User License Grant to burugo. You grant burugo, its affiliates, and related entities a royalty-free, perpetual, irrevocable, non-exclusive right and license to use, copy, modify, display, archive, store, publish, transmit, perform, distribute, reproduce and create derivative works from all Submissions you provide to burugo in any form, media, software or technology of any kind now existing or developed in the future. Without limiting the generality of the previous sentence, you authorize burugo to include the Submissions you provide in a searchable format that may be accessed by users of the Sites. You also grant burugo and its and related entities the right to use any Personally Identifiable Information (as that term is defined in burugo's Privacy Policy) included with any Submission in connection with the use, reproduction or distribution of such Submission. You also grant burugo the right to use the Submission and any facts, ideas, concepts, know-how or techniques ('Information') contained in any Submission or communication you send to burugo for any purpose whatsoever, including but not limited to, developing, manufacturing, promoting and/or marketing products and services. You grant all rights described in this paragraph in consideration of your use of the Sites, without compensation of any sort to you. burugo does not claim ownership of Submissions.</p>
+				<p>4. Disclaimer of Responsibility for Material. Submissions are not endorsed by burugo,  and do not represent the views of burugo or its parents, subsidiaries and affiliates, agents, officers or directors. You acknowledge and agree that burugo does not control all Submissions, and disclaims any responsibility for such Submissions. burugo specifically disclaims any duty, obligation, or responsibility, to review, screen, refuse to post, remove, or edit any Submissions. In addition, burugo does not represent or warrant that any other content or information accessible via the Sites is accurate, complete, reliable, current or error-free including the menus, pricing, hours of operation or parking accessibility available from its partner restaurants. Price, description, menu content, product/service availability, parking accessibility and restaurant information are subject to change without notice. Burugo assumes no responsibility or liability for any errors or omissions in the content of the Sites. While we does not charge you for using its services and does not add any additional charges (other than sales taxes and delivery) to the menu items it receives from its participating restaurants,  we offers some restaurant menus via other services. The price shown on the menu may include a markup by those services. </p>
+				<p>5. Review & Removal of Material. burugo reserves the right (but disclaims any duty, obligation or responsibility) to review, screen, refuse to post, remove in their entirety, or edit (at any time and without prior notice) any Submissions that we believes, in its absolute and sole discretion, may violate Sections 2(b), 3(a), or 3(b) above. You may contact us at burugoceo@gmail.com or burugo at burugo, Inc., 2855 rolling pin lane #211, Suwanee, ga 30024 to request removal of a Submission. However, burugodisclaims any duty, obligation or responsibility to comply with such request except as specifically outlined in this paragraph. burugo also reserves the right (but disclaims any duty, obligation, or responsibility) to refuse to post, remove in their entirety, or edit (at any time and without prior notice) any Submissions on the Sites for any reason or no reason whatsoever, in its absolute and sole discretion. The Digital Millennium Copyright Act of 1998 (the 'DMCA') provides recourse for copyright owners who believe that material appearing on the Internet infringes their rights under US copyright law. If you believe in good faith that Submissions posted by the Sites infringe your copyright, you (or your agent) may send burugo a notice requesting that the Submission(s) be removed from the Site(s), or access to it be blocked. The notice must include the following information: (a) a physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed; (b) identification of the copyrighted work claimed to have been infringed (or if multiple copyrighted works located on the Sites are covered by a single notification, a representative list of such works); (c) identification of the material that is claimed to be infringing or the subject of infringing activity, and information reasonably sufficient to allow burugo to locate the Submission(s) Sites; (d) the name, address, telephone number and email address (if available) of the complaining party; (e) a statement that the complaining party has a good faith belief that use of the Submission in the manner complained of is not authorized by the copyright owner, its agent or the law; and (f) a statement that the information in the notification is accurate and, under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed. If you believe in good faith that a notice of copyright infringement has been wrongly filed against you, the DMCA permits you to send us a counter-notice. Notices and counter-notices must meet the then-current statutory requirements imposed by the DMCA; see http://www.loc.gov/copyright for details. Notices and counter-notices with respect to the Sites should be sent to burugo, Inc., 2855 Rolling Pin Lane #211, Suwanee, GA 30024. burugo suggests that you consult your legal advisor before filing a notice or counter-notice. Also, be aware that there can be penalties for false claims under the DMCA. We reserve the right to terminate the account of any user who is a copyright infringer. </p>
+				<p>6. Proprietary Rights. You acknowledge and agree that the Sites contain proprietary information and content that is protected by intellectual property and other laws, and may not be used except as provided in these Terms of Use without advance, written permission of burugo. All Sites design, text, graphics, interfaces, and images (and the selection and arrangements thereof), and software, hypertext markup language ('HTML'), scripts, active server pages, and other content and software used in the Sites are reserved. </p>
+			<h3>4. Termination and Modifications to the Sites</h3>
+				<p>burugo reserves the right, in its sole and absolute discretion, to modify, suspend, or discontinue at any time, with or without notice, the Sites and/or services offered on or through the Sites (or any part thereof), including but not limited to the Sites' features, look and feel, and functional elements and related services.</p>
+			<h3>5. Indemnity</h3>
+				<p>You agree to indemnify and hold burugo, its parents, subsidiaries and affiliates, agents, officers, directors, or other employees harmless from any claim, demand, or damage (whether direct, indirect, or consequential), including reasonable attorneys' fees, made by anyone in connection with your use of the Sites, with your Submissions, with any alleged infringement of intellectual property or other right of any person or entity relating to the Sites, your violation of these Terms of Use, and any other acts or omissions relating to the Sites.</p>
+			<h3>6. Disclaimer of Warranties</h3>
+				<p>THE INFORMATION, CONTENT, PRODUCTS, SERVICES, AND MATERIALS AVAILABLE THROUGH THE SITES (WHETHER PROVIDED BY BURUGO, YOU, OTHER USERS OR OTHER AFFILIATES/THIRD PARTIES), INCLUDING WITHOUT LIMITATION, FOOD/BEVERAGE ORDERS, SUBMISSIONS, TEXT, PHOTOS, GRAPHICS, AUDIO FILES, VIDEO, AND LINKS, ARE PROVIDED 'AS IS' AND 'AS AVAILABLE' WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED.</p>
+		
+				<p>TO THE MAXIMUM EXTENT PERMITTED BY LAW, BURUGO DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NONINFRINGEMENT, FREEDOM FROM COMPUTER VIRUS, AND IMPLIED WARRANTIES ARISING FROM COURSE OF DEALING OR COURSE OF PERFORMANCE.</p>
+			<h3>7. Limitation of Liability</h3>
+				<p>IN NO EVENT SHALL BURUGO BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, OR ANY LOSS OR DAMAGES WHATSOEVER (EVEN IF GRUBHUB HAS BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), WHETHER IN AN ACTION UNDER CONTRACT, NEGLIGENCE, OR ANY OTHER THEORY, IN ANY MANNER ARISING OUT OF OR IN CONNECTION WITH THE USE, INABILITY TO USE, PERFORMANCE OF, OR SERVICES PROVIDED ON OR THROUGH THE SITES. BURUGO ASSUMES NO RESPONSIBILITY AND SHALL NOT BE LIABLE FOR ANY DAMAGES TO, OR VIRUSES THAT MAY INFECT, YOUR COMPUTER EQUIPMENT OR OTHER PROPERTY ON ACCOUNT OF YOUR ACCESS TO, USE OF, BROWSING OF, OR DOWNLOADING OF ANY MATERIAL FROM THE SITES. BURUGO ASSUMES NO RESPONSIBILITY OR LIABILITY IN ANY MANNER ARISING OUT OF OR IN CONNECTION WITH ANY INFORMATION, CONTENT, PRODUCTS, SERVICES, OR MATERIAL AVAILABLE ON OR THROUGH THE SITES, AS WELL AS ANY THIRD PARTY WEBSITE PAGES OR ADDITIONAL WEBSITES LINKED TO THIS SITE, FOR ANY ERROR, DEFAMATION, LIBEL, SLANDER, OMISSION, FALSEHOOD, OBSCENITY, PORNOGRAPHY, PROFANITY, DANGER, INACCURACY CONTAINED THEREIN OR HARM TO PERSON OR PROPERTY CAUSED THEREBY. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY. BECAUSE SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU. IN NO EVENT SHALL BURUGO'S TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES AND CAUSES OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO, NEGLIGENCE) OR OTHERWISE, EXCEED (A) THE AMOUNT PAID BY YOU TO GRUBHUB OR A RESTAURANT AFFILIATE, IF ANY, OR (B) $100 (WHICHEVER IS LESS).</p>
+		
+				<p>YOU AND BURUGO AGREE THAT THE WARRANTY DISCLAIMERS AND LIMITATIONS OF LIABILITY IN THESE TERMS OF USE ARE MATERIAL, BARGAINED-FOR BASES OF THIS AGREEMENT, AND THAT THEY HAVE BEEN TAKEN INTO ACCOUNT IN DETERMINING THE CONSIDERATION TO BE GIVENBY EACH PARTY UNDER THIS AGREEMENT AND IN THE DECISION BY EACH PARTY TO ENTER INTO THIS AGREEMENT. YOU AND BURUGO AGREE THAT THE WARRANTY DISCLAIMERS AND LIMITATIONS OF LIABILITY IN THESE TERMS OF USE ARE FAIR AND REASONABLE.</p>
+		
+				<p>IF YOU ARE DISSATISFIED WITH THE SITE OR DO NOT AGREE TO ANY PROVISIONS OF THESE TERMS OF USE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SITE, EXCEPT AS MAY BE PROVIDED FOR IN THIS SECTION 7.</p>
+			<h3>8. Your account, password, and security</h3>
+				<p>Use of Sites services requires that you register and/or create an account ('Account') or use the Sites as a guest. To register and create an Account, you must select an account designation and password and provide certain personal information. In consideration of the use of the Sites' services, you agree to: (a) provide true, accurate, current and complete information about yourself as prompted by the registration form, and (b) maintain and promptly update the personal information you provide to keep it true, accurate, current and complete. If you provide any information that is untrue, inaccurate, not current or incomplete, or burugo has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, burugo has the right to refuse any and all current or future use of the Sites (or any portion thereof).</p>
+		
+				<p>You are responsible for maintaining the confidentiality and security of your Account and password, and you are fully responsible for all activities that occur under your password or Account, and for any other actions taken in connection with the Account or password. You agree to (a) immediately notify burugo of any known or suspected unauthorized use(s) of your password or Account, or any known or suspected breach of security, including loss, theft, or unauthorized disclosure of your password or credit card information; and (b) ensure that you exit from your Account at the end of each session. burugo will not be liable for any injury, loss or damage of any kind arising from or relating to your failure to comply with (a) and (b) or for any acts or omissions by you or someone else using your Account and/or password.</p>
+			<h3>9. Links</h3>
+				<p>As a courtesy to you, the Sites may offer links to other websites. Some of these websites may be affiliated with burugo while others are not. burugo is not responsible for the contents of any website pages created and maintained by organizations independent of burugo. Visiting any such third-party website pages is at your own risk. burugo has no control of these third-party website pages, nor can it guarantee the accuracy, completeness, or timeliness of information in third-party website pages. Your use of such information is voluntary, and your reliance on such information should be made only after independent review. References to commercial products or services within any such third-party website pages do not constitute or imply an endorsement by burugo. By using the Sites you acknowledge that burugo is responsible neither for the availability of, nor the content located on or through any third-party website pages.</p>
+			<h3>10. Trademarks</h3>
+				<p>Burugo job®, burugo helper®, burugo friend®, burugo social®, Etreebus®, burugo.com Powered By burugo™ (word and design) are burugo’s trademarks. Such trademarks and other marks, logos, and names of burugo or the Sites, used on or in connection with the Sites may not be used in connection with any product or service that is not under burugo's ownership or control. Furthermore, such trademarks may not be used in any manner that is likely to cause confusion among customers or in any manner that disparages or discredits burugo. All other trademarks not owned by burugo (or its affiliates) that appear on the Sites are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by burugo or its affiliates.</p>
+			<h3>11. Consideration</h3>
+				<p>You acknowledge that these Terms of Use are supported by reasonable and valuable consideration, the receipt and adequacy of which are hereby acknowledged. Without limiting the foregoing, you acknowledge that such consideration includes, without limitation, your use of the Sites and receipt or use of data, content, products and/or services through the Sites, the possibility of our review, use or display of your Submission(s), and the possibility of publicity and promotion from our review, use or display of your user-generated content.</p>
+			<h3>12. Jurisdiction, Applicable Law, and Limitations</h3>
+				<p>This Site is created and controlled by burugo in the State of Georgia, U.S.A. You agree that these Terms of Use will be governed by and construed in accordance with the laws of the United States of America and the State of Georgia, without regard to its conflicts of law provisions. Use of the Sites is unauthorized in any jurisdiction that does not give effect to all provisions of these Terms of Use. GrubHub makes no claims or assurances that the Sites are appropriate or may be downloaded outside of the United States. You agree that all legal proceedings arising out of or in connection with these Terms of Use, or services available on or through the Sites must be filed in a federal or state court located in Atlanta, Georgia, within one year of the time in which the events giving rise to such claim began, or your claim will be forever waived and barred. You expressly submit to the exclusive jurisdiction of said courts and consent to extraterritorial service of process.</p>
+			<h3>General</h3>
+				<p>1. Enforceability. If any portion of these Terms of Use is found to be void, invalid or otherwise unenforceable, then that portion shall be deemed to be superseded by a valid, enforceable provision that matches the intent of the original provision as closely as possible. The remainder of these Terms of Use shall continue to be enforceable and valid according to terms contained herein.</p>
+				<p>2. Entire Agreement. Except as expressly provided in a particular 'Legal & Privacy' posting or other notice on particular pages of the Sites, these Terms of Use, which hereby incorporate by reference the terms of burugo's Privacy Policy, constitute the entire agreement between you and burugo, superseding all prior agreements regarding the Sites.</p>
+				<p>3. No Waiver. The failure of burugo to exercise or enforce any right or provision of the Terms of Use shall not constitute a waiver of said right or provision. Neither party hereto shall be deemed to be in default of any provision of the Terms of Use or for failure in performance resulting from acts or events beyond the reasonable control of such party and arising without its fault or negligence, including, but not be limited to, acts of God, civil or military authority, interruption of electric or telecommunication services, civil disturbances, acts of war or terrorists, strikes, fires, floods or other catastrophes.</p>
+				<p>4. Headings & Construction. The section titles in the Terms of Use are for your convenience only and carry no contractual or legal effect whatsoever. The language in these Terms of Use shall be interpreted in accordance with its fair meaning and shall not be strictly interpreted for or against either party.</p>
+				<p>5. Contact burugo. For purposes of providing notice of cancellation or termination, contact us at webmaster@burugo.com or burugo at burugo, Inc., 2855 Rolling Pin Lane #211, Suwanee, GA 30024</p>
+		
+		<p>Copyright ? 2013 burugo, Inc. All Rights Reserved.</p>
+		
+		<h2>burugo Sign-Up Form for Restaurants</h2>
+			<p>Select one (1) burugo service package for the restaurant listed on the burugo sign-up form ('Restaurant'). 'Order' shall mean the dollar amount of the food and beverage subtotal, including delivery fee, if any, for each online Restaurant order placed using burugo. For telephone orders, the fee charged shall be equal to Restaurant's average fee per online order. In addition to service package amount, Restaurant agrees to pay all credit card processing fees associated with Order</p>
+			<p>Restaurant, as defined above, by and through the undersigned authorized agent, agrees as follows:</p>
+			<p>1. Either Party may terminate this Agreement for any reason upon notice to the other party. </p>
+			<p>2. The term of this Agreement shall begin when the restaurant is 'live' on burugo Website and terminate on the effective date of any termination.</p>
+			<p>3. Party owing payments shall remit remaining payments to the other Party within 30 days following the term of this Agreement.</p>
+			<p>4. burugo shall be an independent contractor of Restaurant during the term of this Agreement.</p>
+			<p>5. Burugo shall provide certain services to Restaurant consistent with burugo’s business practices and at burugo's sole discretion including advertising, sales and revenue collection (the 'Services').</p>
+			<p>6. Restaurant shall provide notice to all Restaurant staff that telephone conversations with burugo made in connection with the Services or this Agreement may be recorded.</p>
+			<p>7. During the term of the Agreement, Restaurant shall make all payments due and owing to burugo.</p>
+			<p>8. Restaurant must provide an accurate copy of its current in-store Restaurant menu ('Menu') within a reasonable time before the Agreement term begins.</p>
+			<p>9. Restaurant must notify burugo in writing of any changes to the Menu at least seven (7) business days before such changes go into effect.</p>
+			<p>10. burugo shall compute any sales, use, privilege, gross receipts, restaurant, excise or other tax due in connection with the sale of food or drink (and delivery fee, if applicable) by my Restaurant through burugo('Sales Tax'). burugo shall collect Sales Tax on behalf of Restaurant. Burugo shall be responsible for (a) verifying that the collected, tendered Sales Tax amount is correct, (b) filing all required Sales Tax returns and associated forms and (c) remitting all required Sales Tax to the appropriate taxing authorities.</p>
+			<p>11. Compliance with any applicable laws, taxes or tariffs related to internet electronic commerce; delivery service and parking accessibility, if any; compliance with appropriate health codes with respect to preparation of food and beverages; and all matters concerning quality and condition of the food and beverages.</p>
+			<p>12. burugo does not warrant that the functions of burugo Website will meet Restaurant expectations of website traffic or resulting business or that the operation of burugo Website will be uninterrupted and/or error-free. Restaurant shall be responsible for all Losses associated with occasional downtime of burugo Website due to line interruptions and/or other instances beyond burugo's control.</p>
+			<p>13. This Agreement will be governed by and construed in accordance with the laws of the State of Georgia, without giving effect to the conflict of law principles thereof. All disputes related to this Agreement will be submitted to the exclusive jurisdiction and venue of state or federal courts located in Atlanta, Georgia, which the parties agree is the most appropriate and convenient for the resolution of disputes related to this Agreement.</p>
+			<p>14. burugo's Terms of Use, which are subject to change, are incorporated herein by reference and Restaurant agrees to be bound by said terms.</p>
+			<p>15. Restaurant grants burugoan unlimited license, solely for the purposes expressly set forth in this Agreement, to use any information or content related to the Restaurant ('Restaurant Content'), in connection with the Services, offered or displayed through any form of media.</p>
+			<p>16. Restaurant will indemnify, defend and hold harmless burugo, its business units, and each of burugo's respective officers, directors, shareholders, employees, representatives, successors and assigns, from and against all Losses, to the extent such Losses are related to: (a) any development, operation or maintenance of the burugo Website done at Restaurant's direction or request; (b) any claim that Restaurant Content provided by Restaurant infringes or misappropriates any third party's copyright, U.S. patent, trademark or other proprietary right; or (c) the breach of any representation, or warranty made by Restaurant in this Agreement.</p>
+			<p>17. This Agreement may be executed in counterparts, in hard copy or electronically, each of which will be deemed an original, but both of which together will constitute one and the same instrument.</p>
+			<p>18. The following terms and conditions shall apply to Restaurants engaging  burugo to create Custom Websites</p>
+			<p>19. In addition to the Services, Restaurant authorizes burugo to secure a domain name for Restaurant to develop and/or improve and provide web page maintenance for Restaurant for advertising purposes ('the Project'). Restaurant agrees to pay burugo a fee of $30.00 per month plus applicable credit card processing fees for each order originating from the Project web page.</p>
+			<p>20. Restaurant warrants that Restaurant owns all content submitted by Restaurant to burugo in connection with the Project, or that Restaurant has secured all necessary rights from the owner to use all such content. Restaurant further warrants that no content submitted will contain anything that may violate burugo's Terms of Use or otherwise interfere with, abuse or compromise, the function of any hosting service or burugo services.</p>
+			<p>21. Burugo shall own all intellectual property rights associated with the finished assembled Project website, web pages and associated content created by burugo. This content includes, but is not limited to the design, photos, graphics, source code, work-up files, text, and any program(s) specifically designed for or purchased on behalf of Restaurant in connection with the Project.</p>
+			<p>22. Restaurant will indemnify, defend and hold harmless burugo, its business units, and each of burugo's respective officers, directors, shareholders, employees, representatives, successors and assigns, from and against all Losses, to the extent such Losses are related to: (a) the development, operation, maintenance of the Project website done at Restaurant's direction or request; (b) any claim that content provided by Restaurant infringes or misappropriates any third party's copyright, U.S. patent, trademark or other proprietary right; or (c) any claim that the Project website and content displayed therein is defective, inaccurate or causes injury to any third party. burugo does not warrant that the functions of the Project website, will meet Restaurant's expectations of site traffic or resulting business or that the operation of the Project web pages will be uninterrupted and/or error-free. Restaurant will not hold burugo responsible for occasional downtime of the Project website due to line interruptions and/or other instances beyond burugo’s control.</p>
+		
+		<p>This Agreement, including any future Agreement modifications, constitutes the entire agreement of the Parties hereto with respect to the subject matter hereof and supersedes any and all prior agreement, written and oral, with respect thereto. Restaurant agrees that acceptance of any Services shall be subject to the then-current Agreement terms, and continued acceptance of the Services following Agreement modifications confirms that Restaurant has read, accepted, and agreed to be bound by such modifications. All Agreement modifications shall be posted at www.burugo.com and shall be effective immediately upon posting.</p>
+		<p>The undersigned hereby agrees to the terms, conditions and stipulations of this Agreement as an authorized agent of the Restaurant.</p>
+		
+		
+		
+		
+		
+		
+		<h2>burugo.com CUSTOM WEBSITE SIGN UP FORM</h2>
+		<p>Restaurant, as defined above, by and through the undersigned authorized agent, agrees as follows:</p>
+		<p>1. Either Party may terminate this Agreement for any reason upon notice to the other party.</p>
+		<p>2. burugo shall be an independent contractor of Restaurant during the term of this Agreement.</p>
+		<p>3. burugo shall provide certain services to Restaurant consistent with burugo's business practices and at burugo's sole discretion including web page maintenance as more particularly described below ('Services').</p>
+		<p>4. Restaurant authorizes burugo to secure a domain name for Restaurant to develop and/or improve and provide web page maintenance for Restaurant for advertising purposes ('the Project').</p>
+		<p>5. Restaurant agrees to pay burugo a fee of $30.00 per month plus applicable credit card processing fees for each orders originating from the Project web page.</p>
+		<p>6. Restaurant warrants that Restaurant owns all content submitted by Restaurant to burugo in connection with the Project, or that Restaurant has secured all necessary rights from the owner to use all such content. Restaurant further warrants that no content submitted will contain anything that may violate burugo's Terms of Use or otherwise interfere with, abuse or compromise, the function of any hosting service or burugo services.</p>
+		<p>7. burugo shall own all intellectual property rights associated with the finished assembled Project website, web pages and associated content created by burugo. This content includes, but is not limited to the design, photos, graphics, source code, work-up files, text, and any program(s) specifically designed for or purchased on behalf of Restaurant in connection with the Project.</p>
+		<p>8. Restaurant will indemnify, defend and hold harmless burugo, its business units, and each of burugo's respective officers, directors, shareholders, employees, representatives, successors and assigns, from and against all Losses, to the extent such Losses are related to: (a) the development, operation, maintenance of the Project website done at Restaurant's direction or request; (b) any claim that content provided by Restaurant infringes or misappropriates any third party's copyright, U.S. patent, trademark or other proprietary right; or (c) any claim that the Project website and content displayed therein is defective, inaccurate or causes injury to any third party.</p>
+		<p>burugo does not warrant that the functions of the Project website, will meet Restaurant's expectations of site traffic or resulting business or that the operation of the Project web pages will be uninterrupted and/or error-free. Restaurant will not hold burugo responsible for occasional downtime of the Project website due to line interruptions and/or other instances beyond burugo's control.</p>
+		
+		<p>This Agreement, including any future Agreement modifications, constitutes the entire agreement of the Parties hereto with respect to the subject matter hereof and supersedes any and all prior agreement, written and oral, with respect thereto. Restaurant agrees that acceptance of any Services shall be subject to the then-current Agreement terms, and continued acceptance of the Services following Agreement modifications confirms that Restaurant has read, accepted, and agreed to be bound by such modifications. All Agreement modifications shall be posted at www.burugo.com and shall be effective immediately upon posting.</p>
+		
+		<p>burugo shall also provide notice of all Agreement modifications via e-mail sent to Restaurant e-mail address provided by Restaurant to burugo. Restaurant shall have a ten (10) day grace period following posting of any Agreement modification to cancel the Agreement in accordance with the Agreement terms ('Grace Period'). The most recent Agreement modification shall not apply to any Restaurant that cancels the Agreement during the Grace Period. The undersigned hereby agrees to the terms, conditions and stipulations of this Agreement as an authorized agent of the Restaurant.</p>
+		]]></termsAndCondition>
+			<yesimready><![CDATA[注册!]]></yesimready>
+		</cn>
+	</register>
+</Lang>

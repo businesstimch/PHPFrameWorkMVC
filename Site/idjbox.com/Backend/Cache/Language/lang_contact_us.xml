@@ -1,0 +1,104 @@
+<Lang>
+	<contact_us>
+		<en>
+			<accountProblem><![CDATA[I have a problem with my account]]></accountProblem>
+			<chooseTopic><![CDATA[- Choose a topic -]]></chooseTopic>
+			<contactUs><![CDATA[Contact Us]]></contactUs>
+			<contactUsEmailFail><![CDATA[Not able to send your message. Please try again.]]></contactUsEmailFail>
+			<contactUsEmailSent><![CDATA[Your Message has been sent successfully. We will response you as soon as possible.]]></contactUsEmailSent>
+			<emailNotValid><![CDATA[Email address is not valid.]]></emailNotValid>
+			<emailRequired><![CDATA[Email address is required.]]></emailRequired>
+			<etc><![CDATA[etc]]></etc>
+			<haveQuestion><![CDATA[&nbsp; Have a question? You may find the answer in the burogo <a href="/faq/">FAQ</a>. To send us feedback or ideas, please choose a topic.]]></haveQuestion>
+			<loading><![CDATA[Please wait, Sending...]]></loading>
+			<message><![CDATA[Message:]]></message>
+			<messageRequired><![CDATA[Message field is required.]]></messageRequired>
+			<orderProblem><![CDATA[I have a problem with my order]]></orderProblem>
+			<send><![CDATA[Send]]></send>
+			<suggestion><![CDATA[I have a suggestion for burugo]]></suggestion>
+			<yourEmail><![CDATA[Your Email:]]></yourEmail>
+			<yourName><![CDATA[Your Name:]]></yourName>
+			<yourTopic><![CDATA[Your Topic :]]></yourTopic>
+		</en>
+		<es>
+			<accountProblem><![CDATA[I have a problem with my account]]></accountProblem>
+			<chooseTopic><![CDATA[- Choose a topic -]]></chooseTopic>
+			<contactUs><![CDATA[Contact Us]]></contactUs>
+			<contactUsEmailFail><![CDATA[Not able to send your message. Please try again.]]></contactUsEmailFail>
+			<contactUsEmailSent><![CDATA[Your Message has been sent successfully. We will response you as soon as possible.]]></contactUsEmailSent>
+			<emailNotValid><![CDATA[Email address is not valid.]]></emailNotValid>
+			<emailRequired><![CDATA[Email address is required.]]></emailRequired>
+			<etc><![CDATA[etc]]></etc>
+			<haveQuestion><![CDATA[&nbsp; Have a question? You may find the answer in the burogo <a href="/faq/">FAQ</a>. To send us feedback or ideas, please choose a topic.]]></haveQuestion>
+			<loading><![CDATA[Please wait, Sending...]]></loading>
+			<message><![CDATA[Message:]]></message>
+			<messageRequired><![CDATA[Message field is required.]]></messageRequired>
+			<orderProblem><![CDATA[I have a problem with my order]]></orderProblem>
+			<send><![CDATA[Send]]></send>
+			<suggestion><![CDATA[I have a suggestion for burugo]]></suggestion>
+			<yourEmail><![CDATA[Your Email:]]></yourEmail>
+			<yourName><![CDATA[Your Name:]]></yourName>
+			<yourTopic><![CDATA[Your Topic :]]></yourTopic>
+		</es>
+		<ko>
+			<accountProblem><![CDATA[계정에 문제가 있습니다]]></accountProblem>
+			<chooseTopic><![CDATA[- 토픽 선택하기 -]]></chooseTopic>
+			<contactUs><![CDATA[연락하기]]></contactUs>
+			<contactUsEmailFail><![CDATA[메세지가 보내지지 않았습니다. 다시 시도해 주세요.]]></contactUsEmailFail>
+			<contactUsEmailSent><![CDATA[메세지가 보내졌습니다. 빠른 시일내에 연락드리겠습니다.]]></contactUsEmailSent>
+			<emailNotValid><![CDATA[사용하는 이메일 주소가 아닙니다.]]></emailNotValid>
+			<emailRequired><![CDATA[이메일 주소를 입력해 주세요.]]></emailRequired>
+			<etc><![CDATA[기타]]></etc>
+			<haveQuestion><![CDATA[&nbsp; 질문이 있으신가요? 부르고 <a href="/faq/">FAQ</a> 페이지에서 찾아보세요. 좋은 아이디어가 있으시면 메시지 전송전에 토픽에서 아이디어 보내기를 선택해 주세요.]]></haveQuestion>
+			<loading><![CDATA[전송 중입니다. 잠시만 기다려 주세요...]]></loading>
+			<message><![CDATA[연락 내용:]]></message>
+			<messageRequired><![CDATA[전송하실 메시지를 입력해 주세요.]]></messageRequired>
+			<orderProblem><![CDATA[배달 및 예약 주문에 문제가 있습니다]]></orderProblem>
+			<send><![CDATA[보내기]]></send>
+			<suggestion><![CDATA[부르고를 위한 좋은 아이디어가 있습니다]]></suggestion>
+			<yourEmail><![CDATA[이메일:]]></yourEmail>
+			<yourName><![CDATA[이름:]]></yourName>
+			<yourTopic><![CDATA[토픽 :]]></yourTopic>
+		</ko>
+		<jp>
+			<accountProblem><![CDATA[I have a problem with my account]]></accountProblem>
+			<chooseTopic><![CDATA[- Choose a topic -]]></chooseTopic>
+			<contactUs><![CDATA[Contact Us]]></contactUs>
+			<contactUsEmailFail><![CDATA[メッセージが送られませんでした。もう一度試みてください。]]></contactUsEmailFail>
+			<contactUsEmailSent><![CDATA[メッセージが送られました。早いうちに連絡します。]]></contactUsEmailSent>
+			<emailNotValid><![CDATA[使用するEメールアドレスがありません。]]></emailNotValid>
+			<emailRequired><![CDATA[メールアドレスを入力してください。]]></emailRequired>
+			<etc><![CDATA[その外.]]></etc>
+			<haveQuestion><![CDATA[&nbsp; Have a question? You may find the answer in the burogo <a href="/faq/">FAQ</a>. To send us feedback or ideas, please choose a topic.]]></haveQuestion>
+			<loading><![CDATA[Please wait, Sending...]]></loading>
+			<message><![CDATA[メッセージ:]]></message>
+			<messageRequired><![CDATA[伝送されるメッセージを入力してください。]]></messageRequired>
+			<orderProblem><![CDATA[配達および予約注文に問題があります。]]></orderProblem>
+			<send><![CDATA[送る]]></send>
+			<suggestion><![CDATA[Burugoのための良いアイデアがあります]]></suggestion>
+			<yourEmail><![CDATA[Your Email:]]></yourEmail>
+			<yourName><![CDATA[名前:]]></yourName>
+			<yourTopic><![CDATA[トピック:]]></yourTopic>
+		</jp>
+		<cn>
+			<accountProblem><![CDATA[I have a problem with my account]]></accountProblem>
+			<chooseTopic><![CDATA[- Choose a topic -]]></chooseTopic>
+			<contactUs><![CDATA[Contact Us]]></contactUs>
+			<contactUsEmailFail><![CDATA[Not able to send your message. Please try again.]]></contactUsEmailFail>
+			<contactUsEmailSent><![CDATA[Your Message has been sent successfully. We will response you as soon as possible.]]></contactUsEmailSent>
+			<emailNotValid><![CDATA[Email address is not valid.]]></emailNotValid>
+			<emailRequired><![CDATA[Email address is required.]]></emailRequired>
+			<etc><![CDATA[etc]]></etc>
+			<haveQuestion><![CDATA[&nbsp; Have a question? You may find the answer in the burogo <a href="/faq/">FAQ</a>. To send us feedback or ideas, please choose a topic.]]></haveQuestion>
+			<loading><![CDATA[Please wait, Sending...]]></loading>
+			<message><![CDATA[Message:]]></message>
+			<messageRequired><![CDATA[Message field is required.]]></messageRequired>
+			<orderProblem><![CDATA[I have a problem with my order]]></orderProblem>
+			<send><![CDATA[Send]]></send>
+			<suggestion><![CDATA[I have a suggestion for burugo]]></suggestion>
+			<yourEmail><![CDATA[Your Email:]]></yourEmail>
+			<yourName><![CDATA[Your Name :]]></yourName>
+			<yourTopic><![CDATA[Your Topic :]]></yourTopic>
+		</cn>
+	</contact_us>
+</Lang>

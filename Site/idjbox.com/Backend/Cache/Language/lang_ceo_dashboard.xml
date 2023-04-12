@@ -1,0 +1,222 @@
+<Lang>
+	<ceo_dashboard>
+		<en>
+			<apply_btn><![CDATA[Apply]]></apply_btn>
+			<check_login_required><![CDATA[Login is required]]></check_login_required>
+			<confirm_update_order><![CDATA[Do you want to update this order to]]></confirm_update_order>
+			<contact_phone><![CDATA[Phone]]></contact_phone>
+			<dashboard><![CDATA[DashBoard]]></dashboard>
+			<detail_no_memo><![CDATA[Memo]]></detail_no_memo>
+			<detail_title_business><![CDATA[Business Name]]></detail_title_business>
+			<detail_title_delivery_time><![CDATA[Delivery Time]]></detail_title_delivery_time>
+			<detail_title_memo><![CDATA[Memo]]></detail_title_memo>
+			<detail_title_order_history><![CDATA[Order Status History]]></detail_title_order_history>
+			<detail_title_order_item><![CDATA[Ordered Items]]></detail_title_order_item>
+			<detail_title_order_process><![CDATA[Process Order]]></detail_title_order_process>
+			<detail_title_pickup_time><![CDATA[PICK UP Time]]></detail_title_pickup_time>
+			<detail_title_reserved_time><![CDATA[Reservation Time]]></detail_title_reserved_time>
+			<detail_title_total_paid><![CDATA[Total Paid]]></detail_title_total_paid>
+			<error_fail_refresh><![CDATA[Order refresh is not available]]></error_fail_refresh>
+			<error_fail_update><![CDATA[Update is not available]]></error_fail_update>
+			<localtime><![CDATA[Local Time]]></localtime>
+			<monthly_report><![CDATA[Sales Report]]></monthly_report>
+			<msg_success><![CDATA[Success to update]]></msg_success>
+			<no_monthly_data_yet><![CDATA[No Data placed]]></no_monthly_data_yet>
+			<no_order_yet><![CDATA[No Order placed]]></no_order_yet>
+			<orderstatus><![CDATA[Order Status]]></orderstatus>
+			<orderstatus_customername><![CDATA[Customer Name]]></orderstatus_customername>
+			<orderstatus_ordernumber><![CDATA[Order Number]]></orderstatus_ordernumber>
+			<orderstatus_status><![CDATA[Status]]></orderstatus_status>
+			<orderstatus_time><![CDATA[When]]></orderstatus_time>
+			<orderstatus_type><![CDATA[Type]]></orderstatus_type>
+			<order_type_1><![CDATA[Reservation]]></order_type_1>
+			<order_type_2><![CDATA[PICK UP]]></order_type_2>
+			<order_type_3><![CDATA[Delivery]]></order_type_3>
+			<txt_memo><![CDATA[Memo..]]></txt_memo>
+			<welcome><![CDATA[Welcome]]></welcome>
+		</en>
+		<es>
+			<apply_btn><![CDATA[aplicar]]></apply_btn>
+			<check_login_required><![CDATA[Login is required]]></check_login_required>
+			<confirm_update_order><![CDATA[Do you want to update this order to]]></confirm_update_order>
+			<contact_phone><![CDATA[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+teléfono
+]]></contact_phone>
+			<dashboard><![CDATA[Historial de mi nogocio]]></dashboard>
+			<detail_no_memo><![CDATA[memorándum]]></detail_no_memo>
+			<detail_title_business><![CDATA[Nombre del Negocio]]></detail_title_business>
+			<detail_title_delivery_time><![CDATA[Tiempo de Entrega]]></detail_title_delivery_time>
+			<detail_title_memo><![CDATA[memorándum]]></detail_title_memo>
+			<detail_title_order_history><![CDATA[Estado del pedido Historia]]></detail_title_order_history>
+			<detail_title_order_item><![CDATA[Los artículos pedidos]]></detail_title_order_item>
+			<detail_title_order_process><![CDATA[Proceso de la orden]]></detail_title_order_process>
+			<detail_title_pickup_time><![CDATA[PICK UP tiempo]]></detail_title_pickup_time>
+			<detail_title_reserved_time><![CDATA[Tiempo de reserva]]></detail_title_reserved_time>
+			<detail_title_total_paid><![CDATA[total pagado]]></detail_title_total_paid>
+			<error_fail_refresh><![CDATA[Order refresh is not available]]></error_fail_refresh>
+			<error_fail_update><![CDATA[Update is not available]]></error_fail_update>
+			<localtime><![CDATA[El tiempo ahora]]></localtime>
+			<monthly_report><![CDATA[Informe mensual]]></monthly_report>
+			<msg_success><![CDATA[Success to update]]></msg_success>
+			<no_monthly_data_yet><![CDATA[No hay datos colocados]]></no_monthly_data_yet>
+			<no_order_yet><![CDATA[Sin Pedido realizado]]></no_order_yet>
+			<orderstatus><![CDATA[Estado de los pedidos en el tiempo real]]></orderstatus>
+			<orderstatus_customername><![CDATA[Nombre del cliente]]></orderstatus_customername>
+			<orderstatus_ordernumber><![CDATA[Número del pedido]]></orderstatus_ordernumber>
+			<orderstatus_status><![CDATA[Ver los pedidos en curso]]></orderstatus_status>
+			<orderstatus_time><![CDATA[El tiempo de los pedidos]]></orderstatus_time>
+			<orderstatus_type><![CDATA[Tipos de los pedidos]]></orderstatus_type>
+			<order_type_1><![CDATA[reserva]]></order_type_1>
+			<order_type_2><![CDATA[PICK UP]]></order_type_2>
+			<order_type_3><![CDATA[entrega]]></order_type_3>
+			<txt_memo><![CDATA[Memo..]]></txt_memo>
+			<welcome><![CDATA[bienvenido]]></welcome>
+		</es>
+		<ko>
+			<apply_btn><![CDATA[적용]]></apply_btn>
+			<check_login_required><![CDATA[로그인이 필요합니다]]></check_login_required>
+			<confirm_update_order><![CDATA[오더를 변경하시겠습니까?]]></confirm_update_order>
+			<contact_phone><![CDATA[전화번호]]></contact_phone>
+			<dashboard><![CDATA[비지니스 현황]]></dashboard>
+			<detail_no_memo><![CDATA[메모]]></detail_no_memo>
+			<detail_title_business><![CDATA[비지니스명]]></detail_title_business>
+			<detail_title_delivery_time><![CDATA[배송 희망시간]]></detail_title_delivery_time>
+			<detail_title_memo><![CDATA[메모]]></detail_title_memo>
+			<detail_title_order_history><![CDATA[주문처리 내용]]></detail_title_order_history>
+			<detail_title_order_item><![CDATA[주문한 상품]]></detail_title_order_item>
+			<detail_title_order_process><![CDATA[주문진행하기]]></detail_title_order_process>
+			<detail_title_pickup_time><![CDATA[픽업시각]]></detail_title_pickup_time>
+			<detail_title_reserved_time><![CDATA[예약시간]]></detail_title_reserved_time>
+			<detail_title_total_paid><![CDATA[전체 지불 금액]]></detail_title_total_paid>
+			<error_fail_refresh><![CDATA[조회에 실패했습니다]]></error_fail_refresh>
+			<error_fail_update><![CDATA[저장에 실패했습니다]]></error_fail_update>
+			<localtime><![CDATA[현재시간]]></localtime>
+			<monthly_report><![CDATA[영업 리포트]]></monthly_report>
+			<msg_success><![CDATA[업데이트되었습니다]]></msg_success>
+			<no_monthly_data_yet><![CDATA[데이터가 아직 없습니다]]></no_monthly_data_yet>
+			<no_order_yet><![CDATA[아직 들어온 주문이 없습니다]]></no_order_yet>
+			<orderstatus><![CDATA[실시간 예약/주문 상태]]></orderstatus>
+			<orderstatus_customername><![CDATA[고객이름]]></orderstatus_customername>
+			<orderstatus_ordernumber><![CDATA[주문번호]]></orderstatus_ordernumber>
+			<orderstatus_status><![CDATA[상태]]></orderstatus_status>
+			<orderstatus_time><![CDATA[주문시간]]></orderstatus_time>
+			<orderstatus_type><![CDATA[주문종류]]></orderstatus_type>
+			<order_type_1><![CDATA[예약]]></order_type_1>
+			<order_type_2><![CDATA[픽업]]></order_type_2>
+			<order_type_3><![CDATA[배달/배송]]></order_type_3>
+			<txt_memo><![CDATA[메모..]]></txt_memo>
+			<welcome><![CDATA[환영합니다]]></welcome>
+		</ko>
+		<jp>
+			<apply_btn><![CDATA[適用]]></apply_btn>
+			<check_login_required><![CDATA[Login is required]]></check_login_required>
+			<confirm_update_order><![CDATA[Do you want to update this order to]]></confirm_update_order>
+			<contact_phone><![CDATA[電話番号]]></contact_phone>
+			<dashboard><![CDATA[私のビジネス現況]]></dashboard>
+			<detail_no_memo><![CDATA[メモ]]></detail_no_memo>
+			<detail_title_business><![CDATA[ビジネス名]]></detail_title_business>
+			<detail_title_delivery_time><![CDATA[配送希望時間]]></detail_title_delivery_time>
+			<detail_title_memo><![CDATA[メモ]]></detail_title_memo>
+			<detail_title_order_history><![CDATA[注文処理の內容]]></detail_title_order_history>
+			<detail_title_order_item><![CDATA[注文した商品]]></detail_title_order_item>
+			<detail_title_order_process><![CDATA[ご注文に進む]]></detail_title_order_process>
+			<detail_title_pickup_time><![CDATA[ピックアップ時間]]></detail_title_pickup_time>
+			<detail_title_reserved_time><![CDATA[予約時間]]></detail_title_reserved_time>
+			<detail_title_total_paid><![CDATA[支払った合計]]></detail_title_total_paid>
+			<error_fail_refresh><![CDATA[Order refresh is not available]]></error_fail_refresh>
+			<error_fail_update><![CDATA[Update is not available]]></error_fail_update>
+			<localtime><![CDATA[現在時間]]></localtime>
+			<monthly_report><![CDATA[販売レポート]]></monthly_report>
+			<msg_success><![CDATA[Success to update]]></msg_success>
+			<no_monthly_data_yet><![CDATA[まだデータがありません。]]></no_monthly_data_yet>
+			<no_order_yet><![CDATA[まだ注文がありません。]]></no_order_yet>
+			<orderstatus><![CDATA[リアルタイム注文状態]]></orderstatus>
+			<orderstatus_customername><![CDATA[カスタマー名]]></orderstatus_customername>
+			<orderstatus_ordernumber><![CDATA[注文番号]]></orderstatus_ordernumber>
+			<orderstatus_status><![CDATA[状態]]></orderstatus_status>
+			<orderstatus_time><![CDATA[注文時間]]></orderstatus_time>
+			<orderstatus_type><![CDATA[注文種類]]></orderstatus_type>
+			<order_type_1><![CDATA[予約]]></order_type_1>
+			<order_type_2><![CDATA[ピックアップ]]></order_type_2>
+			<order_type_3><![CDATA[配送]]></order_type_3>
+			<txt_memo><![CDATA[Memo..]]></txt_memo>
+			<welcome><![CDATA[ようこそ]]></welcome>
+		</jp>
+		<cn>
+			<apply_btn><![CDATA[應用]]></apply_btn>
+			<check_login_required><![CDATA[Login is required]]></check_login_required>
+			<confirm_update_order><![CDATA[Do you want to update this order to]]></confirm_update_order>
+			<contact_phone><![CDATA[電話]]></contact_phone>
+			<dashboard><![CDATA[业务现状]]></dashboard>
+			<detail_no_memo><![CDATA[備忘錄]]></detail_no_memo>
+			<detail_title_business><![CDATA[公司名稱]]></detail_title_business>
+			<detail_title_delivery_time><![CDATA[交貨時間]]></detail_title_delivery_time>
+			<detail_title_memo><![CDATA[備忘錄]]></detail_title_memo>
+			<detail_title_order_history><![CDATA[訂單處理信息]]></detail_title_order_history>
+			<detail_title_order_item><![CDATA[訂購的商品]]></detail_title_order_item>
+			<detail_title_order_process><![CDATA[流程訂單]]></detail_title_order_process>
+			<detail_title_pickup_time><![CDATA[PICK UP時間]]></detail_title_pickup_time>
+			<detail_title_reserved_time><![CDATA[預約時間]]></detail_title_reserved_time>
+			<detail_title_total_paid><![CDATA[支付的總]]></detail_title_total_paid>
+			<error_fail_refresh><![CDATA[Order refresh is not available]]></error_fail_refresh>
+			<error_fail_update><![CDATA[Update is not available]]></error_fail_update>
+			<localtime><![CDATA[现在时间]]></localtime>
+			<monthly_report><![CDATA[每月报告]]></monthly_report>
+			<msg_success><![CDATA[Success to update]]></msg_success>
+			<no_monthly_data_yet><![CDATA[無資料放在]]></no_monthly_data_yet>
+			<no_order_yet><![CDATA[沒有秩序放在]]></no_order_yet>
+			<orderstatus><![CDATA[实时订单状态]]></orderstatus>
+			<orderstatus_customername><![CDATA[客户名字]]></orderstatus_customername>
+			<orderstatus_ordernumber><![CDATA[订单号码]]></orderstatus_ordernumber>
+			<orderstatus_status><![CDATA[狀態]]></orderstatus_status>
+			<orderstatus_time><![CDATA[订货时间]]></orderstatus_time>
+			<orderstatus_type><![CDATA[订货种类]]></orderstatus_type>
+			<order_type_1><![CDATA[預約]]></order_type_1>
+			<order_type_2><![CDATA[
+拾取 
+
+ ]]></order_type_2>
+			<order_type_3><![CDATA[交貨]]></order_type_3>
+			<txt_memo><![CDATA[Memo..]]></txt_memo>
+			<welcome><![CDATA[歓迎]]></welcome>
+		</cn>
+	</ceo_dashboard>
+</Lang>

@@ -1,0 +1,149 @@
+<Lang>
+	<login>
+		<en>
+			<changePS><![CDATA[Please type new password. If you have any problem please <a href="/contact-us/"></a>contact us</a>.]]></changePS>
+			<chck_min_length><![CDATA[Minimum length is 5 characters]]></chck_min_length>
+			<check_atleast_ch><![CDATA[Must contains at least one alphabet(A~Z,a~z)]]></check_atleast_ch>
+			<check_atleast_num><![CDATA[Must contains at least one number(0~9)]]></check_atleast_num>
+			<check_not_matched_pwd><![CDATA[Password is not matched]]></check_not_matched_pwd>
+			<email><![CDATA[Email Address]]></email>
+			<emailDontMatch1><![CDATA[Sorry, email does not match.]]></emailDontMatch1>
+			<emailDontMatch2><![CDATA[Sorry, email does not match. Please try again.]]></emailDontMatch2>
+			<Field_SendEmail><![CDATA[We will send you a confirmation email, please make sure that it is valid address.]]></Field_SendEmail>
+			<forgetPassword><![CDATA[Forgot you password?]]></forgetPassword>
+			<forgetPS><![CDATA[Please type your current registered email address. We will send you an confirmation email to reset your password. If you have any problem please <a href="/contact-us/">contact us</a>.]]></forgetPS>
+			<goback><![CDATA[Go back to login page]]></goback>
+			<loading><![CDATA[Please wait, Loading...]]></loading>
+			<login><![CDATA[Log In]]></login>
+			<newPassword><![CDATA[New Password]]></newPassword>
+			<pass><![CDATA[Password]]></pass>
+			<passChangeFail><![CDATA[Not able to change password. Please check your email address or use the link in latest email you have got.]]></passChangeFail>
+			<passChangeSucc><![CDATA[Password changed successfully. Please go to <a href="/login/">login page</a>.]]></passChangeSucc>
+			<passDontMatch1><![CDATA[Sorry, email and password do not match. Please try again.]]></passDontMatch1>
+			<passDontMatch2><![CDATA[Sorry, Email and password do not match.]]></passDontMatch2>
+			<passResetEmailSent><![CDATA[Thank you! We will send you a confirmation email. Please follow the instruction in the email to reset your password.]]></passResetEmailSent>
+			<plzType><![CDATA[Please type your login information.]]></plzType>
+			<regEmail><![CDATA[Registered Email Address]]></regEmail>
+			<register><![CDATA[Register]]></register>
+			<reset><![CDATA[Don't worry, We got this :)]]></reset>
+			<resetNotFound><![CDATA[Sorry, we could not find your email address in our system.]]></resetNotFound>
+			<resetPassword><![CDATA[Reset Password]]></resetPassword>
+		</en>
+		<es>
+			<changePS><![CDATA[Please type new password. If you have any problem please <a href="/contact-us/"></a>contact us</a>.]]></changePS>
+			<chck_min_length><![CDATA[Minimum length is 5 characters]]></chck_min_length>
+			<check_atleast_ch><![CDATA[Must contains at least one alphabet(A~Z,a~z)]]></check_atleast_ch>
+			<check_atleast_num><![CDATA[Must contains at least one number(0~9)]]></check_atleast_num>
+			<check_not_matched_pwd><![CDATA[Password is not matched]]></check_not_matched_pwd>
+			<email><![CDATA[E-mail Correo Electrónico]]></email>
+			<emailDontMatch1><![CDATA[Sorry, email does not match.]]></emailDontMatch1>
+			<emailDontMatch2><![CDATA[Sorry, email does not match. Please try again.]]></emailDontMatch2>
+			<Field_SendEmail><![CDATA[We will send you a confirmation email, please make sure that it is valid address.]]></Field_SendEmail>
+			<forgetPassword><![CDATA[Forgot you password?]]></forgetPassword>
+			<forgetPS><![CDATA[Please type your current registered email address. We will send you an confirmation email to reset your password. If you have any problem please <a href="/contact-us/">contact us</a>.]]></forgetPS>
+			<goback><![CDATA[Go back to login page]]></goback>
+			<loading><![CDATA[Please wait, Loading...]]></loading>
+			<login><![CDATA[Iniciar Sesión]]></login>
+			<newPassword><![CDATA[New Password]]></newPassword>
+			<pass><![CDATA[Contraseña]]></pass>
+			<passChangeFail><![CDATA[Not able to change password. Please check your email address or use the link in latest email you have got.]]></passChangeFail>
+			<passChangeSucc><![CDATA[Password changed successfully. Please go to <a href="/login/">login page</a>.]]></passChangeSucc>
+			<passDontMatch1><![CDATA[Sorry, email and password do not match. Please try again.]]></passDontMatch1>
+			<passDontMatch2><![CDATA[Sorry, Email and password do not match.]]></passDontMatch2>
+			<passResetEmailSent><![CDATA[Thank you! We will send you a confirmation email. Please follow the instruction in the email to reset your password.]]></passResetEmailSent>
+			<plzType><![CDATA[Por favor escriba su información de inicio de sesión.]]></plzType>
+			<regEmail><![CDATA[Registered Email Address]]></regEmail>
+			<register><![CDATA[Registro]]></register>
+			<reset><![CDATA[Don't worry, We got this :)]]></reset>
+			<resetNotFound><![CDATA[Sorry, we could not find your email address in our system.]]></resetNotFound>
+			<resetPassword><![CDATA[Reset Password]]></resetPassword>
+		</es>
+		<ko>
+			<changePS><![CDATA[새로운 비밀번호를 입력해주세요. 질문이 있으시면 저희에게 <a href="/contact-us/">문의</a>주세요.]]></changePS>
+			<chck_min_length><![CDATA[최소5자리]]></chck_min_length>
+			<check_atleast_ch><![CDATA[알파벳이 포함되어야합니다(A~Z,a~z)]]></check_atleast_ch>
+			<check_atleast_num><![CDATA[숫자가 포함되어야합니다(0-9)]]></check_atleast_num>
+			<check_not_matched_pwd><![CDATA[비밀번호가 일치하지 않습니다]]></check_not_matched_pwd>
+			<email><![CDATA[이메일 주소]]></email>
+			<emailDontMatch1><![CDATA[이메일 주소가 일치하지 않습니다.]]></emailDontMatch1>
+			<emailDontMatch2><![CDATA[이메일 주소가 일치하지 않습니다. 한번 더 시도해 주세요.]]></emailDontMatch2>
+			<Field_SendEmail><![CDATA[이메일 주소 확인을 위해, 가입인증 메일을 보내오니, 실제 사용중이신 이메일을 넣어 주세요.]]></Field_SendEmail>
+			<forgetPassword><![CDATA[비밀번호를 잊어버리셨나요?]]></forgetPassword>
+			<forgetPS><![CDATA[등록된 이메일 주소를 입력해주세요. 질문이 있으시면 저희에게 <a href="/contact-us/">문의</a>해주세요.]]></forgetPS>
+			<goback><![CDATA[로그인 페이지로 돌아가기]]></goback>
+			<loading><![CDATA[로그인 중입니다. 잠시만 기다려 주세요...]]></loading>
+			<login><![CDATA[로그인]]></login>
+			<newPassword><![CDATA[새로운 비밀번호]]></newPassword>
+			<pass><![CDATA[비밀번호]]></pass>
+			<passChangeFail><![CDATA[비밀번호 변경에 실패하였습니다. 입력하신 이메일 주소를 확인해보시고 가장 마지막에 받으신 메일의 링크를 사용해 주세요.]]></passChangeFail>
+			<passChangeSucc><![CDATA[비밀번호가 변경되었습니다. <a href="/login/">로그인 페이지</a>로 이동해 주세요.]]></passChangeSucc>
+			<passDontMatch1><![CDATA[이메일 혹은 비밀번호가 일치하지 않습니다. 한번 더 시도해 주세요.]]></passDontMatch1>
+			<passDontMatch2><![CDATA[이메일 혹은 비밀번호가 일치하지 않습니다.]]></passDontMatch2>
+			<passResetEmailSent><![CDATA[감사합니다! 비밀번호 초기화 메일이 보내집니다. 이메일 확인후 내용을 따라 비밀번호를 변경해주세요.]]></passResetEmailSent>
+			<plzType><![CDATA[로그인 정보를 입력 후 로그인 버튼을 눌러 주세요.]]></plzType>
+			<regEmail><![CDATA[등록된 이메일 주소]]></regEmail>
+			<register><![CDATA[회원가입]]></register>
+			<reset><![CDATA[걱정하지 마세요 :)]]></reset>
+			<resetNotFound><![CDATA[등록 되어 있지 않은 계정이거나 사용이 정지된 계정 입니다. 자세한 사항은 고객센터에 문의해 주세요.]]></resetNotFound>
+			<resetPassword><![CDATA[비밀번호 변경]]></resetPassword>
+		</ko>
+		<jp>
+			<changePS><![CDATA[Please type new password. If you have any problem please <a href="/contact-us/">contact us</a>.]]></changePS>
+			<chck_min_length><![CDATA[Minimum length is 5 characters]]></chck_min_length>
+			<check_atleast_ch><![CDATA[Must contains at least one alphabet(A~Z,a~z)]]></check_atleast_ch>
+			<check_atleast_num><![CDATA[Must contains at least one number(0~9)]]></check_atleast_num>
+			<check_not_matched_pwd><![CDATA[Password is not matched]]></check_not_matched_pwd>
+			<email><![CDATA[E-mail 住所]]></email>
+			<emailDontMatch1><![CDATA[Sorry, email does not match.]]></emailDontMatch1>
+			<emailDontMatch2><![CDATA[Sorry, email does not match. Please try again.]]></emailDontMatch2>
+			<Field_SendEmail><![CDATA[We will send you a confirmation email, please make sure that it is valid address.]]></Field_SendEmail>
+			<forgetPassword><![CDATA[Forgot you password?]]></forgetPassword>
+			<forgetPS><![CDATA[Please type your current registered email address. We will send you an confirmation email to reset your password. If you have any problem please <a href="/contact-us/">contact us</a>.]]></forgetPS>
+			<goback><![CDATA[Go back to login page]]></goback>
+			<loading><![CDATA[Please wait, Loading...]]></loading>
+			<login><![CDATA[ログイン]]></login>
+			<newPassword><![CDATA[New Password]]></newPassword>
+			<pass><![CDATA[Password]]></pass>
+			<passChangeFail><![CDATA[Not able to change password. Please check your email address or use the link in latest email you have got.]]></passChangeFail>
+			<passChangeSucc><![CDATA[Password changed successfully. Please go to <a href="/login/">login page</a>.]]></passChangeSucc>
+			<passDontMatch1><![CDATA[Sorry, email and password do not match. Please try again.]]></passDontMatch1>
+			<passDontMatch2><![CDATA[Sorry, Email and password do not match.]]></passDontMatch2>
+			<passResetEmailSent><![CDATA[Thank you! We will send you a confirmation email. Please follow the instruction in the email to reset your password.]]></passResetEmailSent>
+			<plzType><![CDATA[ログイン情報を入力後ログインボタンを押してください.]]></plzType>
+			<regEmail><![CDATA[Registered Email Address]]></regEmail>
+			<register><![CDATA[会員加入]]></register>
+			<reset><![CDATA[Don't worry, We got this :)]]></reset>
+			<resetNotFound><![CDATA[Sorry, we could not find your email address in our system.]]></resetNotFound>
+			<resetPassword><![CDATA[Reset Password]]></resetPassword>
+		</jp>
+		<cn>
+			<changePS><![CDATA[Please type new password. If you have any problem please <a href="/contact-us/">contact us</a>.]]></changePS>
+			<chck_min_length><![CDATA[Minimum length is 5 characters]]></chck_min_length>
+			<check_atleast_ch><![CDATA[Must contains at least one alphabet(A~Z,a~z)]]></check_atleast_ch>
+			<check_atleast_num><![CDATA[Must contains at least one number(0~9)]]></check_atleast_num>
+			<check_not_matched_pwd><![CDATA[Password is not matched]]></check_not_matched_pwd>
+			<email><![CDATA[Email Address]]></email>
+			<emailDontMatch1><![CDATA[Sorry, email does not match.]]></emailDontMatch1>
+			<emailDontMatch2><![CDATA[Sorry, email does not match. Please try again.]]></emailDontMatch2>
+			<Field_SendEmail><![CDATA[We will send you a confirmation email, please make sure that it is valid address.]]></Field_SendEmail>
+			<forgetPassword><![CDATA[Forgot you password?]]></forgetPassword>
+			<forgetPS><![CDATA[Please type your current registered email address. We will send you an confirmation email to reset your password. If you have any problem please <a href="/contact-us/">contact us</a>.]]></forgetPS>
+			<goback><![CDATA[Go back to login page]]></goback>
+			<loading><![CDATA[Please wait, Loading...]]></loading>
+			<login><![CDATA[登录]]></login>
+			<newPassword><![CDATA[New Password]]></newPassword>
+			<pass><![CDATA[Password]]></pass>
+			<passChangeFail><![CDATA[Not able to change password. Please check your email address or use the link in latest email you have got.]]></passChangeFail>
+			<passChangeSucc><![CDATA[Password changed successfully. Please go to <a href="/login/">login page</a>.]]></passChangeSucc>
+			<passDontMatch1><![CDATA[Sorry, email and password do not match. Please try again.]]></passDontMatch1>
+			<passDontMatch2><![CDATA[Sorry, Email and password do not match.]]></passDontMatch2>
+			<passResetEmailSent><![CDATA[Thank you! We will send you a confirmation email. Please follow the instruction in the email to reset your password.]]></passResetEmailSent>
+			<plzType><![CDATA[请输入登入信息后，按一下登入按钮.]]></plzType>
+			<regEmail><![CDATA[Registered Email Address]]></regEmail>
+			<register><![CDATA[注册]]></register>
+			<reset><![CDATA[Don't worry, We got this :)]]></reset>
+			<resetNotFound><![CDATA[Sorry, we could not find your email address in our system.]]></resetNotFound>
+			<resetPassword><![CDATA[Reset Password]]></resetPassword>
+		</cn>
+	</login>
+</Lang>

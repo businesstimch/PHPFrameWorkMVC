@@ -1,0 +1,80 @@
+<Lang>
+	<burugo_address>
+		<en>
+			<addNewAddr_BTN><![CDATA[ADD NEW DELIVERY ADDRESS]]></addNewAddr_BTN>
+			<check_required><![CDATA[Please fill up box marked with (*)]]></check_required>
+			<city><![CDATA[City]]></city>
+			<confirm_delete_address><![CDATA[Do you want to delete this address?]]></confirm_delete_address>
+			<currentAddr><![CDATA[Current Address]]></currentAddr>
+			<recipient_name><![CDATA[Name of Recipient]]></recipient_name>
+			<setdefault><![CDATA[Set as Default]]></setdefault>
+			<states><![CDATA[State]]></states>
+			<states_dropdown_1><![CDATA[Select a State]]></states_dropdown_1>
+			<streetaddress><![CDATA[Street Address]]></streetaddress>
+			<streetaddress_addr><![CDATA[Additional Address]]></streetaddress_addr>
+			<title><![CDATA[Delivery Address]]></title>
+			<zipcode><![CDATA[Zip Code]]></zipcode>
+		</en>
+		<es>
+			<addNewAddr_BTN><![CDATA[Añadir una Nueva Dirección]]></addNewAddr_BTN>
+			<check_required><![CDATA[Por favor, rellene la caja marcada con (*)]]></check_required>
+			<city><![CDATA[Ciudad]]></city>
+			<confirm_delete_address><![CDATA[¿Quieres eliminar esta dirección?]]></confirm_delete_address>
+			<currentAddr><![CDATA[dirección actual]]></currentAddr>
+			<recipient_name><![CDATA[Dirección de envío]]></recipient_name>
+			<setdefault><![CDATA[Establecer como dirección principal]]></setdefault>
+			<states><![CDATA[Provincia]]></states>
+			<states_dropdown_1><![CDATA[Select a State]]></states_dropdown_1>
+			<streetaddress><![CDATA[Calle]]></streetaddress>
+			<streetaddress_addr><![CDATA[Más información de dirección]]></streetaddress_addr>
+			<title><![CDATA[Configuración de Dirección]]></title>
+			<zipcode><![CDATA[Código Postal]]></zipcode>
+		</es>
+		<ko>
+			<addNewAddr_BTN><![CDATA[신규 배송주소 추가]]></addNewAddr_BTN>
+			<check_required><![CDATA[필수입력사항(*)을 입력해주세요]]></check_required>
+			<city><![CDATA[도시]]></city>
+			<confirm_delete_address><![CDATA[이주소를 삭제하시겠습니까?]]></confirm_delete_address>
+			<currentAddr><![CDATA[현재 저장된 주소]]></currentAddr>
+			<recipient_name><![CDATA[받는 사람 이름]]></recipient_name>
+			<setdefault><![CDATA[메인주소로 설정]]></setdefault>
+			<states><![CDATA[주]]></states>
+			<states_dropdown_1><![CDATA[주를 선택해 주세요]]></states_dropdown_1>
+			<streetaddress><![CDATA[도로 주소]]></streetaddress>
+			<streetaddress_addr><![CDATA[추가 주소]]></streetaddress_addr>
+			<title><![CDATA[배송 주소 설정]]></title>
+			<zipcode><![CDATA[우편번호(집코드)]]></zipcode>
+		</ko>
+		<jp>
+			<addNewAddr_BTN><![CDATA[新規配送住所追加]]></addNewAddr_BTN>
+			<check_required><![CDATA[必須入力事項(*)を入力してください。]]></check_required>
+			<city><![CDATA[都市]]></city>
+			<confirm_delete_address><![CDATA[この住所を削除しますか]]></confirm_delete_address>
+			<currentAddr><![CDATA[現在保存されている住所]]></currentAddr>
+			<recipient_name><![CDATA[受信者の住所]]></recipient_name>
+			<setdefault><![CDATA[メイン住所で設定]]></setdefault>
+			<states><![CDATA[州]]></states>
+			<states_dropdown_1><![CDATA[州を選択して下さい]]></states_dropdown_1>
+			<streetaddress><![CDATA[道路住所]]></streetaddress>
+			<streetaddress_addr><![CDATA[追加住所]]></streetaddress_addr>
+			<title><![CDATA[配送住所設定]]></title>
+			<zipcode><![CDATA[郵便番号]]></zipcode>
+		</jp>
+		<cn>
+			<addNewAddr_BTN><![CDATA[增加新送货地址]]></addNewAddr_BTN>
+			<check_required><![CDATA[請輸入所需的輸入項(*)]]></check_required>
+			<city><![CDATA[州城市]]></city>
+			<confirm_delete_address><![CDATA[你要刪除這個地址？ 
+]]></confirm_delete_address>
+			<currentAddr><![CDATA[當前地址]]></currentAddr>
+			<recipient_name><![CDATA[收件人的地址]]></recipient_name>
+			<setdefault><![CDATA[设定主页]]></setdefault>
+			<states><![CDATA[州]]></states>
+			<states_dropdown_1><![CDATA[選擇一個國家]]></states_dropdown_1>
+			<streetaddress><![CDATA[街道地址]]></streetaddress>
+			<streetaddress_addr><![CDATA[其他地址]]></streetaddress_addr>
+			<title><![CDATA[设定送货地址]]></title>
+			<zipcode><![CDATA[邮政编码]]></zipcode>
+		</cn>
+	</burugo_address>
+</Lang>

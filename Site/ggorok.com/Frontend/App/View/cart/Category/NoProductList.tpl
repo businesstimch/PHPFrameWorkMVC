@@ -1,0 +1,1 @@
+<div class="center w100 noProducts">No product in this category</div>

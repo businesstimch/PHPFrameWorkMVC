@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/earlyaccess/nanumgothic.css");
+@import url("https://fonts.googleapis.com/earlyaccess/nanumbrushscript.css");
+@import url("https://fonts.googleapis.com/css?family=Hammersmith+One");
+@import url("https://fonts.googleapis.com/css?family=Lato");
+
+body{background-color:#3f3f3f;}
+
+.Button_1{padding:10px 30px;border:0;border-radius:5px;background-color:#70b2e9;color:white;font-size:13px;cursor:pointer;}
+.Button_1:hover{background-color:#5699d2;}
+.PlaceholderWhite::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */ color: white;opacity: 1; /* Firefox */}
+.PlaceholderWhite:-ms-input-placeholder,.PlaceholderWhite::-ms-input-placeholder { /* Internet Explorer 10-11 */color: white;}
+
+@media all and (max-width:750px) {
+
+}
+
+@media (min-width:800px) {}
+@media (min-width:1600px) {
+
+}

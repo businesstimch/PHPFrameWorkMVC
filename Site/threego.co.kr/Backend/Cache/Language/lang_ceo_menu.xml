@@ -1,0 +1,39 @@
+<Lang>
+	<ceo_menu>
+		<en>
+			<dashboard><![CDATA[Dashboard]]></dashboard>
+			<editProfile><![CDATA[Edit Profile]]></editProfile>
+			<management><![CDATA[My Business Pages]]></management>
+			<mybusiness><![CDATA[My Business]]></mybusiness>
+			<registerNewBusiness><![CDATA[Register New Business]]></registerNewBusiness>
+		</en>
+		<es>
+			<dashboard><![CDATA[Salpicadero]]></dashboard>
+			<editProfile><![CDATA[Editar Perfil]]></editProfile>
+			<management><![CDATA[Mi Negocio Páginas]]></management>
+			<mybusiness><![CDATA[Mis empresas]]></mybusiness>
+			<registerNewBusiness><![CDATA[Registro de Nuevos Negocios]]></registerNewBusiness>
+		</es>
+		<ko>
+			<dashboard><![CDATA[나의 비지니스 현황]]></dashboard>
+			<editProfile><![CDATA[프로필 수정]]></editProfile>
+			<management><![CDATA[비지니스 페이지]]></management>
+			<mybusiness><![CDATA[나의 비지니스 관리]]></mybusiness>
+			<registerNewBusiness><![CDATA[신규 비지니스 등록]]></registerNewBusiness>
+		</ko>
+		<jp>
+			<dashboard><![CDATA[私のビジネス現況]]></dashboard>
+			<editProfile><![CDATA[プロフィール修正]]></editProfile>
+			<management><![CDATA[ビジネス管理メニュー]]></management>
+			<mybusiness><![CDATA[私のビジネス管理]]></mybusiness>
+			<registerNewBusiness><![CDATA[新規ビジネス登録]]></registerNewBusiness>
+		</jp>
+		<cn>
+			<dashboard><![CDATA[我的业务现状]]></dashboard>
+			<editProfile><![CDATA[编辑个人简介]]></editProfile>
+			<management><![CDATA[业务管理菜单]]></management>
+			<mybusiness><![CDATA[管理我的业务]]></mybusiness>
+			<registerNewBusiness><![CDATA[登记新业务]]></registerNewBusiness>
+		</cn>
+	</ceo_menu>
+</Lang>

@@ -1,0 +1,38 @@
+<Lang>
+	<general>
+		<en>
+			<check_login><![CDATA[Login is required
+]]></check_login>
+			<my_page><![CDATA[MY PAGES]]></my_page>
+			<subsc_premium><![CDATA[Premium]]></subsc_premium>
+			<txt_new_order><![CDATA[You Received New Order]]></txt_new_order>
+		</en>
+		<es>
+			<check_login><![CDATA[Login is required
+]]></check_login>
+			<my_page><![CDATA[Mi página]]></my_page>
+			<subsc_premium><![CDATA[Premium]]></subsc_premium>
+			<txt_new_order><![CDATA[You Received New Order]]></txt_new_order>
+		</es>
+		<ko>
+			<check_login><![CDATA[로그인 해주세요]]></check_login>
+			<my_page><![CDATA[내 페이지]]></my_page>
+			<subsc_premium><![CDATA[프리미엄]]></subsc_premium>
+			<txt_new_order><![CDATA[새로운 오더가 발생했습니다]]></txt_new_order>
+		</ko>
+		<jp>
+			<check_login><![CDATA[Login is required
+]]></check_login>
+			<my_page><![CDATA[マイページ]]></my_page>
+			<subsc_premium><![CDATA[Premium]]></subsc_premium>
+			<txt_new_order><![CDATA[You Received New Order]]></txt_new_order>
+		</jp>
+		<cn>
+			<check_login><![CDATA[Login is required
+]]></check_login>
+			<my_page><![CDATA[我的主页]]></my_page>
+			<subsc_premium><![CDATA[Premium]]></subsc_premium>
+			<txt_new_order><![CDATA[You Received New Order]]></txt_new_order>
+		</cn>
+	</general>
+</Lang>

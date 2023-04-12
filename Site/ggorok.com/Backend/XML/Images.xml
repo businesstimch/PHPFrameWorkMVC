@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Image>
+	<Showcase>
+		<ID>SC_Thumb</ID>
+		<Width>100</Width>
+		<Height>100</Height>
+	</Showcase>
+	<Showcase>
+		<ID>SC_List</ID>
+		<Width>300</Width>
+		<Height>300</Height>
+	</Showcase>
+	<Showcase>
+		<ID>SC_Showcase</ID>
+		<Width>400</Width>
+		<Height>400</Height>
+	</Showcase>
+	<Showcase>
+		<ID>SC_Zoom</ID>
+		<Width>800</Width>
+		<Height>800</Height>
+	</Showcase>
+</Image>

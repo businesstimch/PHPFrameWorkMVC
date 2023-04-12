@@ -1,0 +1,376 @@
+<Lang>
+	<burugo_home>
+		<en>
+			<about_us><![CDATA[About us]]></about_us>
+			<additional_address><![CDATA[Additional Address]]></additional_address>
+			<adult><![CDATA[Adults]]></adult>
+			<btn_delivery><![CDATA[DELIVERY]]></btn_delivery>
+			<btn_pickup><![CDATA[PICK UP]]></btn_pickup>
+			<btn_reservation><![CDATA[RESERVATION]]></btn_reservation>
+			<businesses_you_like><![CDATA[Businesses you may like in ]]></businesses_you_like>
+			<checkout><![CDATA[CHECK OUT]]></checkout>
+			<check_delivery_ampm><![CDATA[Please check AM/PM field again]]></check_delivery_ampm>
+			<check_delivery_hour><![CDATA[Please check delivery hour again]]></check_delivery_hour>
+			<check_delivery_min><![CDATA[Please check delivery minutes again]]></check_delivery_min>
+			<check_pickup_ampm><![CDATA[Please check pick up AM/PM again]]></check_pickup_ampm>
+			<check_pickup_hour><![CDATA[Please check PICK UP hour again]]></check_pickup_hour>
+			<check_pickup_min><![CDATA[Please check PICK UP minutes again]]></check_pickup_min>
+			<child><![CDATA[Children]]></child>
+			<city><![CDATA[City]]></city>
+			<confirm_delivery><![CDATA[Do you want to make a delivery order as above?]]></confirm_delivery>
+			<confirm_delivery_msg><![CDATA[Please Confirm Your Delivery Information]]></confirm_delivery_msg>
+			<confirm_pickup><![CDATA[Do you want to make a PICK UP order as above?]]></confirm_pickup>
+			<confirm_pickup_msg><![CDATA[Please Confirm Your PICK UP Information]]></confirm_pickup_msg>
+			<confirm_reserve><![CDATA[Do you want to make a reservation as above?]]></confirm_reserve>
+			<confirm_reserve_msg><![CDATA[Please Confirm Your Reservation Information]]></confirm_reserve_msg>
+			<contact_us><![CDATA[Contact us]]></contact_us>
+			<create_new_address><![CDATA[Create New Destination Address]]></create_new_address>
+			<delivery_info><![CDATA[Your Delivery Information]]></delivery_info>
+			<delivery_time><![CDATA[Delivery Time: ]]></delivery_time>
+			<destination_address><![CDATA[Select or Create destination address:]]></destination_address>
+			<error_contact_admin><![CDATA[Contact to admin..]]></error_contact_admin>
+			<err_business_closed><![CDATA[The time you entered is out of business hour.]]></err_business_closed>
+			<err_cart_empty><![CDATA[Your cart is empty.]]></err_cart_empty>
+			<err_check_field><![CDATA[Please check fields and try again]]></err_check_field>
+			<err_delivery_address_error><![CDATA[Please check delivery address and submit again.]]></err_delivery_address_error>
+			<err_past_time><![CDATA[Please check your order time. ]]></err_past_time>
+			<err_try_again><![CDATA[Please check the information and try again.]]></err_try_again>
+			<go_back_to_list><![CDATA[Go back to Home]]></go_back_to_list>
+			<INP_tmp_Country><![CDATA[Select Country]]></INP_tmp_Country>
+			<INP_tmp_Zip><![CDATA[Zip Code or City]]></INP_tmp_Zip>
+			<loading_location><![CDATA[Loading Your Location]]></loading_location>
+			<make_reservation><![CDATA[MAKE A RESERVATION]]></make_reservation>
+			<menu><![CDATA[ITEMS]]></menu>
+			<msg_res_success><![CDATA[Your reservation has been made successfully]]></msg_res_success>
+			<msg_success><![CDATA[Saved Successfully]]></msg_success>
+			<my_cart><![CDATA[MY CART]]></my_cart>
+			<nextstep><![CDATA[Go to Next Step]]></nextstep>
+			<pickup_info><![CDATA[Your PICK UP Information]]></pickup_info>
+			<pickup_time><![CDATA[PICK UP Time: ]]></pickup_time>
+			<pickup_time_change_contact><![CDATA[Please contact us if there is any changes.]]></pickup_time_change_contact>
+			<please_login><![CDATA[Please login to continue.<br />You do not have an account with us?<br />Please join Burugo for more service;)]]></please_login>
+			<recipient_name><![CDATA[Recipient's name]]></recipient_name>
+			<reservation_info><![CDATA[Your Reservation Information]]></reservation_info>
+			<reserve_how_many><![CDATA[Please make a reservation one person or more.]]></reserve_how_many>
+			<save><![CDATA[Save]]></save>
+			<search_result_about><![CDATA[Search Result: ]]></search_result_about>
+			<select_delivery_address><![CDATA[Please select or add delivery address]]></select_delivery_address>
+			<select_state><![CDATA[Select a State]]></select_state>
+			<service_agent><![CDATA[Service Agents]]></service_agent>
+			<state><![CDATA[States]]></state>
+			<step_1_delivery><![CDATA[Step 1: Delivery Order]]></step_1_delivery>
+			<step_1_delivery_desc><![CDATA[Pick from the below item and add into the cart.]]></step_1_delivery_desc>
+			<step_1_togo><![CDATA[Step 1: PICK UP Order]]></step_1_togo>
+			<step_1_togo_desc><![CDATA[Pick from the below item and add into the cart.]]></step_1_togo_desc>
+			<step_2_delivery><![CDATA[Step 2: Delivery Order]]></step_2_delivery>
+			<step_2_delivery_desc><![CDATA[Please enter your delivery address and press the checkout button.]]></step_2_delivery_desc>
+			<step_2_togo><![CDATA[Step 2: Pick-Up Order]]></step_2_togo>
+			<step_2_togo_desc><![CDATA[Please enter your PICK UP time and press the checkout button.]]></step_2_togo_desc>
+			<street_address><![CDATA[Street Address]]></street_address>
+			<succ_delivery><![CDATA[Your delivery order has been placed successfully]]></succ_delivery>
+			<succ_pickup><![CDATA[Your PICK UP order has been placed successfully]]></succ_pickup>
+			<telephone><![CDATA[Telephone: ]]></telephone>
+			<view_map><![CDATA[(View Map)]]></view_map>
+			<view_more><![CDATA[View More]]></view_more>
+			<zip_code><![CDATA[Zip Code]]></zip_code>
+		</en>
+		<es>
+			<about_us><![CDATA[About us]]></about_us>
+			<additional_address><![CDATA[Dirección adicional]]></additional_address>
+			<adult><![CDATA[Adultos]]></adult>
+			<btn_delivery><![CDATA[ENTREGA]]></btn_delivery>
+			<btn_pickup><![CDATA[PICK UP]]></btn_pickup>
+			<btn_reservation><![CDATA[RESERVA]]></btn_reservation>
+			<businesses_you_like><![CDATA[Businesses you may like in ]]></businesses_you_like>
+			<checkout><![CDATA[CHECK OUT]]></checkout>
+			<check_delivery_ampm><![CDATA[Please check AM/PM field again]]></check_delivery_ampm>
+			<check_delivery_hour><![CDATA[Please check delivery hour again]]></check_delivery_hour>
+			<check_delivery_min><![CDATA[Please check delivery minutes again]]></check_delivery_min>
+			<check_pickup_ampm><![CDATA[Please check pick up AM/PM again]]></check_pickup_ampm>
+			<check_pickup_hour><![CDATA[Please check PICK UP hour again]]></check_pickup_hour>
+			<check_pickup_min><![CDATA[Please check PICK UP minutes again]]></check_pickup_min>
+			<child><![CDATA[Children]]></child>
+			<city><![CDATA[City]]></city>
+			<confirm_delivery><![CDATA[Do you want to make a delivery order as above?]]></confirm_delivery>
+			<confirm_delivery_msg><![CDATA[Please Confirm Your Delivery Information]]></confirm_delivery_msg>
+			<confirm_pickup><![CDATA[Do you want to make a PICK UP order as above?]]></confirm_pickup>
+			<confirm_pickup_msg><![CDATA[Please Confirm Your PICK UP Information]]></confirm_pickup_msg>
+			<confirm_reserve><![CDATA[Do you want to make a reservation as above?]]></confirm_reserve>
+			<confirm_reserve_msg><![CDATA[Please Confirm Your Reservation Information]]></confirm_reserve_msg>
+			<contact_us><![CDATA[Contact us]]></contact_us>
+			<create_new_address><![CDATA[Create New Destination Address]]></create_new_address>
+			<delivery_info><![CDATA[Tu Información Entrega]]></delivery_info>
+			<delivery_time><![CDATA[Tiempo de Entrega: ]]></delivery_time>
+			<destination_address><![CDATA[Seleccionar o crear dirección de destino:]]></destination_address>
+			<error_contact_admin><![CDATA[Contact to admin..]]></error_contact_admin>
+			<err_business_closed><![CDATA[La hora de entrada está fuera de horas de negocio.]]></err_business_closed>
+			<err_cart_empty><![CDATA[Your cart is empty.]]></err_cart_empty>
+			<err_check_field><![CDATA[Por favor, compruebe los campos y vuelva a intentarlo]]></err_check_field>
+			<err_delivery_address_error><![CDATA[Por favor verifique la dirección de entrega y presentar de nuevo.]]></err_delivery_address_error>
+			<err_past_time><![CDATA[Compruebe por favor su tiempo de la orden. ]]></err_past_time>
+			<err_try_again><![CDATA[Por favor, compruebe la información y vuelva a intentarlo.]]></err_try_again>
+			<go_back_to_list><![CDATA[Go back to Home]]></go_back_to_list>
+			<INP_tmp_Country><![CDATA[Seleccionar país]]></INP_tmp_Country>
+			<INP_tmp_Zip><![CDATA[Código postal or Ciudad]]></INP_tmp_Zip>
+			<loading_location><![CDATA[Loading Your Location]]></loading_location>
+			<make_reservation><![CDATA[REALIZAR UNA RESERVA]]></make_reservation>
+			<menu><![CDATA[ARTÍCULOS]]></menu>
+			<msg_res_success><![CDATA[Your reservation has been made successfully]]></msg_res_success>
+			<msg_success><![CDATA[Saved Successfully]]></msg_success>
+			<my_cart><![CDATA[MY CART]]></my_cart>
+			<nextstep><![CDATA[Go to Next Step]]></nextstep>
+			<pickup_info><![CDATA[Your PICK UP Information]]></pickup_info>
+			<pickup_time><![CDATA[PICK UP tiempo: ]]></pickup_time>
+			<pickup_time_change_contact><![CDATA[Por favor, póngase en contacto con nosotros si hay cualquier cambio.]]></pickup_time_change_contact>
+			<please_login><![CDATA[Please login to continue.<br />You do not have an account with us?<br />Please join Burugo for more service;)]]></please_login>
+			<recipient_name><![CDATA[Nombre del destinatario]]></recipient_name>
+			<reservation_info><![CDATA[Datos de su reserva]]></reservation_info>
+			<reserve_how_many><![CDATA[Por favor, haga su reserva uno o más.]]></reserve_how_many>
+			<save><![CDATA[Save]]></save>
+			<search_result_about><![CDATA[Search Result: ]]></search_result_about>
+			<select_delivery_address><![CDATA[Por favor seleccione o agregue la dirección de entrega]]></select_delivery_address>
+			<select_state><![CDATA[Select a State]]></select_state>
+			<service_agent><![CDATA[Agentes de servicio]]></service_agent>
+			<state><![CDATA[Provincia]]></state>
+			<step_1_delivery><![CDATA[Paso 1: Entrega del pedido]]></step_1_delivery>
+			<step_1_delivery_desc><![CDATA[Elija entre este artículo y añade a la cesta.]]></step_1_delivery_desc>
+			<step_1_togo><![CDATA[Paso 1: PICK UP orden]]></step_1_togo>
+			<step_1_togo_desc><![CDATA[Pick from the below item and add into the cart.]]></step_1_togo_desc>
+			<step_2_delivery><![CDATA[Paso 2: Entrega del pedido]]></step_2_delivery>
+			<step_2_delivery_desc><![CDATA[Introduzca su dirección de entrega y pulse el botón de pago.]]></step_2_delivery_desc>
+			<step_2_togo><![CDATA[Paso 2: PICK UP orden]]></step_2_togo>
+			<step_2_togo_desc><![CDATA[Please enter your PICK UP time and press the checkout button.]]></step_2_togo_desc>
+			<street_address><![CDATA[Street Address]]></street_address>
+			<succ_delivery><![CDATA[Your delivery order has been placed successfully]]></succ_delivery>
+			<succ_pickup><![CDATA[Su orden de entrega se ha realizado correctamente]]></succ_pickup>
+			<telephone><![CDATA[teléfono: ]]></telephone>
+			<view_map><![CDATA[(Ver mapa)]]></view_map>
+			<view_more><![CDATA[ver más]]></view_more>
+			<zip_code><![CDATA[Código postal]]></zip_code>
+		</es>
+		<ko>
+			<about_us><![CDATA[비지니스 소개]]></about_us>
+			<additional_address><![CDATA[추가 주소]]></additional_address>
+			<adult><![CDATA[성인]]></adult>
+			<btn_delivery><![CDATA[배송 주문]]></btn_delivery>
+			<btn_pickup><![CDATA[픽업 주문]]></btn_pickup>
+			<btn_reservation><![CDATA[예약 하기]]></btn_reservation>
+			<businesses_you_like><![CDATA[Businesses you may like in ]]></businesses_you_like>
+			<checkout><![CDATA[픽업 완료]]></checkout>
+			<check_delivery_ampm><![CDATA[오전/오후를 확인해 주세요]]></check_delivery_ampm>
+			<check_delivery_hour><![CDATA[배송시간을 다시 확인해 주세요]]></check_delivery_hour>
+			<check_delivery_min><![CDATA[배송 분을 다시 확인해 주세요]]></check_delivery_min>
+			<check_pickup_ampm><![CDATA[픽업 오전/오후를 다시 확인해 주세요]]></check_pickup_ampm>
+			<check_pickup_hour><![CDATA[픽업시간을 다시 확인해 주세요]]></check_pickup_hour>
+			<check_pickup_min><![CDATA[픽업 분을 확인해 주세요]]></check_pickup_min>
+			<child><![CDATA[어린이]]></child>
+			<city><![CDATA[도시]]></city>
+			<confirm_delivery><![CDATA[위의 내용대로 주문하시겠습니까?]]></confirm_delivery>
+			<confirm_delivery_msg><![CDATA[픽업오더 주문내용을 확인해 주세요]]></confirm_delivery_msg>
+			<confirm_pickup><![CDATA[위의 내용대로 주문하시겠습니까?]]></confirm_pickup>
+			<confirm_pickup_msg><![CDATA[픽업오더 주문내용을 확인해 주세요]]></confirm_pickup_msg>
+			<confirm_reserve><![CDATA[위의 내용대로 예약하시겠습니까?]]></confirm_reserve>
+			<confirm_reserve_msg><![CDATA[예약 내용을 확인해 주세요]]></confirm_reserve_msg>
+			<contact_us><![CDATA[Contact us]]></contact_us>
+			<create_new_address><![CDATA[새로운 배송정보를 입력해 주세요]]></create_new_address>
+			<delivery_info><![CDATA[배송 정보]]></delivery_info>
+			<delivery_time><![CDATA[배송 시각: ]]></delivery_time>
+			<destination_address><![CDATA[배송될 주소를 선택 또는 입력해주세요:]]></destination_address>
+			<error_contact_admin><![CDATA[부르고에 연락주세요]]></error_contact_admin>
+			<err_business_closed><![CDATA[영업이 마감된 시간입니다.]]></err_business_closed>
+			<err_cart_empty><![CDATA[장바구니가 비었습니다.]]></err_cart_empty>
+			<err_check_field><![CDATA[해당란을 다시 확인해 주세요]]></err_check_field>
+			<err_delivery_address_error><![CDATA[배송등록이 안되어 있습니다. 확인 후 다시 시도해 주세요. ]]></err_delivery_address_error>
+			<err_past_time><![CDATA[배송시간을 확인해주세요.]]></err_past_time>
+			<err_try_again><![CDATA[정보를 다시 확인해 주세요.]]></err_try_again>
+			<go_back_to_list><![CDATA[홈페이지 가기]]></go_back_to_list>
+			<INP_tmp_Country><![CDATA[국가를 선택하세요]]></INP_tmp_Country>
+			<INP_tmp_Zip><![CDATA[우편번호 혹은 도시명]]></INP_tmp_Zip>
+			<loading_location><![CDATA[지역정보를 불러오고 있습니다]]></loading_location>
+			<make_reservation><![CDATA[예약 완료]]></make_reservation>
+			<menu><![CDATA[아이템]]></menu>
+			<msg_res_success><![CDATA[예약이 되었습니다]]></msg_res_success>
+			<msg_success><![CDATA[저장되었습니다]]></msg_success>
+			<my_cart><![CDATA[장바구니]]></my_cart>
+			<nextstep><![CDATA[다음 단계가기]]></nextstep>
+			<pickup_info><![CDATA[주문 내용]]></pickup_info>
+			<pickup_time><![CDATA[픽업 시간: ]]></pickup_time>
+			<pickup_time_change_contact><![CDATA[변경사항이 있으면 연락주세요.]]></pickup_time_change_contact>
+			<please_login><![CDATA[회원가입을 해주세요.]]></please_login>
+			<recipient_name><![CDATA[받는 사람 이름]]></recipient_name>
+			<reservation_info><![CDATA[당신의 예약 정보]]></reservation_info>
+			<reserve_how_many><![CDATA[한분이상 예약을 등록해 주세요.]]></reserve_how_many>
+			<save><![CDATA[저장]]></save>
+			<search_result_about><![CDATA[검색 결과: ]]></search_result_about>
+			<select_delivery_address><![CDATA[배송주소를 선택 또는 등록해 주세요]]></select_delivery_address>
+			<select_state><![CDATA[주]]></select_state>
+			<service_agent><![CDATA[서비스 에이전트]]></service_agent>
+			<state><![CDATA[주]]></state>
+			<step_1_delivery><![CDATA[1 단계: 배송 주문 ]]></step_1_delivery>
+			<step_1_delivery_desc><![CDATA[아래의 아이템에서 선택하여 카트에 넣어주세요.]]></step_1_delivery_desc>
+			<step_1_togo><![CDATA[1 단계: 픽업 주문]]></step_1_togo>
+			<step_1_togo_desc><![CDATA[아래의 아이템에서 선택하여 카트에 넣어주세요.]]></step_1_togo_desc>
+			<step_2_delivery><![CDATA[2 단계: 배송주문 ]]></step_2_delivery>
+			<step_2_delivery_desc><![CDATA[배송 받으실 주소입력 후 픽업완료버튼을 눌러주세요.]]></step_2_delivery_desc>
+			<step_2_togo><![CDATA[2 단계: 픽업주문]]></step_2_togo>
+			<step_2_togo_desc><![CDATA[픽업 시간을 선택하신 후 픽업완료버튼을 눌러주세요.]]></step_2_togo_desc>
+			<street_address><![CDATA[거리 주소]]></street_address>
+			<succ_delivery><![CDATA[주문이 완료됐습니다.]]></succ_delivery>
+			<succ_pickup><![CDATA[주문이 완료됐습니다.]]></succ_pickup>
+			<telephone><![CDATA[전화 번호: ]]></telephone>
+			<view_map><![CDATA[(지도 보기)]]></view_map>
+			<view_more><![CDATA[더보기]]></view_more>
+			<zip_code><![CDATA[우편 번호]]></zip_code>
+		</ko>
+		<jp>
+			<about_us><![CDATA[会社紹介]]></about_us>
+			<additional_address><![CDATA[追加住所]]></additional_address>
+			<adult><![CDATA[成人]]></adult>
+			<btn_delivery><![CDATA[配送注文]]></btn_delivery>
+			<btn_pickup><![CDATA[ピックアップ注文]]></btn_pickup>
+			<btn_reservation><![CDATA[予約]]></btn_reservation>
+			<businesses_you_like><![CDATA[Businesses you may like in ]]></businesses_you_like>
+			<checkout><![CDATA[チェックアウト]]></checkout>
+			<check_delivery_ampm><![CDATA[午前/午後を再確認してください　]]></check_delivery_ampm>
+			<check_delivery_hour><![CDATA[配送時間(時）を再確認してください]]></check_delivery_hour>
+			<check_delivery_min><![CDATA[配送時間(分）を再確認してください]]></check_delivery_min>
+			<check_pickup_ampm><![CDATA[ピックアップ時間（午前/午後）を再確認してください]]></check_pickup_ampm>
+			<check_pickup_hour><![CDATA[ピックアップ時間（時）を再確認してください]]></check_pickup_hour>
+			<check_pickup_min><![CDATA[ピックアップ時間（分）を再確認してください]]></check_pickup_min>
+			<child><![CDATA[子供]]></child>
+			<city><![CDATA[都市]]></city>
+			<confirm_delivery><![CDATA[上記の内容でご注文しますか？]]></confirm_delivery>
+			<confirm_delivery_msg><![CDATA[ピックアップオーダーをご確認してください]]></confirm_delivery_msg>
+			<confirm_pickup><![CDATA[上記の内容でご注文しますか？]]></confirm_pickup>
+			<confirm_pickup_msg><![CDATA[ピックアップオーダーをご確認してください]]></confirm_pickup_msg>
+			<confirm_reserve><![CDATA[上記の内容でご予約しますか？]]></confirm_reserve>
+			<confirm_reserve_msg><![CDATA[予約内容をご確認してください]]></confirm_reserve_msg>
+			<contact_us><![CDATA[お問い合わせ]]></contact_us>
+			<create_new_address><![CDATA[新たな配送情報を入力してください。]]></create_new_address>
+			<delivery_info><![CDATA[配達情報]]></delivery_info>
+			<delivery_time><![CDATA[配達時間: ]]></delivery_time>
+			<destination_address><![CDATA[配送受けることが位置情報:]]></destination_address>
+			<error_contact_admin><![CDATA[Contact to admin..]]></error_contact_admin>
+			<err_business_closed><![CDATA[営業が締め切られた時間です。]]></err_business_closed>
+			<err_cart_empty><![CDATA[カートは空です。]]></err_cart_empty>
+			<err_check_field><![CDATA[該当欄を再度確認してください]]></err_check_field>
+			<err_delivery_address_error><![CDATA[不登録配送住所です。確認後、もう一度お試しください。]]></err_delivery_address_error>
+			<err_past_time><![CDATA[配送の時間を確認してください。]]></err_past_time>
+			<err_try_again><![CDATA[情報を再度確認してください。]]></err_try_again>
+			<go_back_to_list><![CDATA[ホームページに行く]]></go_back_to_list>
+			<INP_tmp_Country><![CDATA[国を選択してください]]></INP_tmp_Country>
+			<INP_tmp_Zip><![CDATA[郵便番号または都市名]]></INP_tmp_Zip>
+			<loading_location><![CDATA[地域情報をロードしています]]></loading_location>
+			<make_reservation><![CDATA[予約完了]]></make_reservation>
+			<menu><![CDATA[アイテム
+]]></menu>
+			<msg_res_success><![CDATA[Your reservation has been made successfully]]></msg_res_success>
+			<msg_success><![CDATA[Saved Successfully]]></msg_success>
+			<my_cart><![CDATA[買い物かご]]></my_cart>
+			<nextstep><![CDATA[次のステップに進む]]></nextstep>
+			<pickup_info><![CDATA[注文内容]]></pickup_info>
+			<pickup_time><![CDATA[ピックアップ時間: ]]></pickup_time>
+			<pickup_time_change_contact><![CDATA[変更事項があれば連絡ください。]]></pickup_time_change_contact>
+			<please_login><![CDATA[会員加入をしてください。]]></please_login>
+			<recipient_name><![CDATA[受ける人の名前
+]]></recipient_name>
+			<reservation_info><![CDATA[あなたの予約情報]]></reservation_info>
+			<reserve_how_many><![CDATA[ご予約は何人ですか？<br />一人以上登録してください。]]></reserve_how_many>
+			<save><![CDATA[保存]]></save>
+			<search_result_about><![CDATA[検索結果: ]]></search_result_about>
+			<select_delivery_address><![CDATA[配送住所を選択または登録してください]]></select_delivery_address>
+			<select_state><![CDATA[州]]></select_state>
+			<service_agent><![CDATA[サービスエージェント]]></service_agent>
+			<state><![CDATA[州]]></state>
+			<step_1_delivery><![CDATA[ステップ１： 配送購入]]></step_1_delivery>
+			<step_1_delivery_desc><![CDATA[下記のアイテムから選択してカートに入れてください。]]></step_1_delivery_desc>
+			<step_1_togo><![CDATA[ステップ１：ピックアッ注文]]></step_1_togo>
+			<step_1_togo_desc><![CDATA[下記のアイテムから選択してカートに入れてください。]]></step_1_togo_desc>
+			<step_2_delivery><![CDATA[ステップ 2： 配送の注文]]></step_2_delivery>
+			<step_2_delivery_desc><![CDATA[配送受ける住所を入力後、チェックアウトボタンを押してください。]]></step_2_delivery_desc>
+			<step_2_togo><![CDATA[ステップ 2： ピックアップ注文]]></step_2_togo>
+			<step_2_togo_desc><![CDATA[ピックアップ時間を選択した後ピックアップ完了ボタンを押してください。]]></step_2_togo_desc>
+			<street_address><![CDATA[道路住所]]></street_address>
+			<succ_delivery><![CDATA[配達が正常に行われました。]]></succ_delivery>
+			<succ_pickup><![CDATA[ご注文が正常に行われました。]]></succ_pickup>
+			<telephone><![CDATA[電話番号: ]]></telephone>
+			<view_map><![CDATA[(地図を見る)]]></view_map>
+			<view_more><![CDATA[もっと見る]]></view_more>
+			<zip_code><![CDATA[郵便番号]]></zip_code>
+		</jp>
+		<cn>
+			<about_us><![CDATA[關於我們]]></about_us>
+			<additional_address><![CDATA[其他地址]]></additional_address>
+			<adult><![CDATA[成人]]></adult>
+			<btn_delivery><![CDATA[交貨單]]></btn_delivery>
+			<btn_pickup><![CDATA[接訂單]]></btn_pickup>
+			<btn_reservation><![CDATA[預訂]]></btn_reservation>
+			<businesses_you_like><![CDATA[Businesses you may like in ]]></businesses_you_like>
+			<checkout><![CDATA[CHECK OUT]]></checkout>
+			<check_delivery_ampm><![CDATA[Please check AM/PM field again]]></check_delivery_ampm>
+			<check_delivery_hour><![CDATA[Please check delivery hour again]]></check_delivery_hour>
+			<check_delivery_min><![CDATA[Please check delivery minutes again]]></check_delivery_min>
+			<check_pickup_ampm><![CDATA[Please check pick up AM/PM again]]></check_pickup_ampm>
+			<check_pickup_hour><![CDATA[Please check PICK UP hour again]]></check_pickup_hour>
+			<check_pickup_min><![CDATA[Please check PICK UP minutes again]]></check_pickup_min>
+			<child><![CDATA[孩子]]></child>
+			<city><![CDATA[城市]]></city>
+			<confirm_delivery><![CDATA[Do you want to make a delivery order as above?]]></confirm_delivery>
+			<confirm_delivery_msg><![CDATA[Please Confirm Your Delivery Information]]></confirm_delivery_msg>
+			<confirm_pickup><![CDATA[Do you want to make a PICK UP order as above?]]></confirm_pickup>
+			<confirm_pickup_msg><![CDATA[Please Confirm Your PICK UP Information]]></confirm_pickup_msg>
+			<confirm_reserve><![CDATA[Do you want to make a reservation as above?]]></confirm_reserve>
+			<confirm_reserve_msg><![CDATA[Please Confirm Your Reservation Information]]></confirm_reserve_msg>
+			<contact_us><![CDATA[聯繫我們]]></contact_us>
+			<create_new_address><![CDATA[Create New Destination Address]]></create_new_address>
+			<delivery_info><![CDATA[航運信息]]></delivery_info>
+			<delivery_time><![CDATA[交貨時間: ]]></delivery_time>
+			<destination_address><![CDATA[Select or Create destination address:]]></destination_address>
+			<error_contact_admin><![CDATA[Contact to admin..]]></error_contact_admin>
+			<err_business_closed><![CDATA[營業時間結束。.]]></err_business_closed>
+			<err_cart_empty><![CDATA[Your cart is empty.]]></err_cart_empty>
+			<err_check_field><![CDATA[Please check fields and try again]]></err_check_field>
+			<err_delivery_address_error><![CDATA[Please check delivery address and submit again.]]></err_delivery_address_error>
+			<err_past_time><![CDATA[請檢查交貨時間. ]]></err_past_time>
+			<err_try_again><![CDATA[請回信息.]]></err_try_again>
+			<go_back_to_list><![CDATA[Go back to Home]]></go_back_to_list>
+			<INP_tmp_Country><![CDATA[選擇國家]]></INP_tmp_Country>
+			<INP_tmp_Zip><![CDATA[郵政編碼或城市]]></INP_tmp_Zip>
+			<loading_location><![CDATA[載入你的位置]]></loading_location>
+			<make_reservation><![CDATA[進行預訂]]></make_reservation>
+			<menu><![CDATA[項目]]></menu>
+			<msg_res_success><![CDATA[Your reservation has been made successfully]]></msg_res_success>
+			<msg_success><![CDATA[Saved Successfully]]></msg_success>
+			<my_cart><![CDATA[MY CART]]></my_cart>
+			<nextstep><![CDATA[Go to Next Step]]></nextstep>
+			<pickup_info><![CDATA[面交資料]]></pickup_info>
+			<pickup_time><![CDATA[上車時間: ]]></pickup_time>
+			<pickup_time_change_contact><![CDATA[請與我們聯繫，如果有任何變化.]]></pickup_time_change_contact>
+			<please_login><![CDATA[請不要成員]]></please_login>
+			<recipient_name><![CDATA[收件人的姓名]]></recipient_name>
+			<reservation_info><![CDATA[您的預訂信息]]></reservation_info>
+			<reserve_how_many><![CDATA[Please make a reservation one or more.]]></reserve_how_many>
+			<save><![CDATA[存儲]]></save>
+			<search_result_about><![CDATA[搜索結果: ]]></search_result_about>
+			<select_delivery_address><![CDATA[請選擇或添加送貨地址]]></select_delivery_address>
+			<select_state><![CDATA[州]]></select_state>
+			<service_agent><![CDATA[服務代理]]></service_agent>
+			<state><![CDATA[州]]></state>
+			<step_1_delivery><![CDATA[第1步: 交貨單]]></step_1_delivery>
+			<step_1_delivery_desc><![CDATA[從以下項選擇並添加到購物車.]]></step_1_delivery_desc>
+			<step_1_togo><![CDATA[第1步: 拾階]]></step_1_togo>
+			<step_1_togo_desc><![CDATA[Pick from the below item and add into the cart.]]></step_1_togo_desc>
+			<step_2_delivery><![CDATA[第2步: 交貨單]]></step_2_delivery>
+			<step_2_delivery_desc><![CDATA[Please enter your delivery address and press the checkout button.]]></step_2_delivery_desc>
+			<step_2_togo><![CDATA[第2步: 拾階]]></step_2_togo>
+			<step_2_togo_desc><![CDATA[Please enter your PICK UP time and press the checkout button.]]></step_2_togo_desc>
+			<street_address><![CDATA[街道地址]]></street_address>
+			<succ_delivery><![CDATA[您的交貨訂單已成功放置]]></succ_delivery>
+			<succ_pickup><![CDATA[Your PICK UP order has been placed successfully]]></succ_pickup>
+			<telephone><![CDATA[電話號碼: ]]></telephone>
+			<view_map><![CDATA[(查看地圖)]]></view_map>
+			<view_more><![CDATA[查看更多]]></view_more>
+			<zip_code><![CDATA[郵編]]></zip_code>
+		</cn>
+	</burugo_home>
+</Lang>

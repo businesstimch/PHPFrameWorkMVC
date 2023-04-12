@@ -1,0 +1,132 @@
+@import url("http://fonts.googleapis.com/earlyaccess/nanumgothic.css");
+@import url("http://fonts.googleapis.com/earlyaccess/nanumbrushscript.css");
+@import url("http://fonts.googleapis.com/css?family=Hammersmith+One");
+@import url(http://fonts.googleapis.com/css?family=Lato);
+
+@font-face {
+  font-family: 'Nanum Barun Gothic';
+  font-style: normal;
+  font-weight: 200;
+  src: url(/Template/Font/NanumBarunGothicUltraLight.eot);
+  src: local('Nanum Barun Gothic UltraLight'),
+       local('NanumBarunGothicUltraLight'),
+       url(/Template/Font/NanumBarunGothicUltraLight.eot?#iefix) format('embedded-opentype'),
+       url(/Template/Font/NanumBarunGothicUltraLight.woff2) format('woff2'),
+       url(/Template/Font/NanumBarunGothicUltraLight.woff) format('woff'),
+       url(/Template/Font/NanumBarunGothicUltraLight.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Nanum Barun Gothic';
+  font-style: normal;
+  font-weight: 300;
+  src: url(/Template/Font/NanumBarunGothicLight.eot);
+  src: local('Nanum Barun Gothic Light'),
+       local('NanumBarunGothicLight'),
+       url(/Template/Font/NanumBarunGothicLight.eot?#iefix) format('embedded-opentype'),
+       url(/Template/Font/NanumBarunGothicLight.woff2) format('woff2'),
+       url(/Template/Font/NanumBarunGothicLight.woff) format('woff'),
+       url(/Template/Font/NanumBarunGothicLight.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Nanum Barun Gothic';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/Template/Font/NanumBarunGothic.eot);
+  src: local('Nanum Barun Gothic'),
+       local('NanumBarunGothic'),
+       url(/Template/Font/NanumBarunGothic.eot?#iefix) format('embedded-opentype'),
+       url(/Template/Font/NanumBarunGothic.woff2) format('woff2'),
+       url(/Template/Font/NanumBarunGothic.woff) format('woff'),
+       url(/Template/Font/NanumBarunGothic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Nanum Barun Gothic';
+  font-style: normal;
+  font-weight: 700;
+  src: url(/Template/Font/NanumBarunGothicBold.eot);
+  src: local('Nanum Barun Gothic Bold'),
+       local('NanumBarunGothicBold'),
+       url(/Template/Font/NanumBarunGothicBold.eot?#iefix) format('embedded-opentype'),
+       url(/Template/Font/NanumBarunGothicBold.woff2) format('woff2'),
+       url(/Template/Font/NanumBarunGothicBold.woff) format('woff'),
+       url(/Template/Font/NanumBarunGothicBold.ttf) format('truetype');
+}
+
+.Front_Contents_Body{overflow:auto;left:84px;right:0;top:40px;bottom:0;position:absolute;box-sizing:border-box;}
+.Front_Contents_Body .ContentsBody_1{padding:30px;box-sizing:border-box;width:100%;}
+.Front_Contents_Body .ContentsBody_1 h1{font-size:20px;color:#434343;}
+
+.TP_Left{top:40px;left:84px;bottom:0;right:0;position:absolute;overflow:auto;padding:30px;}
+.TP_Left h1{font-size:30px;}
+.TP_Left h2{font-size:15px;margin-top:10px;font-weight:normal;}
+.TP_Left h3{font-size:15px;margin-top:10px;font-weight:normal;clear:both;}
+
+.SLT_Box{background-color:#2f2f2f;border-radius:5px;color:white;margin-top:10px;margin-bottom:10px;cursor:pointer;position:relative;min-width:300px;}
+.SLT_Box .SLT_Lists{width:100%;display:none;position:absolute;background-color:#2f2f2f;top:41px;z-index:100;background-color:black;border-radius:0 0 10px 10px;overflow:hidden;max-height:200px;overflow:auto;}
+.SLT_Box .SLT_Selected{width:100%;}
+.SLT_Box .SLT_DropDown{line-height:24px;height:24px;background-color:#515151;color:white;padding-left:10px;padding-right:10px;border-radius:3px;margin-left:5px;float:right;margin-top:8px;position:absolute;top:0px;right:7px;}
+.SLT_Box .SLT_Selected_Text,
+.SLT_Box .SLT_List_One{line-height:40px;height:40px;width:100%;clear:both;padding-left:15px;padding-right:50px;box-sizing:border-box;}
+
+.SLT_Box .SLT_Lists .SLT_List_One{border-bottom:1px solid #2f2f2f;}
+.SLT_Box .SLT_Lists .SLT_List_One:hover{background-color:#474747;}
+.SLT_Box .SLT_Lists .SLT_List_One:last-child{border-bottom:0px;}
+
+.Contents_Box_Wrap{min-width:350px;max-width:1430px;width:100%;float:none;margin-left:auto;none;margin-right:auto;}
+.Contents_Box_One{width:100%;border-left:1px solid #efefef;border-top:1px solid #efefef;border-right:2px solid #e8e8e8;#e3e3e3;border-bottom:3px solid #e8e8e8;#e3e3e3;margin-bottom:27px;box-sizing:border-box;}
+.Contents_Box_One .CBox_Title{width:100%;background-color:#000000;color:white;font-weight:bold;line-height:37px;height:37px;font-size:15px;}
+.Contents_Box_One .CBox_Title span{margin-left:14px;}
+.Contents_Box_One .CBox_Body{padding:20px;width:100%;box-sizing:border-box;}
+
+.ChattingBox{width:280px;background-color:white;position:absolute;bottom:0;z-index:999999;border-left:2px solid #bcbcbc;border-top:2px solid #bcbcbc;border-right:2px solid #bcbcbc;border-radius:10px 10px 0 0;overflow:hidden;display:none;}
+.ChattingBox .CB_Title{width:100%;overflow:hidden;height:30px;background-color:white;line-height:30px;font-size:12px;font-weight:bold;color:#4b4b4b;}
+.ChattingBox .CBT_Menu{float:right;line-height:30px;}
+.ChattingBox .CBTM_One{width:30px;height:30px;text-align:center;cursor:pointer;font-size:16px;color:#9c9c9c;}
+.ChattingBox .CBT_Img{width:22px;height:22px;margin-left:8px;overflow:hidden;border-radius:50%;margin-top:4px;background-color:#6cc5ee;color:white;line-height:20px;text-align:center;font-size:14px;}
+.ChattingBox .CBT_Img img{width:100%;height:100%;}
+.ChattingBox .CBT_Name{margin-left:7px;}
+.ChattingBox .CB_Stage{width:100%;height:270px;overflow:auto;background-color:#fff9e6;padding:10px;box-sizing:border-box;}
+
+.ChattingBox .CDF_Img{border-radius:50%;background-color:#dadada;width:37px;height:37px;margin-right:5px;overflow:hidden;text-align:center;font-size:20px;color:white;line-height:35px;}
+.ChattingBox .CDF_Img img{width:100%;height:100%;}
+.ChattingBox .CDF_Msg{border-radius:10px;padding:10px;border:1px solid #e1e1e1;position:relative;word-break:break-all;max-width:160px;line-height:17px;}
+.ChattingBox .CB_Stage_Contents{width:100%;}
+.ChattingBox .CDF_TS{position:absolute;bottom:9px;font-size:12px;color:#909090;width:65px;bottom:-18px}
+
+.ChattingBox .CD_Me,
+.ChattingBox .CD_Opponent{width:100%;margin-bottom:25px;}
+
+.ChattingBox .CD_Me .CDF_Msg{background-color:white;float:right;}
+.ChattingBox .CD_Me .CDF_TS{right:-6px;}
+
+.ChattingBox .CD_Opponent .CDF_Msg{background-color:#fac31d;}
+.ChattingBox .CD_Opponent .CDF_TS{left:6px;}
+.ChattingBox .CB_Bottom{width:100%;}
+.ChattingBox .CBB_ChatInp_Box{width:100%;border-top:1px dotted #cccccc;}
+.ChattingBox .CBB_ChatInp_Box textarea{border:0;padding:0;margin:0;width:100%;resize: none;padding:10px;box-sizing:border-box;max-sizing;height:35px;line-height:14px;}
+
+.Button_1{padding:10px 30px;border:0;border-radius:5px;background-color:#70b2e9;color:white;font-size:13px;cursor:pointer;}
+.Button_1:hover{background-color:#5699d2;}
+
+/* Remove Google Logo from Map */
+	a[href^="http://maps.google.com/maps"]{display:none !important}
+	a[href^="https://maps.google.com/maps"]{display:none !important}
+	
+	.gmnoprint a, .gmnoprint span, .gm-style-cc {
+		 display:none;
+	}
+	.gmnoprint div {
+		 background:none !important;
+	}
+
+@media all and (max-width:750px) {
+	
+}
+
+@media (min-width:800px) {}
+@media (min-width:1600px) {
+	.Contents_Box_One{max-width:700px;margin-right:15px;}
+}

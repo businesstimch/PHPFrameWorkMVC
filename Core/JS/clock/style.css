@@ -1,0 +1,34 @@
+#clock_container
+{
+	width: 200px;
+	height: 200px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+}
+
+#clock_container .rotatingHands
+{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 0px;
+	left: 0px;
+}
+
+#clock_container #clock_hours, #clock_container #clock_minutes, #clock_container #clock_seconds
+{
+	position: absolute;
+	display: block;
+}
+
+#clock_container .glass
+{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 0px;
+	left: 0px;
+}
+
+

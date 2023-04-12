@@ -1,0 +1,1160 @@
+<Lang>
+	<ceo_mystore>
+		<en>
+			<addBus_AreYouOwner><![CDATA[Are you a business owner or a service person?]]></addBus_AreYouOwner>
+			<addBus_AreYouOwner_D><![CDATA[Please choose one of the following options.]]></addBus_AreYouOwner_D>
+			<addBus_AreYouOwner_Option1><![CDATA[I am a Business Owner]]></addBus_AreYouOwner_Option1>
+			<addBus_AreYouOwner_Option2><![CDATA[I am a Service Person]]></addBus_AreYouOwner_Option2>
+			<addBus_AreYouOwner_Option3><![CDATA[I am a Helper]]></addBus_AreYouOwner_Option3>
+			<addBus_AreYouOwner_Option4><![CDATA[I am a Friend]]></addBus_AreYouOwner_Option4>
+			<addBus_Basic_Desc_D_1><![CDATA[You can upload one picture about your business. ]]></addBus_Basic_Desc_D_1>
+			<addBus_Basic_Desc_T_1><![CDATA[Add your business picture]]></addBus_Basic_Desc_T_1>
+			<addBus_BusinessName><![CDATA[Business Name]]></addBus_BusinessName>
+			<addBus_BusinessName_D><![CDATA[This is your business name. Once you save in this field, you will not be able to change in the future unless you contact our store management department. So please make sure you put the right business name.]]></addBus_BusinessName_D>
+			<addBus_Cat1><![CDATA[Pick 1: First Category]]></addBus_Cat1>
+			<addBus_Cat1_D><![CDATA[Please select a category for your business in the below list.]]></addBus_Cat1_D>
+			<addBus_Cat2><![CDATA[Pick 2: Second Category]]></addBus_Cat2>
+			<addBus_Cat2_D><![CDATA[Please select a sub category for your business in the below list.]]></addBus_Cat2_D>
+			<addBus_PageTitle><![CDATA[Register New Business]]></addBus_PageTitle>
+			<addBus_PaidOrFree><![CDATA[Service Type: Premium or Basic Account]]></addBus_PaidOrFree>
+			<addBus_PaidOrFree_D><![CDATA[Please select a service package for your business]]></addBus_PaidOrFree_D>
+			<addBus_Payment><![CDATA[Payment]]></addBus_Payment>
+			<addBus_Payment_D><![CDATA[Please type your payment information.]]></addBus_Payment_D>
+			<addBus_Premium_Desc_D_1><![CDATA[You can upload up to 20 pictures about your business. ]]></addBus_Premium_Desc_D_1>
+			<addBus_Premium_Desc_D_2><![CDATA[Add address and map for customers]]></addBus_Premium_Desc_D_2>
+			<addBus_Premium_Desc_D_3><![CDATA[You can provide Reservation, Pick up, Delivery functions for your customers. Also you can analyze your business with monthly stastics and trend tables.]]></addBus_Premium_Desc_D_3>
+			<addBus_Premium_Desc_D_4><![CDATA[You can set up open/close time daily. Your customers don't have to call your business hour to check.]]></addBus_Premium_Desc_D_4>
+			<addBus_Premium_Desc_D_5><![CDATA[You can add business brochures and additional images to promote your business more effectively. You can create your professional website without any program knowledge with easy Burugo editor program.]]></addBus_Premium_Desc_D_5>
+			<addBus_Premium_Desc_D_6><![CDATA[Your business will be listed at higher location than free membership business.]]></addBus_Premium_Desc_D_6>
+			<addBus_Premium_Desc_T_1><![CDATA[Add Business pictures. ]]></addBus_Premium_Desc_T_1>
+			<addBus_Premium_Desc_T_2><![CDATA[Add Business Address]]></addBus_Premium_Desc_T_2>
+			<addBus_Premium_Desc_T_3><![CDATA[R / P / D Service]]></addBus_Premium_Desc_T_3>
+			<addBus_Premium_Desc_T_4><![CDATA[Add Open/Close Time]]></addBus_Premium_Desc_T_4>
+			<addBus_Premium_Desc_T_5><![CDATA[Add detailed Description]]></addBus_Premium_Desc_T_5>
+			<addBus_Premium_Desc_T_6><![CDATA[High Priority Listing]]></addBus_Premium_Desc_T_6>
+			<addBus_SEOFriendly><![CDATA[Business friendly Search Engine Optimization URL]]></addBus_SEOFriendly>
+			<addBus_SEOFriendly_D><![CDATA[Example) <span style="color:#3ea8eb">http://www.burugo.com/food/3341/</span><span id="S_StoreSEOurl_Example">philly-chicken</span><br />Only <b>Alphabet</b>, <b>Number</b>, <b>dash(-)</b>.]]></addBus_SEOFriendly_D>
+			<bMenu><![CDATA[Menu]]></bMenu>
+			<bName><![CDATA[Businesses Name]]></bName>
+			<bStatus><![CDATA[Status]]></bStatus>
+			<BusinessPhoneNumber><![CDATA[Business Phone Number]]></BusinessPhoneNumber>
+			<BusinessPhoneNumber_Desc><![CDATA[This is the number that customers will use to contact you. (ex : 1-770-123-1234)]]></BusinessPhoneNumber_Desc>
+			<business_deleteFromDesc><![CDATA[Delete]]></business_deleteFromDesc>
+			<business_images><![CDATA[Business Images]]></business_images>
+			<business_images_desc><![CDATA[Please upload your store/business related pictures. You can upload up to 20 pictures. ]]></business_images_desc>
+			<business_insertIntoDesc><![CDATA[Insert]]></business_insertIntoDesc>
+			<business_longdesc><![CDATA[Detail Description]]></business_longdesc>
+			<business_longdesc_desc><![CDATA[Allowed format: Text.]]></business_longdesc_desc>
+			<business_name><![CDATA[Business Name]]></business_name>
+			<business_name_desc><![CDATA[This is your business name field. Changing this field is limited. Please consider carefully.]]></business_name_desc>
+			<business_seofriendly><![CDATA[Business friendly Search Engine Optimization URL]]></business_seofriendly>
+			<business_seofriendly_desc><![CDATA[Thiis is going to be your web url of your business. We provide to our customer the best SEO friendly technology to enlarge your business profit.<br />Example) http://www.burugo.com/food/3341/<span style="color:red;">Your URL</span>]]></business_seofriendly_desc>
+			<business_services><![CDATA[Services]]></business_services>
+			<business_services_desc><![CDATA[Please check the services you would like to provide.]]></business_services_desc>
+			<business_shortdesc><![CDATA[Short Description]]></business_shortdesc>
+			<business_shortdesc_desc><![CDATA[Allowed format : Text.]]></business_shortdesc_desc>
+			<business_uploadPic><![CDATA[Upload Picture]]></business_uploadPic>
+			<cart><![CDATA[Cart Summary]]></cart>
+			<Category><![CDATA[Category]]></Category>
+			<Category_Desc><![CDATA[Check categories associated with your business. Your business will be listed on categories you checked.]]></Category_Desc>
+			<check_business_category><![CDATA[Please select a category of your business]]></check_business_category>
+			<check_cc_exp><![CDATA[Please select the expiration date of your credit/debit card]]></check_cc_exp>
+			<check_cc_name><![CDATA[Please insert the name of your credit/debit card0]]></check_cc_name>
+			<check_cc_num><![CDATA[Please insert your credit/debit card number]]></check_cc_num>
+			<check_option><![CDATA[Please select one of the following options]]></check_option>
+			<check_package><![CDATA[Please select a package]]></check_package>
+			<check_url><![CDATA[Please insert URL of your business]]></check_url>
+			<City><![CDATA[City]]></City>
+			<click_to_fix><![CDATA[Click here to fix]]></click_to_fix>
+			<confirm_delete_business><![CDATA[Do you want to delete this business? All items and information in this business will be deleted permanently.]]></confirm_delete_business>
+			<confirm_delete_group><![CDATA[Do you want to delete this group? All items in this group will be deleted right away.]]></confirm_delete_group>
+			<confirm_delete_item><![CDATA[Do you want to delete this item? It will be deleted right away.]]></confirm_delete_item>
+			<confirm_delete_picture><![CDATA[Do you want to delete this picture?]]></confirm_delete_picture>
+			<contact_phone><![CDATA[Contact ]]></contact_phone>
+			<Country><![CDATA[Country]]></Country>
+			<Country_Desc><![CDATA[Current location of your business.(Currently we only accept businesses in US).]]></Country_Desc>
+			<createNewItem_BTN><![CDATA[Create New Item]]></createNewItem_BTN>
+			<delivery_fee><![CDATA[Delivery Fee($) <span>- How much you will be charged for the delivery fee?</span>]]></delivery_fee>
+			<done><![CDATA[Done]]></done>
+			<error_check_again><![CDATA[<b>We found some error</b> while we were saving your request please check below list.]]></error_check_again>
+			<error_declined><![CDATA[<b>Payment</b> has been declined please check your payment information again and try again]]></error_declined>
+			<error_new_subscription><![CDATA[Error occurred while creating new subscription]]></error_new_subscription>
+			<error_package_not_vaild><![CDATA[<b>Package</b> you have selected is not available please check it again and try again]]></error_package_not_vaild>
+			<error_required><![CDATA[This is a required field]]></error_required>
+			<err_notice><![CDATA[<b>We found some error</b> while we were saving your request please check below list.]]></err_notice>
+			<found_error_please_wait><![CDATA[<b>We found some error</b> while we were saving your request please check below list.]]></found_error_please_wait>
+			<free_register><![CDATA[Free Register]]></free_register>
+			<Friday><![CDATA[Friday]]></Friday>
+			<goto_fix><![CDATA[Go &amp; Fix]]></goto_fix>
+			<INP_tmp_Country><![CDATA[Select Country]]></INP_tmp_Country>
+			<INP_tmp_SearchBy><![CDATA[Search by Name]]></INP_tmp_SearchBy>
+			<INP_tmp_SearchByKeyword><![CDATA[Search by Keyword]]></INP_tmp_SearchByKeyword>
+			<INP_tmp_Zip><![CDATA[Zipcode or City]]></INP_tmp_Zip>
+			<ItemCol_menu><![CDATA[Menu]]></ItemCol_menu>
+			<ItemCol_name><![CDATA[Name]]></ItemCol_name>
+			<ItemCol_Noitem><![CDATA[There is no item in this group]]></ItemCol_Noitem>
+			<ItemCol_pic><![CDATA[Picture]]></ItemCol_pic>
+			<ItemCol_price><![CDATA[Price]]></ItemCol_price>
+			<ItemCol_sdesc><![CDATA[Short Description]]></ItemCol_sdesc>
+			<ItemCol_tax><![CDATA[Tax]]></ItemCol_tax>
+			<ItemListingStyle><![CDATA[Item Listing Styles]]></ItemListingStyle>
+			<ItemListingStyle_01><![CDATA[Text Only]]></ItemListingStyle_01>
+			<ItemListingStyle_03><![CDATA[Text + Image]]></ItemListingStyle_03>
+			<ItemListingStyle_Desc><![CDATA[Choose one of the following list.]]></ItemListingStyle_Desc>
+			<items><![CDATA[Items]]></items>
+			<items_desc><![CDATA[Add your item group first and create your own item list.]]></items_desc>
+			<items_group_add><![CDATA[Add New Item Group]]></items_group_add>
+			<items_group_fold><![CDATA[Item Group Fold]]></items_group_fold>
+			<items_group_fold_desc><![CDATA[If you have too many groups or items in one page, check this option.]]></items_group_fold_desc>
+			<items_group_name><![CDATA[Item Group Name]]></items_group_name>
+			<items_group_name_desc><![CDATA[This name will be listed above of your group box.]]></items_group_name_desc>
+			<items_list><![CDATA[Item List]]></items_list>
+			<items_list_desc><![CDATA[Start adding your items by clicking below button.]]></items_list_desc>
+			<i_think_ready><![CDATA[I'm ready!]]></i_think_ready>
+			<latlongmap_msg><![CDATA[<span>Is this correct location of your store on the map?</span> Otherwise please click on the map and spot to right location if it is little bit different than your location, or please check your address from above fields again.]]></latlongmap_msg>
+			<lat_long_err_msg><![CDATA[Do you want to delete this business?\nAll items and information in this business will be deleted permanently.]]></lat_long_err_msg>
+			<Monday><![CDATA[Monday]]></Monday>
+			<mybusiness><![CDATA[My Businesses]]></mybusiness>
+			<mybusinessList><![CDATA[My Businesses List]]></mybusinessList>
+			<need_at_least_oneItem><![CDATA[At least one item in a group is required, please click "Create New Item" button to add an item in the group.]]></need_at_least_oneItem>
+			<NextStep><![CDATA[Next Step]]></NextStep>
+			<no_business_msg><![CDATA[There is no business to register, please add new business.]]></no_business_msg>
+			<no_business_yet><![CDATA[There is no business to register, please add new business.]]></no_business_yet>
+			<no_data><![CDATA[There is no information.....]]></no_data>
+			<no_desc_img><![CDATA[<b>No Image Uploaded Yet.</b> If you want to insert an image, please use Upload Picture Button.]]></no_desc_img>
+			<no_group_for_item><![CDATA[There is no item in this group]]></no_group_for_item>
+			<optional><![CDATA[Option]]></optional>
+			<payment_cc_exp><![CDATA[Expiration Date]]></payment_cc_exp>
+			<payment_cc_name><![CDATA[Name on Card<br /><span style="margin-right:105px;">First Name</span><span>Last Name</span>]]></payment_cc_name>
+			<payment_cc_num><![CDATA[Card Number]]></payment_cc_num>
+			<payment_h_amount><![CDATA[Amount]]></payment_h_amount>
+			<payment_h_card_desc><![CDATA[Card Number]]></payment_h_card_desc>
+			<payment_h_card_type><![CDATA[Payment]]></payment_h_card_type>
+			<payment_h_date><![CDATA[Date]]></payment_h_date>
+			<payment_h_history_title><![CDATA[Payment History]]></payment_h_history_title>
+			<payment_h_invoice_number><![CDATA[Invoice Number]]></payment_h_invoice_number>
+			<payment_h_package><![CDATA[Automatic payment]]></payment_h_package>
+			<payment_h_status><![CDATA[Status]]></payment_h_status>
+			<payment_h_subscirption_title><![CDATA[Payment Subscription]]></payment_h_subscirption_title>
+			<payment_h_subscription><![CDATA[Subscription]]></payment_h_subscription>
+			<payment_h_type><![CDATA[Type]]></payment_h_type>
+			<payment_r_menu_detail><![CDATA[Details]]></payment_r_menu_detail>
+			<Payment_Summary_Will_M><![CDATA[(Your subscription fee <b class="Payment_Summary_PriceFuture">$30.00</b> will be charged from 01/Mar/2014)]]></Payment_Summary_Will_M>
+			<Payment_Summary_Will_Y><![CDATA[(Your subscription fee <b class="Payment_Summary_PriceFuture">$30.00</b> will be charged from 01/Mar/2014)]]></Payment_Summary_Will_Y>
+			<premium_register><![CDATA[Premium Register]]></premium_register>
+			<registerNewBusiness><![CDATA[Register New Business]]></registerNewBusiness>
+			<required_all_field><![CDATA[Please fill in all fields marked with (*) symbol below completely.]]></required_all_field>
+			<required_all_field_bottom><![CDATA[Please fill in <b>Item Name/Description/Price</b> completely. ]]></required_all_field_bottom>
+			<required_business_name><![CDATA[Business name is required. ]]></required_business_name>
+			<required_business_name_bottom><![CDATA[<b>Business name</b> is required.]]></required_business_name_bottom>
+			<required_business_picture><![CDATA[Please upload at least one picture of your business.]]></required_business_picture>
+			<required_business_picture_bottom><![CDATA[Please upload at least <b>one picture of your business.</b>]]></required_business_picture_bottom>
+			<required_business_zip><![CDATA[Business zipcode is required. ]]></required_business_zip>
+			<required_business_zip_bottom><![CDATA[<b>Business zipcode</b> is required field.]]></required_business_zip_bottom>
+			<required_city><![CDATA[<b>City</b> is required field.]]></required_city>
+			<required_contact_number><![CDATA[Your business contact number is required.]]></required_contact_number>
+			<required_contact_number_bottom><![CDATA[Your business <b>contact number</b> is required field.]]></required_contact_number_bottom>
+			<required_delivery_charge><![CDATA[If you have <b>delivery service</b> please specify delivery fee. If you want to provide it for free please insert with 0.00 ]]></required_delivery_charge>
+			<required_field><![CDATA[This is a required field.]]></required_field>
+			<required_for_delivery><![CDATA[This is a required field if you checked delivery service.]]></required_for_delivery>
+			<required_group_name><![CDATA[Group name is required.]]></required_group_name>
+			<required_group_name_bottom><![CDATA[<b>Group name</b> is required field.]]></required_group_name_bottom>
+			<required_least_one_image><![CDATA[Store must have at least one default image.]]></required_least_one_image>
+			<required_location><![CDATA[Please verify your location.]]></required_location>
+			<required_location_bottom><![CDATA[Please verify your <b>location</b>.]]></required_location_bottom>
+			<required_open_day><![CDATA[At least one day should be opened. ]]></required_open_day>
+			<required_open_day_bottom><![CDATA[At least <b>a day</b> should be opened.]]></required_open_day_bottom>
+			<required_state><![CDATA[<b>State</b> is required field.]]></required_state>
+			<required_street><![CDATA[<b>Street Address</b> is required field.]]></required_street>
+			<Saturday><![CDATA[Saturday]]></Saturday>
+			<save><![CDATA[Save]]></save>
+			<save_stay><![CDATA[Save Changes & Stay]]></save_stay>
+			<search_by_keyword><![CDATA[Search by Keyword...]]></search_by_keyword>
+			<seourlDuplicated_err_msg><![CDATA[The SEO URL is being used by different business.]]></seourlDuplicated_err_msg>
+			<Service_01><![CDATA[Reservation]]></Service_01>
+			<Service_02><![CDATA[To Go / Pick-Up]]></Service_02>
+			<Service_03><![CDATA[Delivery]]></Service_03>
+			<Service_03_Own><![CDATA[Yes, I have my own delivery service]]></Service_03_Own>
+			<State><![CDATA[State]]></State>
+			<store_img_err_msg><![CDATA[Store must have at least one default image.]]></store_img_err_msg>
+			<StreetAddress><![CDATA[Street Address]]></StreetAddress>
+			<StreetAddress2><![CDATA[Additional Address]]></StreetAddress2>
+			<StreetAddress2_Desc><![CDATA[APT/ Suite Number]]></StreetAddress2_Desc>
+			<subscription_h_date><![CDATA[Created]]></subscription_h_date>
+			<subscription_h_gross><![CDATA[Gross]]></subscription_h_gross>
+			<subscription_h_menu><![CDATA[Menu]]></subscription_h_menu>
+			<subscription_h_name><![CDATA[Name]]></subscription_h_name>
+			<subscription_h_status><![CDATA[Status]]></subscription_h_status>
+			<subscription_h_type><![CDATA[Type]]></subscription_h_type>
+			<subscription_r_active><![CDATA[Active]]></subscription_r_active>
+			<subscription_r_deactive><![CDATA[Deactivated]]></subscription_r_deactive>
+			<subsc_premium><![CDATA[Premium]]></subsc_premium>
+			<Sunday><![CDATA[Sunday]]></Sunday>
+			<tab_01><![CDATA[General]]></tab_01>
+			<tab_02><![CDATA[Category]]></tab_02>
+			<tab_03><![CDATA[Item]]></tab_03>
+			<tab_04><![CDATA[Deal]]></tab_04>
+			<tax><![CDATA[Tax]]></tax>
+			<tax_desc><![CDATA[Please specify the tax amount in &#37; for your items.]]></tax_desc>
+			<Thursday><![CDATA[Thursday]]></Thursday>
+			<total><![CDATA[Total]]></total>
+			<Tuesday><![CDATA[Tuesday]]></Tuesday>
+			<validate_address><![CDATA[Address is required field.]]></validate_address>
+			<validate_address_msg><![CDATA[<b>Address</b> is required field. ]]></validate_address_msg>
+			<validate_business_name><![CDATA[Business name is required]]></validate_business_name>
+			<validate_business_name_msg><![CDATA[<b>Business name</b> is required.]]></validate_business_name_msg>
+			<validate_city><![CDATA[City is required field.]]></validate_city>
+			<validate_city_msg><![CDATA[<b>City</b> is required field. ]]></validate_city_msg>
+			<validate_delivery><![CDATA[This is a required field if you checked delivery service.]]></validate_delivery>
+			<validate_delivery_msg><![CDATA[If you have <b>delivery service</b> please specify delivery fee. If you want to provide it for free please insert with 0.00  ]]></validate_delivery_msg>
+			<validate_group_name><![CDATA[Group name is required.]]></validate_group_name>
+			<validate_group_name_msg><![CDATA[<b>Group name</b> is required field.]]></validate_group_name_msg>
+			<validate_image><![CDATA[Please upload at least one picture of your business. ]]></validate_image>
+			<validate_image_msg><![CDATA[Please upload at least <b>one picture of your business.</b>]]></validate_image_msg>
+			<validate_item_msg><![CDATA[Please fill in <b>Item Name/Description/Price</b> completely. ]]></validate_item_msg>
+			<validate_location_verify><![CDATA[Please verify your location.]]></validate_location_verify>
+			<validate_location_verify_msg><![CDATA[Please verify your <b>location</b>]]></validate_location_verify_msg>
+			<validate_open_hour><![CDATA[At least one day should be opened. ]]></validate_open_hour>
+			<validate_open_hour_msg><![CDATA[At least <b>one day</b> should be opened. ]]></validate_open_hour_msg>
+			<validate_phone><![CDATA[Phone Number is required field.]]></validate_phone>
+			<validate_phone_msg><![CDATA[<b>Phone Number</b> is required field. ]]></validate_phone_msg>
+			<validate_required><![CDATA[This is a required field.]]></validate_required>
+			<validate_state><![CDATA[State is a required field.]]></validate_state>
+			<validate_state_msg><![CDATA[<b>States</b> is a required field.]]></validate_state_msg>
+			<validate_zipcode><![CDATA[Business zipcode is required. ]]></validate_zipcode>
+			<validate_zipcode_msg><![CDATA[<b>Business zipcode</b> is a required field. ]]></validate_zipcode_msg>
+			<VerifyAddress><![CDATA[Verify Address]]></VerifyAddress>
+			<waiting_msg><![CDATA[Please wait...]]></waiting_msg>
+			<Wednessday><![CDATA[Wednesday]]></Wednessday>
+			<YourBusinessAddress><![CDATA[Your Business Location]]></YourBusinessAddress>
+			<YourBusinessAddress_Desc><![CDATA[Burugo provides location based service to enable customers have best convenicent service around their current location. So please provide us the correct address of your business. If you have any problem while setting up your address please don't hesitate to contact us.]]></YourBusinessAddress_Desc>
+			<ZipCode><![CDATA[Zip Code]]></ZipCode>
+		</en>
+		<es>
+			<addBus_AreYouOwner><![CDATA[Elegir si utilizará el servicio de los negocios u otros servicios.]]></addBus_AreYouOwner>
+			<addBus_AreYouOwner_D><![CDATA[Elegir uno de cuatro opciones abajo.]]></addBus_AreYouOwner_D>
+			<addBus_AreYouOwner_Option1><![CDATA[Usuario de negocios]]></addBus_AreYouOwner_Option1>
+			<addBus_AreYouOwner_Option2><![CDATA[Usuario de Envío/Cargadores personales/Recado]]></addBus_AreYouOwner_Option2>
+			<addBus_AreYouOwner_Option3><![CDATA[Usuario de ayuda]]></addBus_AreYouOwner_Option3>
+			<addBus_AreYouOwner_Option4><![CDATA[Usuario de servicio social ]]></addBus_AreYouOwner_Option4>
+			<addBus_Basic_Desc_D_1><![CDATA[Puede subir una foto que describe su negocio. ]]></addBus_Basic_Desc_D_1>
+			<addBus_Basic_Desc_T_1><![CDATA[Subir las fotos de su negocio]]></addBus_Basic_Desc_T_1>
+			<addBus_BusinessName><![CDATA[Nombre del Negocio]]></addBus_BusinessName>
+			<addBus_BusinessName_D><![CDATA[Nombre de su negocio. Esta es su nombre negocio. Una vez que guarda este nombre no podrá cambiarlo en el futuro a menos que se ponga en contacto con nuestro departamento de administración. Así que por favor asegúrese de que esta es el nombre correcto.]]></addBus_BusinessName_D>
+			<addBus_Cat1><![CDATA[Pick 1: First Category]]></addBus_Cat1>
+			<addBus_Cat1_D><![CDATA[Please select a category for your business in the below list.]]></addBus_Cat1_D>
+			<addBus_Cat2><![CDATA[Pick 2: Second Category]]></addBus_Cat2>
+			<addBus_Cat2_D><![CDATA[Please select a sub category for your business in the below list.]]></addBus_Cat2_D>
+			<addBus_PageTitle><![CDATA[Registro de Nuevos Negocios]]></addBus_PageTitle>
+			<addBus_PaidOrFree><![CDATA[Tipo de Servicio: Cuenta Premium o Básica]]></addBus_PaidOrFree>
+			<addBus_PaidOrFree_D><![CDATA[Por favor, seleccione el paquete de servicio para su negocio]]></addBus_PaidOrFree_D>
+			<addBus_Payment><![CDATA[Payment]]></addBus_Payment>
+			<addBus_Payment_D><![CDATA[Please type your payment information.]]></addBus_Payment_D>
+			<addBus_Premium_Desc_D_1><![CDATA[Puedes subir hasta 20 fotos que describen su negocio. ]]></addBus_Premium_Desc_D_1>
+			<addBus_Premium_Desc_D_2><![CDATA[Puede añadir la dirección y el mapa de su negocio]]></addBus_Premium_Desc_D_2>
+			<addBus_Premium_Desc_D_3><![CDATA[Puede proporcionar Reservaciones, Pick up, funciones de entrega para sus clientes. También usted puede analizar su negocio con stastics mensuales y cuadros de tendencias.]]></addBus_Premium_Desc_D_3>
+			<addBus_Premium_Desc_D_4><![CDATA[Puede configurar el tiempo de apertura / cierre diario. Sus clientes no tienen que llamar a su hora de negocios para comprobar.]]></addBus_Premium_Desc_D_4>
+			<addBus_Premium_Desc_D_5><![CDATA[Puede agregar folletos comerciales e imágenes adicionales para promover su negocio de manera más eficaz. Usted puede crear su sitio web profesional sin ningún conocimiento del programa, con fácil programa editor Burugo.]]></addBus_Premium_Desc_D_5>
+			<addBus_Premium_Desc_D_6><![CDATA[Su empresa será listado en el lugar más alto que los negocios membresía gratis.]]></addBus_Premium_Desc_D_6>
+			<addBus_Premium_Desc_T_1><![CDATA[Añadir fotos de Negocio.]]></addBus_Premium_Desc_T_1>
+			<addBus_Premium_Desc_T_2><![CDATA[Añadir Dirección de Empresas]]></addBus_Premium_Desc_T_2>
+			<addBus_Premium_Desc_T_3><![CDATA[Servicio de los pedidos, entregas, y reservas]]></addBus_Premium_Desc_T_3>
+			<addBus_Premium_Desc_T_4><![CDATA[Añadir el horario comercial]]></addBus_Premium_Desc_T_4>
+			<addBus_Premium_Desc_T_5><![CDATA[Añadir descripción detallada]]></addBus_Premium_Desc_T_5>
+			<addBus_Premium_Desc_T_6><![CDATA[La prioridad en el listado]]></addBus_Premium_Desc_T_6>
+			<addBus_SEOFriendly><![CDATA[Negocios en URL optimización del Search Engine]]></addBus_SEOFriendly>
+			<addBus_SEOFriendly_D><![CDATA[Ejemplo) <span style="color:#3ea8eb">http://www.burugo.com/food/3341/</span><span id="S_StoreSEOurl_Example">philly-chicken</span><br />sólo <b>alfabeto</b>, <b>número</b>, <b>guión(-)</b>.]]></addBus_SEOFriendly_D>
+			<bMenu><![CDATA[Menú]]></bMenu>
+			<bName><![CDATA[Las empresas Nombre]]></bName>
+			<bStatus><![CDATA[Estado]]></bStatus>
+			<BusinessPhoneNumber><![CDATA[Número de teléfono]]></BusinessPhoneNumber>
+			<BusinessPhoneNumber_Desc><![CDATA[Este es el número que los clientes utilizarán para contactar con usted. (ex : 1-770-123-1234)]]></BusinessPhoneNumber_Desc>
+			<business_deleteFromDesc><![CDATA[Borrar]]></business_deleteFromDesc>
+			<business_images><![CDATA[Fotos de su negocio]]></business_images>
+			<business_images_desc><![CDATA[Suba unta foto que describe su negocio(Se puede subir fotos de su perfil o su servicio)<br /> Puede subir fotos desde un mínimo de 1 hasta 20]]></business_images_desc>
+			<business_insertIntoDesc><![CDATA[Insertar]]></business_insertIntoDesc>
+			<business_longdesc><![CDATA[Detalle Descripción]]></business_longdesc>
+			<business_longdesc_desc><![CDATA[Digamos que usted hace publicidad de su negocio en un periódico. ¿Qué tipo de contenido podría promocionar de manera efectiva a los clients? Puede subir fotos si es necesario.]]></business_longdesc_desc>
+			<business_name><![CDATA[Business Name]]></business_name>
+			<business_name_desc><![CDATA[Esta es su campo de nombre de la empresa. El cambio de este campo es limitada. Por favor considerar cuidadosamente.]]></business_name_desc>
+			<business_seofriendly><![CDATA[Negocios en URL optimización del Search Engine]]></business_seofriendly>
+			<business_seofriendly_desc><![CDATA[Esto va a ser su url web de su negocio. Ofrecemos a nuestros clientes la mejor tecnología de SEO para aumentar su rentabilidad del negocio<br />Sólo permite alfabetos, números, y guión.<br />Ejemplo ) http://www.burugo.com/food/3341/<span style="color:red;">Your URL</span>]]></business_seofriendly_desc>
+			<business_services><![CDATA[Servicios]]></business_services>
+			<business_services_desc><![CDATA[Por favor, comprueve que servicio desea proporcionar a los clientes.]]></business_services_desc>
+			<business_shortdesc><![CDATA[Si describe su negocio con frases breves]]></business_shortdesc>
+			<business_shortdesc_desc><![CDATA[Por favor, escribe un lema o una breve descripción de su negocio.]]></business_shortdesc_desc>
+			<business_uploadPic><![CDATA[Subir una foto]]></business_uploadPic>
+			<cart><![CDATA[Resumen del Carrito]]></cart>
+			<Category><![CDATA[Categoría]]></Category>
+			<Category_Desc><![CDATA[Compruebe categorías asociadas a su negocio. Su negocio se ​​incluirá en las categorías que usted marcó.]]></Category_Desc>
+			<check_business_category><![CDATA[Please select a category of your business]]></check_business_category>
+			<check_cc_exp><![CDATA[Please select the expiration date of your credit/debit card]]></check_cc_exp>
+			<check_cc_name><![CDATA[Please insert the name of your credit/debit card]]></check_cc_name>
+			<check_cc_num><![CDATA[Please insert your credit/debit card number]]></check_cc_num>
+			<check_option><![CDATA[Please select one of the following options]]></check_option>
+			<check_package><![CDATA[Please select a package]]></check_package>
+			<check_url><![CDATA[Please insert URL of your business]]></check_url>
+			<City><![CDATA[Ciudad]]></City>
+			<click_to_fix><![CDATA[Haga clic aquí para arreglar]]></click_to_fix>
+			<confirm_delete_business><![CDATA[Quieres eliminar este negocio? Todos los artículos y la información en este negocio se eliminarán de forma permanente.]]></confirm_delete_business>
+			<confirm_delete_group><![CDATA[Quieres eliminar este grupo? Todos los artículos en este grupo serán eliminados de inmediato.]]></confirm_delete_group>
+			<confirm_delete_item><![CDATA[Quieres eliminar este elemento? Ésta será borrada de inmediato.]]></confirm_delete_item>
+			<confirm_delete_picture><![CDATA[Quieres eliminar esta foto?]]></confirm_delete_picture>
+			<contact_phone><![CDATA[Contact]]></contact_phone>
+			<Country><![CDATA[País]]></Country>
+			<Country_Desc><![CDATA[Actualmente sólo aceptamos los negocios en Estados Unidos. (Nuestro servicio se expandirá a Corea, Japón, China, Europa, y más).]]></Country_Desc>
+			<createNewItem_BTN><![CDATA[Crear Nuevo Tema]]></createNewItem_BTN>
+			<delivery_fee><![CDATA[Costo de entrega($) <span>- La cantidad que se le cobrará por el costo de entrega</span>]]></delivery_fee>
+			<done><![CDATA[Hecho]]></done>
+			<error_check_again><![CDATA[<b>We found some error</b> while we were saving your request please check below list.]]></error_check_again>
+			<error_declined><![CDATA[<b>Payment</b> has been declined please check your payment information again and try again]]></error_declined>
+			<error_new_subscription><![CDATA[Error occurred while creating new subscription]]></error_new_subscription>
+			<error_package_not_vaild><![CDATA[<b>Package</b> you have selected is not available please check it again and try again]]></error_package_not_vaild>
+			<error_required><![CDATA[This is a required field]]></error_required>
+			<err_notice><![CDATA[<b>We found some error</b> while we were saving your request please check below list.]]></err_notice>
+			<found_error_please_wait><![CDATA[<b>We found some error</b> while we were saving your request please check below list.]]></found_error_please_wait>
+			<free_register><![CDATA[Registración Gratuita]]></free_register>
+			<Friday><![CDATA[Viernes]]></Friday>
+			<goto_fix><![CDATA[Ir y Corrección]]></goto_fix>
+			<INP_tmp_Country><![CDATA[Seleccionar país]]></INP_tmp_Country>
+			<INP_tmp_SearchBy><![CDATA[Búsqueda por Nombre]]></INP_tmp_SearchBy>
+			<INP_tmp_SearchByKeyword><![CDATA[Search by Keyword]]></INP_tmp_SearchByKeyword>
+			<INP_tmp_Zip><![CDATA[Código postal or Ciudad]]></INP_tmp_Zip>
+			<ItemCol_menu><![CDATA[Menú]]></ItemCol_menu>
+			<ItemCol_name><![CDATA[Nombre]]></ItemCol_name>
+			<ItemCol_Noitem><![CDATA[No hay ningún artículo en este grupo]]></ItemCol_Noitem>
+			<ItemCol_pic><![CDATA[Foto]]></ItemCol_pic>
+			<ItemCol_price><![CDATA[Precio]]></ItemCol_price>
+			<ItemCol_sdesc><![CDATA[Breve descripción]]></ItemCol_sdesc>
+			<ItemCol_tax><![CDATA[Impuesto]]></ItemCol_tax>
+			<ItemListingStyle><![CDATA[Estilo de listas de artículos]]></ItemListingStyle>
+			<ItemListingStyle_01><![CDATA[Nombres de artículos]]></ItemListingStyle_01>
+			<ItemListingStyle_03><![CDATA[Nombres de artículos + fotos]]></ItemListingStyle_03>
+			<ItemListingStyle_Desc><![CDATA[Choose one of the following list.]]></ItemListingStyle_Desc>
+			<items><![CDATA[Artículos]]></items>
+			<items_desc><![CDATA[Crear un grupo de artículos haciendo clic en el botón abajo.]]></items_desc>
+			<items_group_add><![CDATA[Add New Item Group]]></items_group_add>
+			<items_group_fold><![CDATA[Plegar el grupo de artículos]]></items_group_fold>
+			<items_group_fold_desc><![CDATA[Demasiados artículos en la pantalla pueden ser inconveniente para los clientes. En este caso, usted puede ahorrar espacio plegando el grupo de artículos.]]></items_group_fold_desc>
+			<items_group_name><![CDATA[Nombre del grupo de los artículos]]></items_group_name>
+			<items_group_name_desc><![CDATA[Nombre del grupo estará marcado por encima de la caja de grupo de artículos.]]></items_group_name_desc>
+			<items_list><![CDATA[Lista de artículos]]></items_list>
+			<items_list_desc><![CDATA[Añadir artículos con el botón abajo.]]></items_list_desc>
+			<i_think_ready><![CDATA[I'm ready!]]></i_think_ready>
+			<latlongmap_msg><![CDATA[<span>Is this correct location of your store on the map?</span> Otherwise please click on the map and spot to right location if it is little bit different than your location, or please check your address from above fields again.]]></latlongmap_msg>
+			<lat_long_err_msg><![CDATA[Do you want to delete this business?\nAll items and information in this business will be deleted permanently.]]></lat_long_err_msg>
+			<Monday><![CDATA[Lunes]]></Monday>
+			<mybusiness><![CDATA[Mis Empresas]]></mybusiness>
+			<mybusinessList><![CDATA[Mi lista de empresas]]></mybusinessList>
+			<need_at_least_oneItem><![CDATA[At least one item in a group is required, please click "Create New Item" button to add an item in the group.]]></need_at_least_oneItem>
+			<NextStep><![CDATA[paso siguiente]]></NextStep>
+			<no_business_msg><![CDATA[No hay negocio para registrar, porfavor agrega un nuevo negocio.]]></no_business_msg>
+			<no_business_yet><![CDATA[No hay negocio para registrar, porfavor agrega un nuevo negocio.]]></no_business_yet>
+			<no_data><![CDATA[No hay información.....]]></no_data>
+			<no_desc_img><![CDATA[<b>Sin imagen Subido embargo.</b> Si desea insertar una imagen por favor use botón Añadir fichero.]]></no_desc_img>
+			<no_group_for_item><![CDATA[No hay ningún artículo en este grupo]]></no_group_for_item>
+			<optional><![CDATA[Opcion]]></optional>
+			<payment_cc_exp><![CDATA[Expiration Date]]></payment_cc_exp>
+			<payment_cc_name><![CDATA[Name on Card<br /><span style="margin-right:105px;">First Name</span><span>Last Name</span>]]></payment_cc_name>
+			<payment_cc_num><![CDATA[Card Number]]></payment_cc_num>
+			<payment_h_amount><![CDATA[precio]]></payment_h_amount>
+			<payment_h_card_desc><![CDATA[número de tarjeta]]></payment_h_card_desc>
+			<payment_h_card_type><![CDATA[pago]]></payment_h_card_type>
+			<payment_h_date><![CDATA[fecha]]></payment_h_date>
+			<payment_h_history_title><![CDATA[historial de pagos]]></payment_h_history_title>
+			<payment_h_invoice_number><![CDATA[número de factura]]></payment_h_invoice_number>
+			<payment_h_package><![CDATA[pago automático]]></payment_h_package>
+			<payment_h_status><![CDATA[estado]]></payment_h_status>
+			<payment_h_subscirption_title><![CDATA[Pago Suscripción]]></payment_h_subscirption_title>
+			<payment_h_subscription><![CDATA[suscripción]]></payment_h_subscription>
+			<payment_h_type><![CDATA[tipo]]></payment_h_type>
+			<payment_r_menu_detail><![CDATA[Detalles]]></payment_r_menu_detail>
+			<Payment_Summary_Will_M><![CDATA[(La cuota de abono <b class="Payment_Summary_PriceFuture">$ 30.00 se cobrará desde 01/Mar/2014)]]></Payment_Summary_Will_M>
+			<Payment_Summary_Will_Y><![CDATA[(La cuota de abono <b class="Payment_Summary_PriceFuture">$ 30.00 se cobrará desde 01/Mar/2014)]]></Payment_Summary_Will_Y>
+			<premium_register><![CDATA[Prima Registrarse]]></premium_register>
+			<registerNewBusiness><![CDATA[Registro de Nuevos Negocios]]></registerNewBusiness>
+			<required_all_field><![CDATA[Por favor rellene todos los campos marcados con asterisco (*) a continuación por completo.]]></required_all_field>
+			<required_all_field_bottom><![CDATA[Por favor rellene<b> el objeto Nombre / Descripción / Precio <b>por completo. ]]></required_all_field_bottom>
+			<required_business_name><![CDATA[Se requiere el nombre de negocios. ]]></required_business_name>
+			<required_business_name_bottom><![CDATA[<b>Se requiere </b>el nombre de negocios.]]></required_business_name_bottom>
+			<required_business_picture><![CDATA[Por favor, subir al menos una foto de su negocio.]]></required_business_picture>
+			<required_business_picture_bottom><![CDATA[Por favor, subir al menos <b>una foto de su negocio.</b>]]></required_business_picture_bottom>
+			<required_business_zip><![CDATA[Se requiere codigo de negocios. ]]></required_business_zip>
+			<required_business_zip_bottom><![CDATA[<b>Se requiere codigo</b> de negocios.]]></required_business_zip_bottom>
+			<required_city><![CDATA[<b>Ciudad</b> campo es obligatorio.]]></required_city>
+			<required_contact_number><![CDATA[Se requiere su número de contacto de negocios.]]></required_contact_number>
+			<required_contact_number_bottom><![CDATA[Se requiere <b>su número</b> de contacto de negocios.]]></required_contact_number_bottom>
+			<required_delivery_charge><![CDATA[Si</b> tiene servicio<b> de entrega por favor especificar costo de entrega. Si desea proporcionar de forma gratuita por favor, introduzca con 0,00 ]]></required_delivery_charge>
+			<required_field><![CDATA[Este es un campo obligatorio.]]></required_field>
+			<required_for_delivery><![CDATA[Este es un campo obligatorio si marcó servicio de entrega.]]></required_for_delivery>
+			<required_group_name><![CDATA[Se requiere el nombre de grupo.]]></required_group_name>
+			<required_group_name_bottom><![CDATA[<b>Se requiere</b> el nombre de grupo.]]></required_group_name_bottom>
+			<required_least_one_image><![CDATA[Tienda debe tener por lo menos una imagen predeterminada.]]></required_least_one_image>
+			<required_location><![CDATA[Verifique por favor su ubicación.]]></required_location>
+			<required_location_bottom><![CDATA[Verifique por favor su <b>ubicación</b>.]]></required_location_bottom>
+			<required_open_day><![CDATA[Por lo menos un día debe ser abierta. ]]></required_open_day>
+			<required_open_day_bottom><![CDATA[Por lo menos <b>un día</b> debe ser abierta.]]></required_open_day_bottom>
+			<required_state><![CDATA[<b>State</b> is required field.]]></required_state>
+			<required_street><![CDATA[<b>Dirección</b> es un campo obligatorio.]]></required_street>
+			<Saturday><![CDATA[Sábado]]></Saturday>
+			<save><![CDATA[Guardar]]></save>
+			<save_stay><![CDATA[Guardar ajustes]]></save_stay>
+			<search_by_keyword><![CDATA[Buscar por palabra clave...]]></search_by_keyword>
+			<seourlDuplicated_err_msg><![CDATA[The SEO URL is being used by different business.]]></seourlDuplicated_err_msg>
+			<Service_01><![CDATA[Reserva]]></Service_01>
+			<Service_02><![CDATA[Para llevar / Recoger]]></Service_02>
+			<Service_03><![CDATA[Entrega / Envío]]></Service_03>
+			<Service_03_Own><![CDATA[Sí, tengo mi propio servicio de entrega]]></Service_03_Own>
+			<State><![CDATA[Provincia]]></State>
+			<store_img_err_msg><![CDATA[Tienda debe tener por lo menos una imagen predeterminada.]]></store_img_err_msg>
+			<StreetAddress><![CDATA[Dirección de su negocio]]></StreetAddress>
+			<StreetAddress2><![CDATA[Dirección adicional]]></StreetAddress2>
+			<StreetAddress2_Desc><![CDATA[Apartamento/ Número suite]]></StreetAddress2_Desc>
+			<subscription_h_date><![CDATA[creado]]></subscription_h_date>
+			<subscription_h_gross><![CDATA[Gross]]></subscription_h_gross>
+			<subscription_h_menu><![CDATA[menú]]></subscription_h_menu>
+			<subscription_h_name><![CDATA[nombre]]></subscription_h_name>
+			<subscription_h_status><![CDATA[estado]]></subscription_h_status>
+			<subscription_h_type><![CDATA[tipo]]></subscription_h_type>
+			<subscription_r_active><![CDATA[activo]]></subscription_r_active>
+			<subscription_r_deactive><![CDATA[desactivado]]></subscription_r_deactive>
+			<subsc_premium><![CDATA[prima]]></subsc_premium>
+			<Sunday><![CDATA[Domingo]]></Sunday>
+			<tab_01><![CDATA[General]]></tab_01>
+			<tab_02><![CDATA[Categoría]]></tab_02>
+			<tab_03><![CDATA[Artículos]]></tab_03>
+			<tab_04><![CDATA[Deal]]></tab_04>
+			<tax><![CDATA[Impuesto]]></tax>
+			<tax_desc><![CDATA[Inserte el impuesto que paga en la actualidad para su negocio en porcentaje(&#37;).]]></tax_desc>
+			<Thursday><![CDATA[Jueves]]></Thursday>
+			<total><![CDATA[total]]></total>
+			<Tuesday><![CDATA[Martes]]></Tuesday>
+			<validate_address><![CDATA[La dirección es campo obligatorio.]]></validate_address>
+			<validate_address_msg><![CDATA[<b>La dirección</b> es campo obligatorio.]]></validate_address_msg>
+			<validate_business_name><![CDATA[Se requiere el nombre de negocios]]></validate_business_name>
+			<validate_business_name_msg><![CDATA[<b>Se requiere</b> el nombre de negocios]]></validate_business_name_msg>
+			<validate_city><![CDATA[Ciudad campo es obligatorio.]]></validate_city>
+			<validate_city_msg><![CDATA[<b>Ciudad</b> campo es obligatorio.]]></validate_city_msg>
+			<validate_delivery><![CDATA[Este es un campo obligatorio si marcó servicio de entrega.]]></validate_delivery>
+			<validate_delivery_msg><![CDATA[Si</b> tiene servicio<b> de entrega por favor especificar costo de entrega. Si desea proporcionar de forma gratuita por favor, introduzca con 0,00 ]]></validate_delivery_msg>
+			<validate_group_name><![CDATA[Se requiere el nombre de grupo.]]></validate_group_name>
+			<validate_group_name_msg><![CDATA[<b>Se requiere</b> el nombre de grupo.]]></validate_group_name_msg>
+			<validate_image><![CDATA[Por favor, subir al menos una foto de su negocio]]></validate_image>
+			<validate_image_msg><![CDATA[Por favor, subir al menos <b>una foto de su negocio.</b>]]></validate_image_msg>
+			<validate_item_msg><![CDATA[Por favor rellene<b> el objeto Nombre / Descripción / Precio <b>por completo. ]]></validate_item_msg>
+			<validate_location_verify><![CDATA[Verifique por favor su ubicación.]]></validate_location_verify>
+			<validate_location_verify_msg><![CDATA[Verifique por favor <b>su ubicación</b>
+]]></validate_location_verify_msg>
+			<validate_open_hour><![CDATA[Por lo menos un día debe ser abierta. ]]></validate_open_hour>
+			<validate_open_hour_msg><![CDATA[Por lo <b>menos un</b> día debe ser abierta. ]]></validate_open_hour_msg>
+			<validate_phone><![CDATA[Número de teléfono es un campo obligatorio.]]></validate_phone>
+			<validate_phone_msg><![CDATA[<b>Phone Number</b> is required field. ]]></validate_phone_msg>
+			<validate_required><![CDATA[Este es un campo obligatorio.. ]]></validate_required>
+			<validate_state><![CDATA[States is required field.]]></validate_state>
+			<validate_state_msg><![CDATA[<b>States</b> is a required field.]]></validate_state_msg>
+			<validate_zipcode><![CDATA[Se requiere codigo de negocios. ]]></validate_zipcode>
+			<validate_zipcode_msg><![CDATA[<b>Se requiere codigo</b> de negocios. ]]></validate_zipcode_msg>
+			<VerifyAddress><![CDATA[Comprobar la dirección]]></VerifyAddress>
+			<waiting_msg><![CDATA[Por favor, espere...]]></waiting_msg>
+			<Wednessday><![CDATA[Miércoles]]></Wednessday>
+			<YourBusinessAddress><![CDATA[Dirección de su negocio]]></YourBusinessAddress>
+			<YourBusinessAddress_Desc><![CDATA[Burugo ofrece un servicio basado en la ubicación para que los clientes tengan el mejor servicio convenicent alrededor de su ubicación actual. Así que por favor nos proporcione la dirección correcta de su negocio. Si usted tiene cualquier problema durante la configuración de su dirección, por favor no dude en contactar con nosotros.]]></YourBusinessAddress_Desc>
+			<ZipCode><![CDATA[Código postal (Zip Code)]]></ZipCode>
+		</es>
+		<ko>
+			<addBus_AreYouOwner><![CDATA[현재 본인이 비지니스 등록자인지, 기타 비지니스 서비스 등록자 인지 선택해 주세요.]]></addBus_AreYouOwner>
+			<addBus_AreYouOwner_D><![CDATA[아래 옵션들 중 하나를 선택해 주세요.]]></addBus_AreYouOwner_D>
+			<addBus_AreYouOwner_Option1><![CDATA[비지니스 등록자]]></addBus_AreYouOwner_Option1>
+			<addBus_AreYouOwner_Option2><![CDATA[배송/장보기/심부름 등록자]]></addBus_AreYouOwner_Option2>
+			<addBus_AreYouOwner_Option3><![CDATA[헬퍼 등록자]]></addBus_AreYouOwner_Option3>
+			<addBus_AreYouOwner_Option4><![CDATA[소셜 등록자]]></addBus_AreYouOwner_Option4>
+			<addBus_Basic_Desc_D_1><![CDATA[비지니스 사진 한장을 올릴 수 있어요.]]></addBus_Basic_Desc_D_1>
+			<addBus_Basic_Desc_T_1><![CDATA[비지니스 사진 등록하기]]></addBus_Basic_Desc_T_1>
+			<addBus_BusinessName><![CDATA[비지니스명/기타 비지니스 서비스 등록자명]]></addBus_BusinessName>
+			<addBus_BusinessName_D><![CDATA[비지니스 및 혹은 사업체 이름을 넣어주세요. 고객분들께 보다 믿음직한 서비스를 제공하기 위해 비지니스명의 잦은 변경을 가급적 제한하고 있으니 입력에 신중을 가해 주세요.]]></addBus_BusinessName_D>
+			<addBus_Cat1><![CDATA[선택 1: 대분류 카테고리]]></addBus_Cat1>
+			<addBus_Cat1_D><![CDATA[현재 등록 하려는 비지니스/서비스 업종이 속한 카테고리를 선택해 주세요.]]></addBus_Cat1_D>
+			<addBus_Cat2><![CDATA[선택 2: 소분류 카테고리]]></addBus_Cat2>
+			<addBus_Cat2_D><![CDATA[소분류 카테고리를 선택해 주세요.]]></addBus_Cat2_D>
+			<addBus_PageTitle><![CDATA[신규 비지니스 등록]]></addBus_PageTitle>
+			<addBus_PaidOrFree><![CDATA[서비스 종류: 유료 혹은 무료 계정]]></addBus_PaidOrFree>
+			<addBus_PaidOrFree_D><![CDATA[서비스 계정 종류를 선택해 주세요. 유료 계정일 경우, 비지니스 사진 등록, 주소 기능, 주문/배달/예약 서비스, 우선 리스팅, 비지니스 상세설명 등록 기능, 결제시스템 등의 혜택을 누리실 수 있습니다.]]></addBus_PaidOrFree_D>
+			<addBus_Payment><![CDATA[결재]]></addBus_Payment>
+			<addBus_Payment_D><![CDATA[결재정보를 입력해 주세요.]]></addBus_Payment_D>
+			<addBus_Premium_Desc_D_1><![CDATA[비지니스 사진을 최대 20장까지 올릴 수 있어요.]]></addBus_Premium_Desc_D_1>
+			<addBus_Premium_Desc_D_2><![CDATA[주소와 지도를 입력해주세요.]]></addBus_Premium_Desc_D_2>
+			<addBus_Premium_Desc_D_3><![CDATA[별도의 웹사이트 또는 프로그램없이 주문, 배달, 예약 서비스를 부르고를 통해 필요한 서비스를 이용하실 수 있습니다. 또한 비지니스 전용 싸이트를 통해 주문 통계 및 트렌드 분석, 마케팅 전략/분석을 하실 수 있습니다.]]></addBus_Premium_Desc_D_3>
+			<addBus_Premium_Desc_D_4><![CDATA[요일별로 영업 시간을 입력할 수 있어 손님이 귀사의 비지니스 시간을 확인할 수 있습니다.]]></addBus_Premium_Desc_D_4>
+			<addBus_Premium_Desc_D_5><![CDATA[비지니스 홍보물과 사진 자료를 넣을 수 있으며, 워드프로그램과 비슷한 에디터를 통해 전문지식 없이 귀사의 비지니스에 최적합한 웹사이트를 만들 수 있습니다.]]></addBus_Premium_Desc_D_5>
+			<addBus_Premium_Desc_D_6><![CDATA[유료 회원은 무료 회원보다 리스트 상단에 위치됩니다.]]></addBus_Premium_Desc_D_6>
+			<addBus_Premium_Desc_T_1><![CDATA[비지니스 사진 등록하기]]></addBus_Premium_Desc_T_1>
+			<addBus_Premium_Desc_T_2><![CDATA[비지니스 주소 등록하기]]></addBus_Premium_Desc_T_2>
+			<addBus_Premium_Desc_T_3><![CDATA[주문, 배달, 예약 기능]]></addBus_Premium_Desc_T_3>
+			<addBus_Premium_Desc_T_4><![CDATA[비지니스 여는/닫는 시간]]></addBus_Premium_Desc_T_4>
+			<addBus_Premium_Desc_T_5><![CDATA[비지니스 상세 설명하기]]></addBus_Premium_Desc_T_5>
+			<addBus_Premium_Desc_T_6><![CDATA[우선 리스팅]]></addBus_Premium_Desc_T_6>
+			<addBus_SEOFriendly><![CDATA[비지니스 검색엔진 최적화 URL 주소]]></addBus_SEOFriendly>
+			<addBus_SEOFriendly_D><![CDATA[보기) <span style="color:#3ea8eb">http://www.burugo.com/food/3341/</span><span id="S_StoreSEOurl_Example">philly-chicken</span><br /> <b>영어 알바뱃</b>, <b>숫자</b>, <b>대쉬(-) 만 허용 됩니다.</b>.]]></addBus_SEOFriendly_D>
+			<bMenu><![CDATA[메뉴]]></bMenu>
+			<bName><![CDATA[비지니스명]]></bName>
+			<bStatus><![CDATA[비지니스현황]]></bStatus>
+			<BusinessPhoneNumber><![CDATA[비지니스 연락처]]></BusinessPhoneNumber>
+			<BusinessPhoneNumber_Desc><![CDATA[고객분들이 연락할 수 있는 비지니스 전화번호를 기입해주세요. (ex : 1-770-123-1234).]]></BusinessPhoneNumber_Desc>
+			<business_deleteFromDesc><![CDATA[삭제]]></business_deleteFromDesc>
+			<business_images><![CDATA[비지니스 설명사진]]></business_images>
+			<business_images_desc><![CDATA[비지니스와 관련된 사진(업체 내부 사진 혹은 서비스 종사자인 경우 본인의 프로필 사진 혹은 서비스 관련 사진)을 업로드 해주세요.<br /> 최소 1개 이상 최대 20개 까지 업로드 할 수 있습니다.]]></business_images_desc>
+			<business_insertIntoDesc><![CDATA[본문삽입]]></business_insertIntoDesc>
+			<business_longdesc><![CDATA[좀 더 자세히 설명 한다면?]]></business_longdesc>
+			<business_longdesc_desc><![CDATA[귀하의 사업체에 대해 신문기사에 싣는다고 생각해 보세요. 어떤 내용이 들어가야 손님들에게 보다 효과적으로 광고를 할 수 있을까요? 필요에 따라 사진 파일을 업로드 하실 수 있습니다.]]></business_longdesc_desc>
+			<business_name><![CDATA[비지니스명/기타 서비스 등록자의 이름 혹은 서비스명]]></business_name>
+			<business_name_desc><![CDATA[부르고 리스트 화면에서 귀하의 사업체 사진 아래에 나올 사업명 필드 설정 부분 입니다.<br /> 사업명은 한번 선택 후 잦은 변경이 불가능하오니 참고해 주세요.]]></business_name_desc>
+			<business_seofriendly><![CDATA[비지니스 검색엔진 최적화 URL 주소]]></business_seofriendly>
+			<business_seofriendly_desc><![CDATA[인터넷 상에 같은 종류의 비지니스가 있어도, 검색엔진(구글,네이버,야후)에 뜨는 업체와 뜨지 않는 업체 사이에서 생기는 사업적 이익의 차이점은 아주 큽니다. 검색엔진의 첫번째 리스트에 뜨는 업체는 뉴욕의 맨하탄에 있는 상점이라고 가정 한다면, 반대로 뜨지 않는 업체는 어느 시골의  골목가에 있는 업체로 비유할 수 있습니다. 부르고는 여러분에게 최적의 검색엔진 최적화를 위한 환경을 제공 합니다. 가능한 여러분이 노출되고자 하는 키워드를 이 곳에 넣어 주세요. <br /><br />오직 영어 알파벳, 숫자 혹은 대쉬(-)만 허용 됩니다.<br /><b>주소예</b>) http://www.burugo.com/food/3341/<span style="color:red;">Your URL</span>]]></business_seofriendly_desc>
+			<business_services><![CDATA[서비스]]></business_services>
+			<business_services_desc><![CDATA[고객에게 제공하고자 하는 서비스를 선택 해주세요.]]></business_services_desc>
+			<business_shortdesc><![CDATA[나의 비지니스를 짧게 한마디로 표현 한다면?]]></business_shortdesc>
+			<business_shortdesc_desc><![CDATA[사장님의 비지니스 슬로건 혹은 처음 들어온 고객이 한 눈에 어떤 비지니스인지를 알아볼 수 있는 짧교 명료한 글로 표현 해주세요.]]></business_shortdesc_desc>
+			<business_uploadPic><![CDATA[사진 업로드]]></business_uploadPic>
+			<cart><![CDATA[장바구니 결재정보]]></cart>
+			<Category><![CDATA[카테고리]]></Category>
+			<Category_Desc><![CDATA[현재 비지니스와 관련된 카테고리를 선택해 주세요. 비지니스와 카테고리가 연관성이 부족할 경우 리스팅에 제한이 생길 수 있습니다.]]></Category_Desc>
+			<check_business_category><![CDATA[비지니스의 카테고리를 선택해주세요]]></check_business_category>
+			<check_cc_exp><![CDATA[카드 유효기간을 넣어주세요]]></check_cc_exp>
+			<check_cc_name><![CDATA[카드의 이름을 입력해주세요]]></check_cc_name>
+			<check_cc_num><![CDATA[카드번호를 입력해주세요]]></check_cc_num>
+			<check_option><![CDATA[옵션을 선택해주세요]]></check_option>
+			<check_package><![CDATA[결제정보을 선택해 주세요]]></check_package>
+			<check_url><![CDATA[URL을 입력해주세요]]></check_url>
+			<City><![CDATA[시]]></City>
+			<click_to_fix><![CDATA[변경을 위하여 이곳을 클릭해주세요.]]></click_to_fix>
+			<confirm_delete_business><![CDATA[본 비지니스를 삭제하시겠습니까? 모든 내용이 영구히 삭제됩니다.]]></confirm_delete_business>
+			<confirm_delete_group><![CDATA[본그룹을 삭제하시겠습니까? 모든 내용이 삭제됩니다.]]></confirm_delete_group>
+			<confirm_delete_item><![CDATA[본항목을 삭제하시겠습니까? 본항목이 삭제됩니다. ]]></confirm_delete_item>
+			<confirm_delete_picture><![CDATA[본사진을 삭제하시겠습니까?]]></confirm_delete_picture>
+			<contact_phone><![CDATA[전화번호]]></contact_phone>
+			<Country><![CDATA[국가]]></Country>
+			<Country_Desc><![CDATA[현재 미주 지역만 가능합니다(추후 한국, 일본, 중국, 유럽 등지로 확장 됩니다.)]]></Country_Desc>
+			<createNewItem_BTN><![CDATA[아이템 추가]]></createNewItem_BTN>
+			<delivery_fee><![CDATA[배송비($) <span>- 자체 배송서비스 추가할 경우 배송서비스시 부가되는 일회 비용</span>]]></delivery_fee>
+			<done><![CDATA[완료]]></done>
+			<error_check_again><![CDATA[<b>저장하는 동안</b>에러가 발생했습니다]]></error_check_again>
+			<error_declined><![CDATA[<b>승인거부</b> 되었습니다. 카드정보를 확인하시고 다시 시도해주세요
+]]></error_declined>
+			<error_new_subscription><![CDATA[등록정보를 생성하는데 에러가 발생했습니다]]></error_new_subscription>
+			<error_package_not_vaild><![CDATA[<b>결재방식</b> 선택하신 결재수단은 가능하지 않습니다. 다시 선택해주세요
+]]></error_package_not_vaild>
+			<error_required><![CDATA[필수입력사항]]></error_required>
+			<err_notice><![CDATA[<b>에러</b> 요청하신 정보를 저장하는 동안 아래의 리스트를 확인해주세요.]]></err_notice>
+			<found_error_please_wait><![CDATA[<b>에러</b> 요청하신 정보를 저장하는 동안 아래의 리스트를 확인해주세요.]]></found_error_please_wait>
+			<free_register><![CDATA[무료등록]]></free_register>
+			<Friday><![CDATA[금요일]]></Friday>
+			<goto_fix><![CDATA[수정하기]]></goto_fix>
+			<INP_tmp_Country><![CDATA[국가를 선택하세요]]></INP_tmp_Country>
+			<INP_tmp_SearchBy><![CDATA[이름으로 찾기]]></INP_tmp_SearchBy>
+			<INP_tmp_SearchByKeyword><![CDATA[키워드로 검색]]></INP_tmp_SearchByKeyword>
+			<INP_tmp_Zip><![CDATA[우편번호 또는 도시명]]></INP_tmp_Zip>
+			<ItemCol_menu><![CDATA[메뉴]]></ItemCol_menu>
+			<ItemCol_name><![CDATA[이름]]></ItemCol_name>
+			<ItemCol_Noitem><![CDATA[현재 그룹내 아무런 아이템이 없습니다.]]></ItemCol_Noitem>
+			<ItemCol_pic><![CDATA[사진]]></ItemCol_pic>
+			<ItemCol_price><![CDATA[가격]]></ItemCol_price>
+			<ItemCol_sdesc><![CDATA[짧은설명]]></ItemCol_sdesc>
+			<ItemCol_tax><![CDATA[세금]]></ItemCol_tax>
+			<ItemListingStyle><![CDATA[아이템 목록 스타일]]></ItemListingStyle>
+			<ItemListingStyle_01><![CDATA[아이템 이름]]></ItemListingStyle_01>
+			<ItemListingStyle_03><![CDATA[아이템 이름 + 사진]]></ItemListingStyle_03>
+			<ItemListingStyle_Desc><![CDATA[아래 두가지 아이템 스타일 중 하나를 선택해 주세요. (사장님의 비지니스에 표시 될 아이템의 리스팅 스타일을 결정할 수 있어요. 비지니스를 처음 등록 하셨고 만약 현재는 사진자료가 부족할 경우라면 '아이템 이름' 스타일을 선택해 주세요.)]]></ItemListingStyle_Desc>
+			<items><![CDATA[아이템]]></items>
+			<items_desc><![CDATA[아래 버튼을 통해 아이템 그룹을 먼저 생성해주세요.]]></items_desc>
+			<items_group_add><![CDATA[아이템 그룹 생성]]></items_group_add>
+			<items_group_fold><![CDATA[아이템 그룹 접기]]></items_group_fold>
+			<items_group_fold_desc><![CDATA[아이템이 너무 많아 페이지가 한 없이 길어질 경우 간혹 고객에게 불편을 줄 수 있습니다. 이러한 경우 이 곳을 체크하면 해당 그룹은 펼침방식에서 접은방식으로 전환되며, 이어서 많은 공간을 절약할 수 있습니다.]]></items_group_fold_desc>
+			<items_group_name><![CDATA[아이템 그룹명]]></items_group_name>
+			<items_group_name_desc><![CDATA[하나 혹은 다수의 아이템을 그룹 짓는 그룹명으로 아이템 그룹박스 상단에 표시 됩니다.]]></items_group_name_desc>
+			<items_list><![CDATA[아이템 리스트]]></items_list>
+			<items_list_desc><![CDATA[아래 버튼을 통해 본격적으로 아이템 추가해 주세요.]]></items_list_desc>
+			<i_think_ready><![CDATA[다음단계로 이동하기]]></i_think_ready>
+			<latlongmap_msg><![CDATA[<span>지도상에 비지니스의 위치가 맞습니까?</span> 가게의 위치와 다르다면, 지도상의 위치를 선택한후 주소창의 주소와 다시한번 확인해 주세요.]]></latlongmap_msg>
+			<lat_long_err_msg><![CDATA[비지니스를 삭제하시겠습니까?\n 모든 정보와 아이템들이 삭제됩니다. ]]></lat_long_err_msg>
+			<Monday><![CDATA[월요일]]></Monday>
+			<mybusiness><![CDATA[나의 비지니스]]></mybusiness>
+			<mybusinessList><![CDATA[나의 비지니스 목록]]></mybusinessList>
+			<need_at_least_oneItem><![CDATA[At least one item in a group is required, please click "Create New Item" button to add an item in the group.]]></need_at_least_oneItem>
+			<NextStep><![CDATA[다음 단계]]></NextStep>
+			<no_business_msg><![CDATA[등록할 비지니스가 없습니다. 새로운 비지니스를 추가해주세요]]></no_business_msg>
+			<no_business_yet><![CDATA[등록할 비지니스가 없습니다. 새로운 비지니스를 추가해주세요]]></no_business_yet>
+			<no_data><![CDATA[정보가 없습니다.....]]></no_data>
+			<no_desc_img><![CDATA[<b>업로드된 이미지가 없습니다.</b> 이미지를 업로드하시려면 업로드 버튼을 누르세요.]]></no_desc_img>
+			<no_group_for_item><![CDATA[아이템 그룹이 없습니다]]></no_group_for_item>
+			<optional><![CDATA[선택사항]]></optional>
+			<payment_cc_exp><![CDATA[유효기간]]></payment_cc_exp>
+			<payment_cc_name><![CDATA[카드이름<br /><span style="margin-right:105px;">이름</span><span>성</span>]]></payment_cc_name>
+			<payment_cc_num><![CDATA[카드번호]]></payment_cc_num>
+			<payment_h_amount><![CDATA[금액]]></payment_h_amount>
+			<payment_h_card_desc><![CDATA[카드 번호]]></payment_h_card_desc>
+			<payment_h_card_type><![CDATA[지불]]></payment_h_card_type>
+			<payment_h_date><![CDATA[날짜]]></payment_h_date>
+			<payment_h_history_title><![CDATA[결제 내역]]></payment_h_history_title>
+			<payment_h_invoice_number><![CDATA[인보이스 번호]]></payment_h_invoice_number>
+			<payment_h_package><![CDATA[자동 결제]]></payment_h_package>
+			<payment_h_status><![CDATA[상태]]></payment_h_status>
+			<payment_h_subscirption_title><![CDATA[지불 신청 ]]></payment_h_subscirption_title>
+			<payment_h_subscription><![CDATA[신청]]></payment_h_subscription>
+			<payment_h_type><![CDATA[유형 ]]></payment_h_type>
+			<payment_r_menu_detail><![CDATA[상세 사항]]></payment_r_menu_detail>
+			<Payment_Summary_Will_M><![CDATA[(2014년 03월 1일부터 <b class="Payment_Summary_PriceFuture">$30.00</b> 가 결재 됩니다.)]]></Payment_Summary_Will_M>
+			<Payment_Summary_Will_Y><![CDATA[(2014년 03월 1일부터 <b class="Payment_Summary_PriceFuture">$30.00</b> 가 결재 됩니다.)]]></Payment_Summary_Will_Y>
+			<premium_register><![CDATA[유료 등록]]></premium_register>
+			<registerNewBusiness><![CDATA[신규 비지니스 등록]]></registerNewBusiness>
+			<required_all_field><![CDATA[아래 칸(*)에 내용을 기입하여 주세요. ]]></required_all_field>
+			<required_all_field_bottom><![CDATA[아래 칸에 <b>품목 이름/설명/가격</b> 을 기입해 주세요. ]]></required_all_field_bottom>
+			<required_business_name><![CDATA[사업체 이름을 기입해주세요. ]]></required_business_name>
+			<required_business_name_bottom><![CDATA[<b>사업체 이름을</b> 기입해주세요.]]></required_business_name_bottom>
+			<required_business_picture><![CDATA[사업관련 사진 한장 이상을 올려주세요. ]]></required_business_picture>
+			<required_business_picture_bottom><![CDATA[사업관련 사진 <b>한장 이상을 올려주세요.</b>]]></required_business_picture_bottom>
+			<required_business_zip><![CDATA[사업체 zipcode를 입력해주세요. ]]></required_business_zip>
+			<required_business_zip_bottom><![CDATA[<b>사업체 zipcode를 </b>입력해주세요.]]></required_business_zip_bottom>
+			<required_city><![CDATA[<b>도시명</b> 기입이 필요한 칸입니다.]]></required_city>
+			<required_contact_number><![CDATA[사업체 연락처를 기입해주세요. ]]></required_contact_number>
+			<required_contact_number_bottom><![CDATA[사업체 <b>연락처를 </b>기입해주세요. ]]></required_contact_number_bottom>
+			<required_delivery_charge><![CDATA[<b>배달 서비스가</b> 있으시면, 배달 수수료를 기입해주세요. 배달 수수료가 없을 경우 0.00으로 기입해주세요. ]]></required_delivery_charge>
+			<required_field><![CDATA[필수 항목입니다. ]]></required_field>
+			<required_for_delivery><![CDATA[배달 서비스를 선택하셨으면 필수 항목입니다.]]></required_for_delivery>
+			<required_group_name><![CDATA[그룹이름을 기입해주세요. ]]></required_group_name>
+			<required_group_name_bottom><![CDATA[<b>그룹이름을</b> 기입해주세요.]]></required_group_name_bottom>
+			<required_least_one_image><![CDATA[가게는 한장 이상의 기본사진이 필요합니다.]]></required_least_one_image>
+			<required_location><![CDATA[위치를 확인해 주세요.]]></required_location>
+			<required_location_bottom><![CDATA[위치를 확인해 <b>주세요</b>.]]></required_location_bottom>
+			<required_open_day><![CDATA[최소한 하루 이상 영업을 해야합니다. ]]></required_open_day>
+			<required_open_day_bottom><![CDATA[최소한 <b>하루</b> 이상 영업을 해야합니다. ]]></required_open_day_bottom>
+			<required_state><![CDATA[<b>주를</b> 입력해 주세요.]]></required_state>
+			<required_street><![CDATA[<b>거리주소를</b> 입력해 주세요.]]></required_street>
+			<Saturday><![CDATA[토요일]]></Saturday>
+			<save><![CDATA[저장]]></save>
+			<save_stay><![CDATA[저장 후 남아있기]]></save_stay>
+			<search_by_keyword><![CDATA[키워드로 검색하기...]]></search_by_keyword>
+			<seourlDuplicated_err_msg><![CDATA[검색엔진 최적화 주소가 현재 사용중 입니다. 다른 주소로 선택해 주세요.]]></seourlDuplicated_err_msg>
+			<Service_01><![CDATA[예약서비스]]></Service_01>
+			<Service_02><![CDATA[투고/픽업 서비스]]></Service_02>
+			<Service_03><![CDATA[배달/배송 서비스]]></Service_03>
+			<Service_03_Own><![CDATA[혹시 자체 배송 서비스가 있으시면,]]></Service_03_Own>
+			<State><![CDATA[주]]></State>
+			<store_img_err_msg><![CDATA[가게는 한장 이상의 기본사진이 필요합니다.]]></store_img_err_msg>
+			<StreetAddress><![CDATA[거리 주소]]></StreetAddress>
+			<StreetAddress2><![CDATA[추가 주소]]></StreetAddress2>
+			<StreetAddress2_Desc><![CDATA[아파트/ Suite 번호]]></StreetAddress2_Desc>
+			<subscription_h_date><![CDATA[생성일]]></subscription_h_date>
+			<subscription_h_gross><![CDATA[전체 금액]]></subscription_h_gross>
+			<subscription_h_menu><![CDATA[메뉴]]></subscription_h_menu>
+			<subscription_h_name><![CDATA[이름]]></subscription_h_name>
+			<subscription_h_status><![CDATA[상태]]></subscription_h_status>
+			<subscription_h_type><![CDATA[유형]]></subscription_h_type>
+			<subscription_r_active><![CDATA[활성화]]></subscription_r_active>
+			<subscription_r_deactive><![CDATA[Deactivated]]></subscription_r_deactive>
+			<subsc_premium><![CDATA[프리미엄]]></subsc_premium>
+			<Sunday><![CDATA[일요일]]></Sunday>
+			<tab_01><![CDATA[메인]]></tab_01>
+			<tab_02><![CDATA[카테고리]]></tab_02>
+			<tab_03><![CDATA[아이템]]></tab_03>
+			<tab_04><![CDATA[Deal]]></tab_04>
+			<tax><![CDATA[세금]]></tax>
+			<tax_desc><![CDATA[세금으로 부가되는 금액을 퍼센트(%)로 입력해주세요.]]></tax_desc>
+			<Thursday><![CDATA[목요일]]></Thursday>
+			<total><![CDATA[전체 금액 ]]></total>
+			<Tuesday><![CDATA[화요일]]></Tuesday>
+			<validate_address><![CDATA[주소를 입력해주세요]]></validate_address>
+			<validate_address_msg><![CDATA[주소를 입력해주세요]]></validate_address_msg>
+			<validate_business_name><![CDATA[사업명을 입력해주세요]]></validate_business_name>
+			<validate_business_name_msg><![CDATA[비지니스명을 입력해주세요]]></validate_business_name_msg>
+			<validate_city><![CDATA[도시를 입력해주세요.]]></validate_city>
+			<validate_city_msg><![CDATA[도시를 입력해주세요.]]></validate_city_msg>
+			<validate_delivery><![CDATA[배달 서비스 여부를 체크해주세요]]></validate_delivery>
+			<validate_delivery_msg><![CDATA[배달 금액을 입력해주세요<b>배달 서비스가</b> 있으시면, 배달 수수료를 기입해주세요. 배달 수수료가 없을 경우 0.00으로 기입해주세요. ]]></validate_delivery_msg>
+			<validate_group_name><![CDATA[그룹명을 입력해주세요.]]></validate_group_name>
+			<validate_group_name_msg><![CDATA[그룹명을 입력해주세요]]></validate_group_name_msg>
+			<validate_image><![CDATA[사업관련 사진 한장 이상을 올려주세요
+]]></validate_image>
+			<validate_image_msg><![CDATA[사업관련 사진 <b>한장 이상을 올려주세요.]]></validate_image_msg>
+			<validate_item_msg><![CDATA[아래 칸에 <b>품목 이름/설명/가격</b> 을 기입해 주세요. ]]></validate_item_msg>
+			<validate_location_verify><![CDATA[비지니스 위치를 확인해주세요.]]></validate_location_verify>
+			<validate_location_verify_msg><![CDATA[비지니스 위치를 확인해주세요]]></validate_location_verify_msg>
+			<validate_open_hour><![CDATA[최소한 하루 이상 영업을 해야합니다. ]]></validate_open_hour>
+			<validate_open_hour_msg><![CDATA[최소한 하루 이상 영업을 해야합니다. ]]></validate_open_hour_msg>
+			<validate_phone><![CDATA[전화번호를 입력해주세요.]]></validate_phone>
+			<validate_phone_msg><![CDATA[전화번호를 입력해주세요.]]></validate_phone_msg>
+			<validate_required><![CDATA[필수 항목입니다. ]]></validate_required>
+			<validate_state><![CDATA[주를 입력해 주세요]]></validate_state>
+			<validate_state_msg><![CDATA[주를 입력해주세요]]></validate_state_msg>
+			<validate_zipcode><![CDATA[사업체 zipcode를 입력해주세요. ]]></validate_zipcode>
+			<validate_zipcode_msg><![CDATA[<b>사업체 zipcode를 </b>입력해주세요. ]]></validate_zipcode_msg>
+			<VerifyAddress><![CDATA[주소 확인]]></VerifyAddress>
+			<waiting_msg><![CDATA[기다려 주세요...]]></waiting_msg>
+			<Wednessday><![CDATA[수요일]]></Wednessday>
+			<YourBusinessAddress><![CDATA[비지니스 위치]]></YourBusinessAddress>
+			<YourBusinessAddress_Desc><![CDATA[부르고는 위치기반 서비스 입니다. 고객분들께서 편안히 찾아볼 수 있도록 정확한 비지니스 주소를 입력해 주세요. 이 주소를 통해 지역 기반의 리스팅 서비스 및 실시간 계산기능 등이 제공되며, 기타 수 많은 서비스가 제공 되고 있으니, 반드시 정확한 주소를 기재해 주시기 바랍니다. 비지니스 주소 등록에 문제가 있거나 질문이 있으시면 부르고 콜센터에 연락해 주세요.]]></YourBusinessAddress_Desc>
+			<ZipCode><![CDATA[우편번호(Zip Code)]]></ZipCode>
+		</ko>
+		<jp>
+			<addBus_AreYouOwner><![CDATA[現在本人がビジネス登録者であるか, その他サービスの登録者であるかを選択してください。]]></addBus_AreYouOwner>
+			<addBus_AreYouOwner_D><![CDATA[下の オプションの中で一つを選択してください。]]></addBus_AreYouOwner_D>
+			<addBus_AreYouOwner_Option1><![CDATA[ビジネス登録者]]></addBus_AreYouOwner_Option1>
+			<addBus_AreYouOwner_Option2><![CDATA[配送/買い物/おつかいの登録者]]></addBus_AreYouOwner_Option2>
+			<addBus_AreYouOwner_Option3><![CDATA[ヘルパー登録者]]></addBus_AreYouOwner_Option3>
+			<addBus_AreYouOwner_Option4><![CDATA[ソーシャル登録者 ]]></addBus_AreYouOwner_Option4>
+			<addBus_Basic_Desc_D_1><![CDATA[ビジネス写真一枚を上げることができます。]]></addBus_Basic_Desc_D_1>
+			<addBus_Basic_Desc_T_1><![CDATA[ビジネス写真登録]]></addBus_Basic_Desc_T_1>
+			<addBus_BusinessName><![CDATA[ビジネス名]]></addBus_BusinessName>
+			<addBus_BusinessName_D><![CDATA[ビジネスあるいは事業団体名を入れてください。 お客様により優れて頼もしいサービスを提供するためにビジネス名のひんぱんな変更をなるべく制限していますので、入力に慎重を加えてください。]]></addBus_BusinessName_D>
+			<addBus_Cat1><![CDATA[選択1:大分類カテゴリ]]></addBus_Cat1>
+			<addBus_Cat1_D><![CDATA[現在登録しようとするビジネス/サービス業種が属するカテゴリを選択してください。]]></addBus_Cat1_D>
+			<addBus_Cat2><![CDATA[選択2:小分類カテゴリ]]></addBus_Cat2>
+			<addBus_Cat2_D><![CDATA[小分類カテゴリーを選択してください。]]></addBus_Cat2_D>
+			<addBus_PageTitle><![CDATA[新規ビジネス登録]]></addBus_PageTitle>
+			<addBus_PaidOrFree><![CDATA[サービスの種類: 有料あるいは無料勘定]]></addBus_PaidOrFree>
+			<addBus_PaidOrFree_D><![CDATA[サービス勘定種類を選択してください。 有料勘定の場合, ビジネス写真登録, 住所機能, 注文/配達/予約サービス, 優先リスティング, ビジネス詳細説明登録機能, 決済システムなどのポーナスを受けることができます]]></addBus_PaidOrFree_D>
+			<addBus_Payment><![CDATA[決裁]]></addBus_Payment>
+			<addBus_Payment_D><![CDATA[決裁情報を入力してください。]]></addBus_Payment_D>
+			<addBus_Premium_Desc_D_1><![CDATA[ビジネス写真を最大20枚まで載せることができます. ]]></addBus_Premium_Desc_D_1>
+			<addBus_Premium_Desc_D_2><![CDATA[住所と指導を入力してください。]]></addBus_Premium_Desc_D_2>
+			<addBus_Premium_Desc_D_3><![CDATA[別途のウェブサイトまたはプログラムず注文、配達、予約サービスを呼びてを通じて必要なサービスをご利用いただけます。また、ビジネス向けサイトを通じて、注文統計およびトレンド分析、マーケティング戦略/分析をすることができます。]]></addBus_Premium_Desc_D_3>
+			<addBus_Premium_Desc_D_4><![CDATA[曜日ごとに営業時間を入力することができて客が貴社のビジネス時間を確認することができます。]]></addBus_Premium_Desc_D_4>
+			<addBus_Premium_Desc_D_5><![CDATA[ビジネス広報物と写真資料を入れられ、ワードプログラムと似たようなエディターを通じて専門知識なく貴社のビジネスに最適合わせたウェブサイトを作成することができます。]]></addBus_Premium_Desc_D_5>
+			<addBus_Premium_Desc_D_6><![CDATA[有料会員は無料会員よりリストの上段に位置されます。]]></addBus_Premium_Desc_D_6>
+			<addBus_Premium_Desc_T_1><![CDATA[ビジネス写真登録 ]]></addBus_Premium_Desc_T_1>
+			<addBus_Premium_Desc_T_2><![CDATA[ビジネス住所登録]]></addBus_Premium_Desc_T_2>
+			<addBus_Premium_Desc_T_3><![CDATA[注文, 配達, 予約機能]]></addBus_Premium_Desc_T_3>
+			<addBus_Premium_Desc_T_4><![CDATA[ビジネス開く/閉める時間]]></addBus_Premium_Desc_T_4>
+			<addBus_Premium_Desc_T_5><![CDATA[ビジネス詳細説明]]></addBus_Premium_Desc_T_5>
+			<addBus_Premium_Desc_T_6><![CDATA[優先リスティング]]></addBus_Premium_Desc_T_6>
+			<addBus_SEOFriendly><![CDATA[ビジネス検索エンジン最適化のURL住所]]></addBus_SEOFriendly>
+			<addBus_SEOFriendly_D><![CDATA[例) <span style="color:#3ea8eb">http://www.burugo.com/food/3341/</span><span id="S_StoreSEOurl_Example">philly-chicken</span><br />英語アルファベット、 数字、 ダッシュ(-)だけ許容されます.]]></addBus_SEOFriendly_D>
+			<bMenu><![CDATA[メニュー]]></bMenu>
+			<bName><![CDATA[ビジネス名]]></bName>
+			<bStatus><![CDATA[ビジネス現況]]></bStatus>
+			<BusinessPhoneNumber><![CDATA[ビジネス連絡先]]></BusinessPhoneNumber>
+			<BusinessPhoneNumber_Desc><![CDATA[お客様が連絡できるビジネスに電話番号を記入してください。 (ex : 1-770-123-1234)]]></BusinessPhoneNumber_Desc>
+			<business_deleteFromDesc><![CDATA[削除]]></business_deleteFromDesc>
+			<business_images><![CDATA[ビジネス説明写真]]></business_images>
+			<business_images_desc><![CDATA[ビジネスに関連する写真（メーカー内部の写真や、サービス従事者の場合、本人のプロフィール写真やサービス関連写真）をアップロードしてください.<br/> 最低1つ以上、最大20個までアップロードすることができます.]]></business_images_desc>
+			<business_insertIntoDesc><![CDATA[挿入]]></business_insertIntoDesc>
+			<business_longdesc><![CDATA[もう少し詳しく説明するならば]]></business_longdesc>
+			<business_longdesc_desc><![CDATA[私の事業についての新聞記事に乗せると考えて見て下さい. どのような内容が入るとしたらお客様に、より効果的に広告を行うことができますか？必要によって画像ファイルをアップロードすることができます.]]></business_longdesc_desc>
+			<business_name><![CDATA[ビジネス名/その他のサービス登録者名、あるいはサービス名]]></business_name>
+			<business_name_desc><![CDATA[Burugoリスト画面において貴下の事業体写真の下に出る事業名フィールド設定部分です。<br/>事業名は一度選択した後、頻繁な変更は不可能でますのでご参考してください。]]></business_name_desc>
+			<business_seofriendly><![CDATA[ビジネス検索エンジン最適化のURL住所]]></business_seofriendly>
+			<business_seofriendly_desc><![CDATA[インターネット上に同じ種類のビジネスがあっても、検索エンジン（グーグル、ヤフー）に現れるメーカーと現れない業者の間で生じるビジネス上の利益の違いは非常に大きいです.検索エンジンの最初のリストに現れるメーカーは、ニューヨークのマンハッタンにある一店と仮定すると、逆に現れない業者は、ある田舎の路地に出来ているこの店に例えることができます. Burugoはあなたに最適な検索エンジンの最適化のための環境を提供します. できる限り、皆様が表そうとするキーワードをここに入れてください<br />ただ、英語のアルファベット、数字、またはダッシュ(-)のみが許可されます<br />アドレス例) http://www.burugo.com/food/3341/<span style="color:red;">Your URL</span>]]></business_seofriendly_desc>
+			<business_services><![CDATA[サービス]]></business_services>
+			<business_services_desc><![CDATA[お客様に提供しようとするサービスを選択してください。]]></business_services_desc>
+			<business_shortdesc><![CDATA[私のビジネスを短く一言で表現するなら?]]></business_shortdesc>
+			<business_shortdesc_desc><![CDATA[社長のビジネススローガンあるいは初めて入ってきた顧客が一目でどのようなビジネスであるか調べられる短くて簡単な文章で表現してください.]]></business_shortdesc_desc>
+			<business_uploadPic><![CDATA[画像アップロード]]></business_uploadPic>
+			<cart><![CDATA[買い物かご決裁情報]]></cart>
+			<Category><![CDATA[カテゴリー]]></Category>
+			<Category_Desc><![CDATA[現在ビジネスと関したカテゴリーを選択してください。ビジネスとカテゴリーが関連性が不足する場合、リスティングに制限があります。]]></Category_Desc>
+			<check_business_category><![CDATA[Please select a category of your business]]></check_business_category>
+			<check_cc_exp><![CDATA[Please select the expiration date of your credit/debit card]]></check_cc_exp>
+			<check_cc_name><![CDATA[Please insert the name of your credit/debit card]]></check_cc_name>
+			<check_cc_num><![CDATA[Please insert your credit/debit card number]]></check_cc_num>
+			<check_option><![CDATA[Please select one of the following options]]></check_option>
+			<check_package><![CDATA[Please select a package]]></check_package>
+			<check_url><![CDATA[Please insert URL of your business]]></check_url>
+			<City><![CDATA[市]]></City>
+			<click_to_fix><![CDATA[変更のためにここをクリックしてください。]]></click_to_fix>
+			<confirm_delete_business><![CDATA[本ビジネスを削除しますかすべての内容は永久に削除されます。]]></confirm_delete_business>
+			<confirm_delete_group><![CDATA[本グループを削除しますかすべての内容が削除されます。]]></confirm_delete_group>
+			<confirm_delete_item><![CDATA[本項目を削除します?本項目が削除されます。]]></confirm_delete_item>
+			<confirm_delete_picture><![CDATA[本写真を削除しますか]]></confirm_delete_picture>
+			<contact_phone><![CDATA[電話番号]]></contact_phone>
+			<Country><![CDATA[国]]></Country>
+			<Country_Desc><![CDATA[現在アメリカ地域のみ可能です.（後日、韓国、日本、中国、欧州などで展開されます.）.]]></Country_Desc>
+			<createNewItem_BTN><![CDATA[アイテム追加]]></createNewItem_BTN>
+			<delivery_fee><![CDATA[送料($) <span>- 自体配送サービス追加する場合、配送サービス市付加される一回費用?</span>]]></delivery_fee>
+			<done><![CDATA[完了]]></done>
+			<error_check_again><![CDATA[<b>We found some error</b> while we were saving your request please check below list.]]></error_check_again>
+			<error_declined><![CDATA[<b>Payment</b> has been declined please check your payment information again and try again]]></error_declined>
+			<error_new_subscription><![CDATA[Error occurred while creating new subscription]]></error_new_subscription>
+			<error_package_not_vaild><![CDATA[<b>Package</b> you have selected is not available please check it again and try again]]></error_package_not_vaild>
+			<error_required><![CDATA[This is a required field]]></error_required>
+			<err_notice><![CDATA[<b>We found some error</b> while we were saving your request please check below list.]]></err_notice>
+			<found_error_please_wait><![CDATA[<b>We found some error</b> while we were saving your request please check below list.]]></found_error_please_wait>
+			<free_register><![CDATA[無料登録]]></free_register>
+			<Friday><![CDATA[金曜日]]></Friday>
+			<goto_fix><![CDATA[変更する]]></goto_fix>
+			<INP_tmp_Country><![CDATA[国を選択してください]]></INP_tmp_Country>
+			<INP_tmp_SearchBy><![CDATA[名前で検索]]></INP_tmp_SearchBy>
+			<INP_tmp_SearchByKeyword><![CDATA[キーワードで検索]]></INP_tmp_SearchByKeyword>
+			<INP_tmp_Zip><![CDATA[郵便番号または都市名]]></INP_tmp_Zip>
+			<ItemCol_menu><![CDATA[メニュー]]></ItemCol_menu>
+			<ItemCol_name><![CDATA[名前]]></ItemCol_name>
+			<ItemCol_Noitem><![CDATA[現在、グループ内の何のアイテムがありません。]]></ItemCol_Noitem>
+			<ItemCol_pic><![CDATA[写真]]></ItemCol_pic>
+			<ItemCol_price><![CDATA[価額]]></ItemCol_price>
+			<ItemCol_sdesc><![CDATA[短い説明 ]]></ItemCol_sdesc>
+			<ItemCol_tax><![CDATA[税金]]></ItemCol_tax>
+			<ItemListingStyle><![CDATA[アイテムリストスタイル]]></ItemListingStyle>
+			<ItemListingStyle_01><![CDATA[アイテム名]]></ItemListingStyle_01>
+			<ItemListingStyle_03><![CDATA[アイテム名 + 写真]]></ItemListingStyle_03>
+			<ItemListingStyle_Desc><![CDATA[下の二つのアイテムスタイルの中でいずれかをお選びください.（貴社のビジネスに表示されるアイテムのリストスタイルを決定ができます.ビジネスを最初に登録したが、もし、現在では写真資料が不足している場合は、「アイテム名」のスタイルをお選びください.）]]></ItemListingStyle_Desc>
+			<items><![CDATA[アイテム]]></items>
+			<items_desc><![CDATA[下のボタンを利用してアイテムのグループを作成してください.]]></items_desc>
+			<items_group_add><![CDATA[フォームの最下部]]></items_group_add>
+			<items_group_fold><![CDATA[アイテムグループを閉じる]]></items_group_fold>
+			<items_group_fold_desc><![CDATA[アイテムが多すぎて、ページが限りなく長くなる場合、まれに、お客様に不快感を与えることができます.このような場合は、この場所をチェックすると、そのグループは、スプレッド方法から畳んだように転換されて、多くのスペースを節約することができます.]]></items_group_fold_desc>
+			<items_group_name><![CDATA[アイテムのグループ名]]></items_group_name>
+			<items_group_name_desc><![CDATA[一つあるいは複数のアイテムをグループにするグループ名がアイテムグループボックスの上部に表示されます.]]></items_group_name_desc>
+			<items_list><![CDATA[アイテムのリスト]]></items_list>
+			<items_list_desc><![CDATA[下のボタンを使って本格的にアイテムを追加してください.]]></items_list_desc>
+			<i_think_ready><![CDATA[登録する!]]></i_think_ready>
+			<latlongmap_msg><![CDATA[<span>Is this correct location of your store on the map?</span> Otherwise please click on the map and spot to right location if it is little bit different than your location, or please check your address from above fields again.]]></latlongmap_msg>
+			<lat_long_err_msg><![CDATA[Do you want to delete this business?\nAll items and information in this business will be deleted permanently.]]></lat_long_err_msg>
+			<Monday><![CDATA[月曜日]]></Monday>
+			<mybusiness><![CDATA[私のビジネス]]></mybusiness>
+			<mybusinessList><![CDATA[私のビジネスリスト]]></mybusinessList>
+			<need_at_least_oneItem><![CDATA[At least one item in a group is required, please click "Create New Item" button to add an item in the group.]]></need_at_least_oneItem>
+			<NextStep><![CDATA[次のステップ]]></NextStep>
+			<no_business_msg><![CDATA[登録したビジネスがありません。新しいビジネスを追加してください。]]></no_business_msg>
+			<no_business_yet><![CDATA[登録したビジネスがありません。新しいビジネスを追加してください。]]></no_business_yet>
+			<no_data><![CDATA[情報がありません.....]]></no_data>
+			<no_desc_img><![CDATA[<b>No アップロードされたイメージがありません。</b> イメージをアップロードするためにはアップロードボタンを押してください。]]></no_desc_img>
+			<no_group_for_item><![CDATA[アイテムグループがありません]]></no_group_for_item>
+			<optional><![CDATA[選択事項]]></optional>
+			<payment_cc_exp><![CDATA[Expiration Date]]></payment_cc_exp>
+			<payment_cc_name><![CDATA[Name on Card<br /><span style="margin-right:105px;">First Name</span><span>Last Name</span>]]></payment_cc_name>
+			<payment_cc_num><![CDATA[Card Number]]></payment_cc_num>
+			<payment_h_amount><![CDATA[金額]]></payment_h_amount>
+			<payment_h_card_desc><![CDATA[カード番号]]></payment_h_card_desc>
+			<payment_h_card_type><![CDATA[払い]]></payment_h_card_type>
+			<payment_h_date><![CDATA[日付]]></payment_h_date>
+			<payment_h_history_title><![CDATA[Payment History]]></payment_h_history_title>
+			<payment_h_invoice_number><![CDATA[インボイス番号]]></payment_h_invoice_number>
+			<payment_h_package><![CDATA[自動決済]]></payment_h_package>
+			<payment_h_status><![CDATA[状態]]></payment_h_status>
+			<payment_h_subscirption_title><![CDATA[支払申請]]></payment_h_subscirption_title>
+			<payment_h_subscription><![CDATA[申請]]></payment_h_subscription>
+			<payment_h_type><![CDATA[タイプ]]></payment_h_type>
+			<payment_r_menu_detail><![CDATA[詳細事項]]></payment_r_menu_detail>
+			<Payment_Summary_Will_M><![CDATA[(2014年03月1日から<b class="Payment_Summary_PriceFuture">$30.00が決裁されます。)]]></Payment_Summary_Will_M>
+			<Payment_Summary_Will_Y><![CDATA[(2014年03月1日から<b class="Payment_Summary_PriceFuture">$30.00が決裁されます。)]]></Payment_Summary_Will_Y>
+			<premium_register><![CDATA[有料登録]]></premium_register>
+			<registerNewBusiness><![CDATA[新規ビジネス登録]]></registerNewBusiness>
+			<required_all_field><![CDATA[下欄（*）の内容を記入してください。]]></required_all_field>
+			<required_all_field_bottom><![CDATA[下の車両に<b>品目の名前/説明/価格</b>を記入してください。]]></required_all_field_bottom>
+			<required_business_name><![CDATA[事業体名を記入してください。]]></required_business_name>
+			<required_business_name_bottom><![CDATA[<b>事業体名を</b>記入してください。]]></required_business_name_bottom>
+			<required_business_picture><![CDATA[事業関連の一枚以上の写真を載せてください。]]></required_business_picture>
+			<required_business_picture_bottom><![CDATA[事業関連の一枚<b>以上の写真を載せてください。</b>
+]]></required_business_picture_bottom>
+			<required_business_zip><![CDATA[事業体zipcodeを入力してください。 ]]></required_business_zip>
+			<required_business_zip_bottom><![CDATA[<b>事業体zipcodeを</b>入力してください。]]></required_business_zip_bottom>
+			<required_city><![CDATA[<b>都市名</b>記入が必要したカンヌです。]]></required_city>
+			<required_contact_number><![CDATA[事業体連絡先を記入してください。]]></required_contact_number>
+			<required_contact_number_bottom><![CDATA[事業体<b>連絡先を</b>記入してください。]]></required_contact_number_bottom>
+			<required_delivery_charge><![CDATA[<b>配達サービスが</b>があれば、配達手数料を記入してください。配達手数料がない場合0.00に記入してください ]]></required_delivery_charge>
+			<required_field><![CDATA[必須項目です。]]></required_field>
+			<required_for_delivery><![CDATA[配達サービスを選択して必須項目です。]]></required_for_delivery>
+			<required_group_name><![CDATA[グループ名を記入してください。]]></required_group_name>
+			<required_group_name_bottom><![CDATA[<b>グループ名を</b>記入してください。]]></required_group_name_bottom>
+			<required_least_one_image><![CDATA[店は一枚以上の基本写真が必要です。]]></required_least_one_image>
+			<required_location><![CDATA[位置を確認してください。]]></required_location>
+			<required_location_bottom><![CDATA[Please verify your location
+位置を確認して<b>ください</b>。]]></required_location_bottom>
+			<required_open_day><![CDATA[少なくとも1日は開かれるべきである。]]></required_open_day>
+			<required_open_day_bottom><![CDATA[少なくとも<b>1日は</b>開かれるべきである。]]></required_open_day_bottom>
+			<required_state><![CDATA[<b>州を</b>入力してください。]]></required_state>
+			<required_street><![CDATA[距離の住所を</b>入力してください。]]></required_street>
+			<Saturday><![CDATA[土曜日]]></Saturday>
+			<save><![CDATA[保存]]></save>
+			<save_stay><![CDATA[保存後ページに残る]]></save_stay>
+			<search_by_keyword><![CDATA[キーワードで検索する...]]></search_by_keyword>
+			<seourlDuplicated_err_msg><![CDATA[The SEO URL is being used by different business.]]></seourlDuplicated_err_msg>
+			<Service_01><![CDATA[予約サービス]]></Service_01>
+			<Service_02><![CDATA[お持ち帰りサービス]]></Service_02>
+			<Service_03><![CDATA[配達/配送サービス]]></Service_03>
+			<Service_03_Own><![CDATA[もし、独自の配送サービスがある場合]]></Service_03_Own>
+			<State><![CDATA[州]]></State>
+			<store_img_err_msg><![CDATA[店は一枚以上の基本写真が必要です。]]></store_img_err_msg>
+			<StreetAddress><![CDATA[道路アドレス]]></StreetAddress>
+			<StreetAddress2><![CDATA[追加アドレス]]></StreetAddress2>
+			<StreetAddress2_Desc><![CDATA[マンション/Suite番号]]></StreetAddress2_Desc>
+			<subscription_h_date><![CDATA[作成日]]></subscription_h_date>
+			<subscription_h_gross><![CDATA[全体額]]></subscription_h_gross>
+			<subscription_h_menu><![CDATA[メニュー]]></subscription_h_menu>
+			<subscription_h_name><![CDATA[名前]]></subscription_h_name>
+			<subscription_h_status><![CDATA[状態]]></subscription_h_status>
+			<subscription_h_type><![CDATA[タイプ]]></subscription_h_type>
+			<subscription_r_active><![CDATA[アクティブ]]></subscription_r_active>
+			<subscription_r_deactive><![CDATA[非アクティブ化]]></subscription_r_deactive>
+			<subsc_premium><![CDATA[プレミアム]]></subsc_premium>
+			<Sunday><![CDATA[日曜日]]></Sunday>
+			<tab_01><![CDATA[メイン]]></tab_01>
+			<tab_02><![CDATA[カテゴリー]]></tab_02>
+			<tab_03><![CDATA[アイテム]]></tab_03>
+			<tab_04><![CDATA[Deal]]></tab_04>
+			<tax><![CDATA[税金]]></tax>
+			<tax_desc><![CDATA[税金に付加される金額をパーセント(%)で入力してください.]]></tax_desc>
+			<Thursday><![CDATA[木曜日]]></Thursday>
+			<total><![CDATA[全体額]]></total>
+			<Tuesday><![CDATA[火曜日]]></Tuesday>
+			<validate_address><![CDATA[アドレスを入力してください]]></validate_address>
+			<validate_address_msg><![CDATA[<b>アドレスを</b>入力してください]]></validate_address_msg>
+			<validate_business_name><![CDATA[事業名を入力してください]]></validate_business_name>
+			<validate_business_name_msg><![CDATA[事業名を入力してください]]></validate_business_name_msg>
+			<validate_city><![CDATA[都市を入力してください。]]></validate_city>
+			<validate_city_msg><![CDATA[都市を入力してください。]]></validate_city_msg>
+			<validate_delivery><![CDATA[配達サービスの有無をチェックしてください]]></validate_delivery>
+			<validate_delivery_msg><![CDATA[ <b>配達サービスが</b>があれば、配達手数料を記入してください。配達手数料がない場合0.00に記入してください ]]></validate_delivery_msg>
+			<validate_group_name><![CDATA[グループ名を入力してください.]]></validate_group_name>
+			<validate_group_name_msg><![CDATA[<b>グループ名を</b>入力してください.]]></validate_group_name_msg>
+			<validate_image><![CDATA[事業関連の一枚以上の写真を載せてください。]]></validate_image>
+			<validate_image_msg><![CDATA[事業関連の一枚<b>以上の写真を載せてください]]></validate_image_msg>
+			<validate_item_msg><![CDATA[下の車両に<b>品目の名前/説明/価格</b>を記入してください。]]></validate_item_msg>
+			<validate_location_verify><![CDATA[ビジネスの場所を確認してください。]]></validate_location_verify>
+			<validate_location_verify_msg><![CDATA[ビジネスの場所を確認してください。]]></validate_location_verify_msg>
+			<validate_open_hour><![CDATA[少なくとも1日は開かれるべきである。]]></validate_open_hour>
+			<validate_open_hour_msg><![CDATA[少なくとも1日は開かれるべきである。]]></validate_open_hour_msg>
+			<validate_phone><![CDATA[電話番号を入力してください。]]></validate_phone>
+			<validate_phone_msg><![CDATA[電話番号を入力してください。]]></validate_phone_msg>
+			<validate_required><![CDATA[必須項目です。]]></validate_required>
+			<validate_state><![CDATA[州を入力してください。]]></validate_state>
+			<validate_state_msg><![CDATA[州を入力してください。]]></validate_state_msg>
+			<validate_zipcode><![CDATA[事業体zipcodeを入力してください。 ]]></validate_zipcode>
+			<validate_zipcode_msg><![CDATA[<b>事業体zipcodeを</b>入力してください。 ]]></validate_zipcode_msg>
+			<VerifyAddress><![CDATA[アドレス確認]]></VerifyAddress>
+			<waiting_msg><![CDATA[お待ちください...]]></waiting_msg>
+			<Wednessday><![CDATA[水曜日]]></Wednessday>
+			<YourBusinessAddress><![CDATA[ビジネスの場所]]></YourBusinessAddress>
+			<YourBusinessAddress_Desc><![CDATA[Burugoはロケーションベースのサービスです. 顧客の方々が気楽に探ることができるように、正確なビジネスアドレスを入力してください.このアドレスを通じて、地域ベースのリストサービス、及びリアルタイム計算機能などが提供され、その他多くのサービスが提供されているので、必ずしも正確なアドレスを記載してください。ビジネスアドレスの登録に問題があるか、質問がありましたら Burugoコールセンターに連絡してください.]]></YourBusinessAddress_Desc>
+			<ZipCode><![CDATA[郵便番号(Zip Code) ]]></ZipCode>
+		</jp>
+		<cn>
+			<addBus_AreYouOwner><![CDATA[你是一個企業的老闆或一項服務的人嗎？]]></addBus_AreYouOwner>
+			<addBus_AreYouOwner_D><![CDATA[請選擇下列選項之一。]]></addBus_AreYouOwner_D>
+			<addBus_AreYouOwner_Option1><![CDATA[業主]]></addBus_AreYouOwner_Option1>
+			<addBus_AreYouOwner_Option2><![CDATA[服務人員]]></addBus_AreYouOwner_Option2>
+			<addBus_AreYouOwner_Option3><![CDATA[一個助手]]></addBus_AreYouOwner_Option3>
+			<addBus_AreYouOwner_Option4><![CDATA[朋友]]></addBus_AreYouOwner_Option4>
+			<addBus_Basic_Desc_D_1><![CDATA[你可以增加一張照片業務。]]></addBus_Basic_Desc_D_1>
+			<addBus_Basic_Desc_T_1><![CDATA[添加您的公司圖片]]></addBus_Basic_Desc_T_1>
+			<addBus_BusinessName><![CDATA[公司名稱]]></addBus_BusinessName>
+			<addBus_BusinessName_D><![CDATA[This is your business name. Once you save in this field, you will not be able to change in the future unless you contact our store management department. So please make sure you put the right business name.]]></addBus_BusinessName_D>
+			<addBus_Cat1><![CDATA[選擇1：大類別分類]]></addBus_Cat1>
+			<addBus_Cat1_D><![CDATA[請選擇業務/服務行業要註冊當前所屬的類別。]]></addBus_Cat1_D>
+			<addBus_Cat2><![CDATA[選擇2：小分類類別]]></addBus_Cat2>
+			<addBus_Cat2_D><![CDATA[請選擇一個小的分類類別。]]></addBus_Cat2_D>
+			<addBus_PageTitle><![CDATA[我的业务]]></addBus_PageTitle>
+			<addBus_PaidOrFree><![CDATA[Service Type: Premium or Basic Account]]></addBus_PaidOrFree>
+			<addBus_PaidOrFree_D><![CDATA[Please select a service package for your business]]></addBus_PaidOrFree_D>
+			<addBus_Payment><![CDATA[付款]]></addBus_Payment>
+			<addBus_Payment_D><![CDATA[請輸入認證信息。]]></addBus_Payment_D>
+			<addBus_Premium_Desc_D_1><![CDATA[您最多可以裝入20張到照片業務。]]></addBus_Premium_Desc_D_1>
+			<addBus_Premium_Desc_D_2><![CDATA[請輸入地址和指導。]]></addBus_Premium_Desc_D_2>
+			<addBus_Premium_Desc_D_3><![CDATA[可提供所需的服務訂單，交貨，通過不調用預約服務是沒有程序或網站分別。此外，通過企業網站，你將能夠趨勢分析和訂單統計，營銷策略/分析。]]></addBus_Premium_Desc_D_3>
+			<addBus_Premium_Desc_D_4><![CDATA[這可能是因為客戶確認的時間你的企業能夠進入的營業時間為一周中的每一天。]]></addBus_Premium_Desc_D_4>
+			<addBus_Premium_Desc_D_5><![CDATA[然後你可以把公共關係的照片和材料業務，有一個網站，通過編輯器類似word程序相匹配的最好在你的企業沒有專業知識。]]></addBus_Premium_Desc_D_5>
+			<addBus_Premium_Desc_D_6><![CDATA[付費會員將位於列表的頂部比免費會員。]]></addBus_Premium_Desc_D_6>
+			<addBus_Premium_Desc_T_1><![CDATA[照片商業登記]]></addBus_Premium_Desc_T_1>
+			<addBus_Premium_Desc_T_2><![CDATA[營業地址註冊]]></addBus_Premium_Desc_T_2>
+			<addBus_Premium_Desc_T_3><![CDATA[訂購，送貨上門，預約功能]]></addBus_Premium_Desc_T_3>
+			<addBus_Premium_Desc_T_4><![CDATA[關閉打開的商務/時間]]></addBus_Premium_Desc_T_4>
+			<addBus_Premium_Desc_T_5><![CDATA[業務描述]]></addBus_Premium_Desc_T_5>
+			<addBus_Premium_Desc_T_6><![CDATA[高優先級列表]]></addBus_Premium_Desc_T_6>
+			<addBus_SEOFriendly><![CDATA[企業搜索引擎優化的URL地址]]></addBus_SEOFriendly>
+			<addBus_SEOFriendly_D><![CDATA[例子) <span style="color:#3ea8eb">http://www.burugo.com/food/3341/</span><span id="S_StoreSEOurl_Example">philly-chicken</span><br />Only <b>Alphabet</b>, <b>Number</b>, <b>dash(-)</b>.]]></addBus_SEOFriendly_D>
+			<bMenu><![CDATA[菜单]]></bMenu>
+			<bName><![CDATA[商业名]]></bName>
+			<bStatus><![CDATA[商业现状]]></bStatus>
+			<BusinessPhoneNumber><![CDATA[業務聯繫]]></BusinessPhoneNumber>
+			<BusinessPhoneNumber_Desc><![CDATA[請輸入您的電話號碼的業務為客戶進行聯繫。 (ex : 1-770-123-1234)]]></BusinessPhoneNumber_Desc>
+			<business_deleteFromDesc><![CDATA[刪除]]></business_deleteFromDesc>
+			<business_images><![CDATA[業務描述照片]]></business_images>
+			<business_images_desc><![CDATA[Please upload your store/business related pictures. You can upload up to 20 pictures. ]]></business_images_desc>
+			<business_insertIntoDesc><![CDATA[插入]]></business_insertIntoDesc>
+			<business_longdesc><![CDATA[如果再詳細一點]]></business_longdesc>
+			<business_longdesc_desc><![CDATA[Allowed format: Text.]]></business_longdesc_desc>
+			<business_name><![CDATA[服務名稱或服務註冊的名稱，業務名稱/其他]]></business_name>
+			<business_name_desc><![CDATA[This is your business name field. Changing this field is limited. Please consider carefully.]]></business_name_desc>
+			<business_seofriendly><![CDATA[企業搜索引擎優化的URL地址]]></business_seofriendly>
+			<business_seofriendly_desc><![CDATA[Thiis is going to be your web url of your business. We provide to our customer the best SEO friendly technology to enlarge your business profit.<br />Example) http://www.burugo.com/food/3341/<span style="color:red;">Your URL</span>]]></business_seofriendly_desc>
+			<business_services><![CDATA[服務]]></business_services>
+			<business_services_desc><![CDATA[請選擇要提供給客戶的服務。]]></business_services_desc>
+			<business_shortdesc><![CDATA[Short Description]]></business_shortdesc>
+			<business_shortdesc_desc><![CDATA[Allowed format : Text.]]></business_shortdesc_desc>
+			<business_uploadPic><![CDATA[圖片上傳]]></business_uploadPic>
+			<cart><![CDATA[Cart Summary]]></cart>
+			<Category><![CDATA[类别]]></Category>
+			<Category_Desc><![CDATA[请选择和你的业务相关的列表。如果您的业务和商品列表无关，会对你的业务列表产生限制.]]></Category_Desc>
+			<check_business_category><![CDATA[Please select a category of your business]]></check_business_category>
+			<check_cc_exp><![CDATA[Please select the expiration date of your credit/debit card]]></check_cc_exp>
+			<check_cc_name><![CDATA[Please insert the name of your credit/debit card]]></check_cc_name>
+			<check_cc_num><![CDATA[Please insert your credit/debit card number]]></check_cc_num>
+			<check_option><![CDATA[Please select one of the following options]]></check_option>
+			<check_package><![CDATA[Please select a package]]></check_package>
+			<check_url><![CDATA[Please insert URL of your business]]></check_url>
+			<City><![CDATA[城市]]></City>
+			<click_to_fix><![CDATA[請點擊這裡而改變。]]></click_to_fix>
+			<confirm_delete_business><![CDATA[所有內容將被永久刪除您確定要刪除此業務。]]></confirm_delete_business>
+			<confirm_delete_group><![CDATA[所有內容將被刪除您確定要刪除這個組。]]></confirm_delete_group>
+			<confirm_delete_item><![CDATA[此產品？刪除將刪除此文件。]]></confirm_delete_item>
+			<confirm_delete_picture><![CDATA[您確定要刪除這張照片?]]></confirm_delete_picture>
+			<contact_phone><![CDATA[電話號碼]]></contact_phone>
+			<Country><![CDATA[國家]]></Country>
+			<Country_Desc><![CDATA[Current location of your business.(Currently we only accept businesses in US).]]></Country_Desc>
+			<createNewItem_BTN><![CDATA[新增項目]]></createNewItem_BTN>
+			<delivery_fee><![CDATA[交貨費($) <span>- 如果你想添加遞送服務本身，一旦成本是額外的送貨服務市?</span>]]></delivery_fee>
+			<done><![CDATA[完了]]></done>
+			<error_check_again><![CDATA[<b>We found some error</b> while we were saving your request please check below list.]]></error_check_again>
+			<error_declined><![CDATA[<b>Payment</b> has been declined please check your payment information again and try again]]></error_declined>
+			<error_new_subscription><![CDATA[Error occurred while creating new subscription]]></error_new_subscription>
+			<error_package_not_vaild><![CDATA[<b>Package</b> you have selected is not available please check it again and try again]]></error_package_not_vaild>
+			<error_required><![CDATA[This is a required field]]></error_required>
+			<err_notice><![CDATA[<b>We found some error</b> while we were saving your request please check below list.]]></err_notice>
+			<found_error_please_wait><![CDATA[<b>We found some error</b> while we were saving your request please check below list.]]></found_error_please_wait>
+			<free_register><![CDATA[免費註冊]]></free_register>
+			<Friday><![CDATA[星期五]]></Friday>
+			<goto_fix><![CDATA[修改]]></goto_fix>
+			<INP_tmp_Country><![CDATA[選擇國家]]></INP_tmp_Country>
+			<INP_tmp_SearchBy><![CDATA[按名稱搜索]]></INP_tmp_SearchBy>
+			<INP_tmp_SearchByKeyword><![CDATA[按關鍵字搜索]]></INP_tmp_SearchByKeyword>
+			<INP_tmp_Zip><![CDATA[郵政編碼或城市]]></INP_tmp_Zip>
+			<ItemCol_menu><![CDATA[菜单]]></ItemCol_menu>
+			<ItemCol_name><![CDATA[名字]]></ItemCol_name>
+			<ItemCol_Noitem><![CDATA[目前，在項目組沒有什麼。]]></ItemCol_Noitem>
+			<ItemCol_pic><![CDATA[照片]]></ItemCol_pic>
+			<ItemCol_price><![CDATA[价格]]></ItemCol_price>
+			<ItemCol_sdesc><![CDATA[简单的说明]]></ItemCol_sdesc>
+			<ItemCol_tax><![CDATA[税款]]></ItemCol_tax>
+			<ItemListingStyle><![CDATA[商品 列表 式样]]></ItemListingStyle>
+			<ItemListingStyle_01><![CDATA[商品名子]]></ItemListingStyle_01>
+			<ItemListingStyle_03><![CDATA[商品名 + 照片]]></ItemListingStyle_03>
+			<ItemListingStyle_Desc><![CDATA[请从以下两种商品中选择一种（如果是初次注册，将会显示在我的业务中，如果缺少图片资料，请选择商品样式名称）]]></ItemListingStyle_Desc>
+			<items><![CDATA[商品]]></items>
+			<items_desc><![CDATA[点击商品下方按钮创建列表.]]></items_desc>
+			<items_group_add><![CDATA[Add New Item Group]]></items_group_add>
+			<items_group_fold><![CDATA[收起列表]]></items_group_fold>
+			<items_group_fold_desc><![CDATA[为了避免过多商品使页面过长而引起的不便，你可以点击图标收起群组以便节省空间.]]></items_group_fold_desc>
+			<items_group_name><![CDATA[Item Group Name]]></items_group_name>
+			<items_group_name_desc><![CDATA[为大量商品设立一个或更多群组，以便置顶显示.]]></items_group_name_desc>
+			<items_list><![CDATA[商品列表]]></items_list>
+			<items_list_desc><![CDATA[点击下方按钮增加商品.]]></items_list_desc>
+			<i_think_ready><![CDATA[立即註冊！]]></i_think_ready>
+			<latlongmap_msg><![CDATA[<span>Is this correct location of your store on the map?</span> Otherwise please click on the map and spot to right location if it is little bit different than your location, or please check your address from above fields again.]]></latlongmap_msg>
+			<lat_long_err_msg><![CDATA[Do you want to delete this business?\nAll items and information in this business will be deleted permanently.]]></lat_long_err_msg>
+			<Monday><![CDATA[Monday]]></Monday>
+			<mybusiness><![CDATA[我的业务]]></mybusiness>
+			<mybusinessList><![CDATA[我的业务列表]]></mybusinessList>
+			<need_at_least_oneItem><![CDATA[At least one item in a group is required, please click "Create New Item" button to add an item in the group.]]></need_at_least_oneItem>
+			<NextStep><![CDATA[下一步]]></NextStep>
+			<no_business_msg><![CDATA[沒有您已註冊業務。請添加新的業務。]]></no_business_msg>
+			<no_business_yet><![CDATA[沒有您已註冊業務。請添加新的業務。]]></no_business_yet>
+			<no_data><![CDATA[沒有信息.....]]></no_data>
+			<no_desc_img><![CDATA[<b>沒有圖片上傳過.</b> 如果你要插入的圖像，請使用上傳圖片按鈕。]]></no_desc_img>
+			<no_group_for_item><![CDATA[有沒有在這個組沒有任何產品]]></no_group_for_item>
+			<optional><![CDATA[選擇的事]]></optional>
+			<payment_cc_exp><![CDATA[Expiration Date]]></payment_cc_exp>
+			<payment_cc_name><![CDATA[Name on Card<br /><span style="margin-right:105px;">First Name</span><span>Last Name</span>]]></payment_cc_name>
+			<payment_cc_num><![CDATA[Card Number]]></payment_cc_num>
+			<payment_h_amount><![CDATA[金額]]></payment_h_amount>
+			<payment_h_card_desc><![CDATA[卡號]]></payment_h_card_desc>
+			<payment_h_card_type><![CDATA[付款]]></payment_h_card_type>
+			<payment_h_date><![CDATA[日期]]></payment_h_date>
+			<payment_h_history_title><![CDATA[付款記錄]]></payment_h_history_title>
+			<payment_h_invoice_number><![CDATA[發票號碼]]></payment_h_invoice_number>
+			<payment_h_package><![CDATA[自動付款]]></payment_h_package>
+			<payment_h_status><![CDATA[狀態]]></payment_h_status>
+			<payment_h_subscirption_title><![CDATA[支付認購]]></payment_h_subscirption_title>
+			<payment_h_subscription><![CDATA[訂閱]]></payment_h_subscription>
+			<payment_h_type><![CDATA[類型]]></payment_h_type>
+			<payment_r_menu_detail><![CDATA[詳細信息]]></payment_r_menu_detail>
+			<Payment_Summary_Will_M><![CDATA[(30.00美元將是從 <b class="Payment_Summary_PriceFuture">2014年3月1日批准）]]></Payment_Summary_Will_M>
+			<Payment_Summary_Will_Y><![CDATA[(30.00美元將是從 <b class="Payment_Summary_PriceFuture">2014年3月1日批准）]]></Payment_Summary_Will_Y>
+			<premium_register><![CDATA[歐元註冊]]></premium_register>
+			<registerNewBusiness><![CDATA[註冊新業務]]></registerNewBusiness>
+			<required_all_field><![CDATA[在汗（*）請填寫在細節。]]></required_all_field>
+			<required_all_field_bottom><![CDATA[Please fill up <b>Item Name/Description/Price</b> completely.]]></required_all_field_bottom>
+			<required_business_name><![CDATA[企業名稱是必需的。]]></required_business_name>
+			<required_business_name_bottom><![CDATA[<b>企業名</b>稱是必需的。]]></required_business_name_bottom>
+			<required_business_picture><![CDATA[請上傳您的企業中至少有一張照片。]]></required_business_picture>
+			<required_business_picture_bottom><![CDATA[請上傳您的<b>企業中至少有一張照片。</b>]]></required_business_picture_bottom>
+			<required_business_zip><![CDATA[業務拉鍊碼是必需的。]]></required_business_zip>
+			<required_business_zip_bottom><![CDATA[<b>業務拉鍊碼是必需的。]]></required_business_zip_bottom>
+			<required_city><![CDATA[<b>城市</b>是必填字段。]]></required_city>
+			<required_contact_number><![CDATA[您的業務聯繫號碼是必需的。]]></required_contact_number>
+			<required_contact_number_bottom><![CDATA[您的業務<b>聯繫號</b>碼是必需的。]]></required_contact_number_bottom>
+			<required_delivery_charge><![CDATA[如果您有<b>送貨服務</b>，請指定交貨費。如果你想向它提供免費，請插入與0.00]]></required_delivery_charge>
+			<required_field><![CDATA[這是必填字段。]]></required_field>
+			<required_for_delivery><![CDATA[欄目均為必填項選擇送貨服務。]]></required_for_delivery>
+			<required_group_name><![CDATA[群組名稱是必需的。]]></required_group_name>
+			<required_group_name_bottom><![CDATA[<b>群組名稱</b>是必需的。]]></required_group_name_bottom>
+			<required_least_one_image><![CDATA[店需要的一個或多個表基本的照片。]]></required_least_one_image>
+			<required_location><![CDATA[請檢查位置。]]></required_location>
+			<required_location_bottom><![CDATA[請檢查位置。]]></required_location_bottom>
+			<required_open_day><![CDATA[一天至少應該打開。]]></required_open_day>
+			<required_open_day_bottom><![CDATA[一天至少應該打開。]]></required_open_day_bottom>
+			<required_state><![CDATA[<b>States</b> is required field.]]></required_state>
+			<required_street><![CDATA[<b>請輸入距離的地址。]]></required_street>
+			<Saturday><![CDATA[星期六]]></Saturday>
+			<save><![CDATA[保存]]></save>
+			<save_stay><![CDATA[保存更改並留]]></save_stay>
+			<search_by_keyword><![CDATA[按關鍵字搜索...]]></search_by_keyword>
+			<seourlDuplicated_err_msg><![CDATA[The SEO URL is being used by different business.]]></seourlDuplicated_err_msg>
+			<Service_01><![CDATA[預約]]></Service_01>
+			<Service_02><![CDATA[To Go / 提貨]]></Service_02>
+			<Service_03><![CDATA[交貨]]></Service_03>
+			<Service_03_Own><![CDATA[是的，我有我自己的送貨服務]]></Service_03_Own>
+			<State><![CDATA[州]]></State>
+			<store_img_err_msg><![CDATA[店需要的一個或多個表基本的照片。]]></store_img_err_msg>
+			<StreetAddress><![CDATA[街道地址]]></StreetAddress>
+			<StreetAddress2><![CDATA[其他地址]]></StreetAddress2>
+			<StreetAddress2_Desc><![CDATA[APT，套房數量]]></StreetAddress2_Desc>
+			<subscription_h_date><![CDATA[創建日期]]></subscription_h_date>
+			<subscription_h_gross><![CDATA[全部金額]]></subscription_h_gross>
+			<subscription_h_menu><![CDATA[菜單]]></subscription_h_menu>
+			<subscription_h_name><![CDATA[名稱]]></subscription_h_name>
+			<subscription_h_status><![CDATA[態]]></subscription_h_status>
+			<subscription_h_type><![CDATA[類型]]></subscription_h_type>
+			<subscription_r_active><![CDATA[激活]]></subscription_r_active>
+			<subscription_r_deactive><![CDATA[活躍]]></subscription_r_deactive>
+			<subsc_premium><![CDATA[Premium]]></subsc_premium>
+			<Sunday><![CDATA[星期天]]></Sunday>
+			<tab_01><![CDATA[General]]></tab_01>
+			<tab_02><![CDATA[类别]]></tab_02>
+			<tab_03><![CDATA[商品]]></tab_03>
+			<tab_04><![CDATA[Deal]]></tab_04>
+			<tax><![CDATA[稅]]></tax>
+			<tax_desc><![CDATA[请按照百分比输入税率.]]></tax_desc>
+			<Thursday><![CDATA[星期四]]></Thursday>
+			<total><![CDATA[全部金額]]></total>
+			<Tuesday><![CDATA[星期二]]></Tuesday>
+			<validate_address><![CDATA[請輸入地址]]></validate_address>
+			<validate_address_msg><![CDATA[請輸入地址]]></validate_address_msg>
+			<validate_business_name><![CDATA[請輸入您的企業名稱]]></validate_business_name>
+			<validate_business_name_msg><![CDATA[請輸入您的企業名稱]]></validate_business_name_msg>
+			<validate_city><![CDATA[請輸入城市。]]></validate_city>
+			<validate_city_msg><![CDATA[請輸入城市。]]></validate_city_msg>
+			<validate_delivery><![CDATA[請檢查送貨服務的存在或不存在.]]></validate_delivery>
+			<validate_delivery_msg><![CDATA[如果您有<b>送貨服務</b>，請指定交貨費。如果你想向它提供免費，請插入與0.00 ]]></validate_delivery_msg>
+			<validate_group_name><![CDATA[請輸入組的名稱。]]></validate_group_name>
+			<validate_group_name_msg><![CDATA[請輸入組的名稱。]]></validate_group_name_msg>
+			<validate_image><![CDATA[請上傳您的<b>企業中至少有一張照片。]]></validate_image>
+			<validate_image_msg><![CDATA[請上傳您的<b>企業中至少有一張照片。]]></validate_image_msg>
+			<validate_item_msg><![CDATA[Please fill in <b>Item Name/Description/Price</b> completely.]]></validate_item_msg>
+			<validate_location_verify><![CDATA[請檢查您的企業的位置。]]></validate_location_verify>
+			<validate_location_verify_msg><![CDATA[請檢查您的企業的位置。]]></validate_location_verify_msg>
+			<validate_open_hour><![CDATA[一天至少應該打開。]]></validate_open_hour>
+			<validate_open_hour_msg><![CDATA[一天至少應該打開。]]></validate_open_hour_msg>
+			<validate_phone><![CDATA[請輸入電話號碼。]]></validate_phone>
+			<validate_phone_msg><![CDATA[請輸入電話號碼。]]></validate_phone_msg>
+			<validate_required><![CDATA[這是必填字段。]]></validate_required>
+			<validate_state><![CDATA[States is required field.]]></validate_state>
+			<validate_state_msg><![CDATA[<b>States</b> is a required field.]]></validate_state_msg>
+			<validate_zipcode><![CDATA[業務拉鍊碼是必需的。]]></validate_zipcode>
+			<validate_zipcode_msg><![CDATA[<b>業務拉鍊碼是必需的。</b> ]]></validate_zipcode_msg>
+			<VerifyAddress><![CDATA[地址驗證]]></VerifyAddress>
+			<waiting_msg><![CDATA[請稍候...]]></waiting_msg>
+			<Wednessday><![CDATA[星期三]]></Wednessday>
+			<YourBusinessAddress><![CDATA[業務地點]]></YourBusinessAddress>
+			<YourBusinessAddress_Desc><![CDATA[Burugo provides location based service. So that customer can use service around their current location conveniently. So please provide us the correct address of your business. If you have any problem while setting up your address please don't hesitate to contact us.]]></YourBusinessAddress_Desc>
+			<ZipCode><![CDATA[郵編]]></ZipCode>
+		</cn>
+	</ceo_mystore>
+</Lang>

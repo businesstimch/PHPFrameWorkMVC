@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<stores>
+	<store>
+		<id>1</id>
+		<domain>janilink.com</domain>
+	</store>
+	<store>
+		<id>2</id>
+		<domain>test.com</domain>
+	</store>
+</stores>

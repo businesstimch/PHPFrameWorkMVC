@@ -1,0 +1,149 @@
+<Lang>
+	<tree_left_menu>
+		<en>
+			<edit_profile><![CDATA[Edit Profile]]></edit_profile>
+			<menu_1><![CDATA[Pre-kindergarten]]></menu_1>
+			<menu_10><![CDATA[7 Grade]]></menu_10>
+			<menu_11><![CDATA[8 Grade]]></menu_11>
+			<menu_12><![CDATA[9 Grade]]></menu_12>
+			<menu_13><![CDATA[9 Grade]]></menu_13>
+			<menu_14><![CDATA[10 Grade]]></menu_14>
+			<menu_15><![CDATA[11 Grade]]></menu_15>
+			<menu_16><![CDATA[12 Grade]]></menu_16>
+			<menu_17><![CDATA[Foreign languages]]></menu_17>
+			<menu_18><![CDATA[Professional Licenses/<br />Certificates]]></menu_18>
+			<menu_19><![CDATA[Professional Studies/<br />Degrees]]></menu_19>
+			<menu_2><![CDATA[Pre-kindergarten]]></menu_2>
+			<menu_3><![CDATA[Kindergarten]]></menu_3>
+			<menu_4><![CDATA[1 Grade]]></menu_4>
+			<menu_5><![CDATA[2 Grade]]></menu_5>
+			<menu_6><![CDATA[3 Grade]]></menu_6>
+			<menu_7><![CDATA[4 Grade]]></menu_7>
+			<menu_8><![CDATA[5 Grade]]></menu_8>
+			<menu_9><![CDATA[6 Grade]]></menu_9>
+			<menu_capt_1><![CDATA[Primary]]></menu_capt_1>
+			<menu_capt_2><![CDATA[Elementary School]]></menu_capt_2>
+			<menu_capt_3><![CDATA[Middle School]]></menu_capt_3>
+			<menu_capt_4><![CDATA[High School]]></menu_capt_4>
+			<menu_font><![CDATA[Verdana]]></menu_font>
+			<my_page><![CDATA[MY PAGES]]></my_page>
+			<order_status><![CDATA[Order Status]]></order_status>
+		</en>
+		<es>
+			<edit_profile><![CDATA[Editar Perfil]]></edit_profile>
+			<menu_1><![CDATA[Pre-kindergarten]]></menu_1>
+			<menu_10><![CDATA[Seventh Grade]]></menu_10>
+			<menu_11><![CDATA[Eight grade]]></menu_11>
+			<menu_12><![CDATA[Ninth grade]]></menu_12>
+			<menu_13><![CDATA[Ninth grade]]></menu_13>
+			<menu_14><![CDATA[Tenth grade]]></menu_14>
+			<menu_15><![CDATA[Eleventh grade]]></menu_15>
+			<menu_16><![CDATA[Twelfth grade]]></menu_16>
+			<menu_17><![CDATA[Foreign languages]]></menu_17>
+			<menu_18><![CDATA[Professional Licenses/<br />Certificates]]></menu_18>
+			<menu_19><![CDATA[Professional Studies/<br />Degrees]]></menu_19>
+			<menu_2><![CDATA[Pre-kindergarten]]></menu_2>
+			<menu_3><![CDATA[Kindergarten]]></menu_3>
+			<menu_4><![CDATA[First Grade]]></menu_4>
+			<menu_5><![CDATA[Second Grade]]></menu_5>
+			<menu_6><![CDATA[Third Grade]]></menu_6>
+			<menu_7><![CDATA[Fourth Grade]]></menu_7>
+			<menu_8><![CDATA[Fifth Grade]]></menu_8>
+			<menu_9><![CDATA[Sixth Grade]]></menu_9>
+			<menu_capt_1><![CDATA[Primary]]></menu_capt_1>
+			<menu_capt_2><![CDATA[Elementary School]]></menu_capt_2>
+			<menu_capt_3><![CDATA[Middle School]]></menu_capt_3>
+			<menu_capt_4><![CDATA[High School]]></menu_capt_4>
+			<menu_font><![CDATA[Verdana]]></menu_font>
+			<my_page><![CDATA[Mi página]]></my_page>
+			<order_status><![CDATA[Mis pedidos]]></order_status>
+		</es>
+		<ko>
+			<edit_profile><![CDATA[프로필 수정]]></edit_profile>
+			<menu_1><![CDATA[Pre-kindergarten]]></menu_1>
+			<menu_10><![CDATA[7학년]]></menu_10>
+			<menu_11><![CDATA[8학년]]></menu_11>
+			<menu_12><![CDATA[9학년]]></menu_12>
+			<menu_13><![CDATA[9학년]]></menu_13>
+			<menu_14><![CDATA[10학년]]></menu_14>
+			<menu_15><![CDATA[11학년]]></menu_15>
+			<menu_16><![CDATA[12학년]]></menu_16>
+			<menu_17><![CDATA[외국어]]></menu_17>
+			<menu_18><![CDATA[Professional Licenses/<br />Certificates]]></menu_18>
+			<menu_19><![CDATA[Professional Studies/<br />Degrees]]></menu_19>
+			<menu_2><![CDATA[Pre-kindergarten]]></menu_2>
+			<menu_3><![CDATA[유치원]]></menu_3>
+			<menu_4><![CDATA[1학년]]></menu_4>
+			<menu_5><![CDATA[2학년]]></menu_5>
+			<menu_6><![CDATA[3학년]]></menu_6>
+			<menu_7><![CDATA[4학년]]></menu_7>
+			<menu_8><![CDATA[5학년]]></menu_8>
+			<menu_9><![CDATA[6학년]]></menu_9>
+			<menu_capt_1><![CDATA[Primary]]></menu_capt_1>
+			<menu_capt_2><![CDATA[초등학교]]></menu_capt_2>
+			<menu_capt_3><![CDATA[중학교]]></menu_capt_3>
+			<menu_capt_4><![CDATA[고등학교]]></menu_capt_4>
+			<menu_font><![CDATA[Verdana]]></menu_font>
+			<my_page><![CDATA[마이페이지]]></my_page>
+			<order_status><![CDATA[주문내역]]></order_status>
+		</ko>
+		<jp>
+			<edit_profile><![CDATA[プロフィール修正]]></edit_profile>
+			<menu_1><![CDATA[Pre-kindergarten]]></menu_1>
+			<menu_10><![CDATA[７年生]]></menu_10>
+			<menu_11><![CDATA[８年生]]></menu_11>
+			<menu_12><![CDATA[９年生]]></menu_12>
+			<menu_13><![CDATA[９年生]]></menu_13>
+			<menu_14><![CDATA[10年生]]></menu_14>
+			<menu_15><![CDATA[１１年生]]></menu_15>
+			<menu_16><![CDATA[１２年生]]></menu_16>
+			<menu_17><![CDATA[外国語]]></menu_17>
+			<menu_18><![CDATA[プロライセンス/<br />証明書]]></menu_18>
+			<menu_19><![CDATA[Professional Studies/<br />Degrees]]></menu_19>
+			<menu_2><![CDATA[Pre-kindergarten]]></menu_2>
+			<menu_3><![CDATA[幼稚園]]></menu_3>
+			<menu_4><![CDATA[１年生]]></menu_4>
+			<menu_5><![CDATA[２年生]]></menu_5>
+			<menu_6><![CDATA[３年生]]></menu_6>
+			<menu_7><![CDATA[４年生]]></menu_7>
+			<menu_8><![CDATA[５年生]]></menu_8>
+			<menu_9><![CDATA[６年生]]></menu_9>
+			<menu_capt_1><![CDATA[Primary]]></menu_capt_1>
+			<menu_capt_2><![CDATA[小学校]]></menu_capt_2>
+			<menu_capt_3><![CDATA[中学校]]></menu_capt_3>
+			<menu_capt_4><![CDATA[高校]]></menu_capt_4>
+			<menu_font><![CDATA[Verdana]]></menu_font>
+			<my_page><![CDATA[マイページ]]></my_page>
+			<order_status><![CDATA[注文内訳]]></order_status>
+		</jp>
+		<cn>
+			<edit_profile><![CDATA[编辑个人简介]]></edit_profile>
+			<menu_1><![CDATA[Pre-kindergarten]]></menu_1>
+			<menu_10><![CDATA[Seventh Grade]]></menu_10>
+			<menu_11><![CDATA[Eight grade]]></menu_11>
+			<menu_12><![CDATA[Ninth grade]]></menu_12>
+			<menu_13><![CDATA[Ninth grade]]></menu_13>
+			<menu_14><![CDATA[Tenth grade]]></menu_14>
+			<menu_15><![CDATA[Eleventh grade]]></menu_15>
+			<menu_16><![CDATA[Twelfth grade]]></menu_16>
+			<menu_17><![CDATA[Foreign languages]]></menu_17>
+			<menu_18><![CDATA[Professional Licenses/<br />Certificates]]></menu_18>
+			<menu_19><![CDATA[Professional Studies/<br />Degrees]]></menu_19>
+			<menu_2><![CDATA[Pre-kindergarten]]></menu_2>
+			<menu_3><![CDATA[Kindergarten]]></menu_3>
+			<menu_4><![CDATA[First Grade]]></menu_4>
+			<menu_5><![CDATA[Second Grade]]></menu_5>
+			<menu_6><![CDATA[Third Grade]]></menu_6>
+			<menu_7><![CDATA[Fourth Grade]]></menu_7>
+			<menu_8><![CDATA[Fifth Grade]]></menu_8>
+			<menu_9><![CDATA[Sixth Grade]]></menu_9>
+			<menu_capt_1><![CDATA[Primary]]></menu_capt_1>
+			<menu_capt_2><![CDATA[Elementary School]]></menu_capt_2>
+			<menu_capt_3><![CDATA[Middle School]]></menu_capt_3>
+			<menu_capt_4><![CDATA[High School]]></menu_capt_4>
+			<menu_font><![CDATA[Verdana]]></menu_font>
+			<my_page><![CDATA[我的主页]]></my_page>
+			<order_status><![CDATA[采购订单]]></order_status>
+		</cn>
+	</tree_left_menu>
+</Lang>

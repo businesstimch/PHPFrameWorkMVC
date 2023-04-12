@@ -1,0 +1,49 @@
+<Lang>
+	<footer_menu>
+		<en>
+			<contactUs><![CDATA[Contact us]]></contactUs>
+			<copyright><![CDATA[&copy; 2014 Burugo.com All rights reserved.]]></copyright>
+			<home><![CDATA[Home]]></home>
+			<login><![CDATA[Log In]]></login>
+			<logout><![CDATA[Logout]]></logout>
+			<merchantHome><![CDATA[Merchant Home]]></merchantHome>
+			<myAcc><![CDATA[My Account]]></myAcc>
+		</en>
+		<es>
+			<contactUs><![CDATA[Contact us]]></contactUs>
+			<copyright><![CDATA[&copy; 2014 Burugo.com All rights reserved.]]></copyright>
+			<home><![CDATA[Home]]></home>
+			<login><![CDATA[Iniciar la Sesión]]></login>
+			<logout><![CDATA[Finalizar la Sesión]]></logout>
+			<merchantHome><![CDATA[Merchant Home]]></merchantHome>
+			<myAcc><![CDATA[Mi Cuenta]]></myAcc>
+		</es>
+		<ko>
+			<contactUs><![CDATA[연락 주세요]]></contactUs>
+			<copyright><![CDATA[&copy; 2014 Burugo.com All rights reserved.]]></copyright>
+			<home><![CDATA[홈 바로가기]]></home>
+			<login><![CDATA[로그인]]></login>
+			<logout><![CDATA[로그 아웃]]></logout>
+			<merchantHome><![CDATA[비지니스 페이지]]></merchantHome>
+			<myAcc><![CDATA[내계정]]></myAcc>
+		</ko>
+		<jp>
+			<contactUs><![CDATA[お問い合わせ]]></contactUs>
+			<copyright><![CDATA[&copy; 2014 Burugo.com All rights reserved.]]></copyright>
+			<home><![CDATA[ホームショートカット]]></home>
+			<login><![CDATA[ログイン]]></login>
+			<logout><![CDATA[ログアウト]]></logout>
+			<merchantHome><![CDATA[ビジネスページ]]></merchantHome>
+			<myAcc><![CDATA[マイアカウント]]></myAcc>
+		</jp>
+		<cn>
+			<contactUs><![CDATA[Contact us]]></contactUs>
+			<copyright><![CDATA[&copy; 2014 Burugo.com All rights reserved.]]></copyright>
+			<home><![CDATA[Home]]></home>
+			<login><![CDATA[登录]]></login>
+			<logout><![CDATA[退出]]></logout>
+			<merchantHome><![CDATA[Merchant Home]]></merchantHome>
+			<myAcc><![CDATA[My Account]]></myAcc>
+		</cn>
+	</footer_menu>
+</Lang>

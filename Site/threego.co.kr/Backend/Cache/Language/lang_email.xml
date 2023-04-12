@@ -1,0 +1,76 @@
+<Lang>
+	<email>
+		<en>
+			<contacus_title><![CDATA[Customer Asked about]]></contacus_title>
+			<register_auth_click><![CDATA[If the button does not work,<br />please click below link to complete authentication.<br />
+]]></register_auth_click>
+			<register_auth_desc><![CDATA[Click Here To Authenticate
+]]></register_auth_desc>
+			<topic_0><![CDATA[a general question
+]]></topic_0>
+			<topic_1><![CDATA[I have a problem with my account
+]]></topic_1>
+			<topic_2><![CDATA[I have a problem with my order
+]]></topic_2>
+			<topic_3><![CDATA[I have a suggestion for burugo
+]]></topic_3>
+		</en>
+		<es>
+			<contacus_title><![CDATA[Customer Asked about]]></contacus_title>
+			<register_auth_click><![CDATA[If the button does not work,<br />please click below link to complete authentication.<br />
+]]></register_auth_click>
+			<register_auth_desc><![CDATA[Click Here To Authenticate
+]]></register_auth_desc>
+			<topic_0><![CDATA[a general question
+
+]]></topic_0>
+			<topic_1><![CDATA[I have a problem with my account
+]]></topic_1>
+			<topic_2><![CDATA[I have a problem with my order
+]]></topic_2>
+			<topic_3><![CDATA[I have a suggestion for burugo
+]]></topic_3>
+		</es>
+		<ko>
+			<contacus_title><![CDATA[질문]]></contacus_title>
+			<register_auth_click><![CDATA[버튼이 눌러지지 않는 경우,<br />승인을 위해 아래 링크를 선택해주세요<br />
+]]></register_auth_click>
+			<register_auth_desc><![CDATA[승인을 위해 클릭해주세요]]></register_auth_desc>
+			<topic_0><![CDATA[일반질문사항]]></topic_0>
+			<topic_1><![CDATA[계정 문제]]></topic_1>
+			<topic_2><![CDATA[주문 문제]]></topic_2>
+			<topic_3><![CDATA[부르고 개선사항]]></topic_3>
+		</ko>
+		<jp>
+			<contacus_title><![CDATA[Customer Asked about]]></contacus_title>
+			<register_auth_click><![CDATA[If the button does not work,<br />please click below link to complete authentication.<br />
+]]></register_auth_click>
+			<register_auth_desc><![CDATA[Click Here To Authenticate
+]]></register_auth_desc>
+			<topic_0><![CDATA[a general question
+
+]]></topic_0>
+			<topic_1><![CDATA[I have a problem with my account]]></topic_1>
+			<topic_2><![CDATA[I have a problem with my order
+]]></topic_2>
+			<topic_3><![CDATA[I have a suggestion for burugo
+]]></topic_3>
+		</jp>
+		<cn>
+			<contacus_title><![CDATA[Customer Asked about]]></contacus_title>
+			<register_auth_click><![CDATA[If the button does not work,<br />please click below link to complete authentication.<br />
+]]></register_auth_click>
+			<register_auth_desc><![CDATA[Click Here To Authenticate
+]]></register_auth_desc>
+			<topic_0><![CDATA[a general question
+
+]]></topic_0>
+			<topic_1><![CDATA[I have a problem with my account
+]]></topic_1>
+			<topic_2><![CDATA[I have a problem with my order
+]]></topic_2>
+			<topic_3><![CDATA[I have a suggestion for burugo
+]]></topic_3>
+		</cn>
+	</email>
+</Lang>

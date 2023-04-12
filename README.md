@@ -24,9 +24,9 @@ This is a PHP framework built on the Model-View-Controller (MVC) architectural p
 - Run the database migration tool to create the necessary tables for each website.
 
 ## Getting Started
-- Create your controllers in the Site/your_domain_name/Frontend/App/Controller directory of each website. (Controller/Model folder will be moved in Backend folder in the future)
-- Define your models in the Site/your_domain_name/Frontend/App/Model directory of each website.
-- Create your views in the Site/your_domain_name/Frontend/App/View directory of each website.
+- Create your controllers in the `Site/your_domain_name/Frontend/App/Controller` directory of each website. (Controller/Model folder will be moved in Backend folder in the future)
+- Define your models in the `Site/your_domain_name/Frontend/App/Model` directory of each website.
+- Create your views in the `Site/your_domain_name/Frontend/App/View` directory of each website.
 - Use the built-in helper functions to generate URLs, load views, and access the database.
 
 ## Contributing
